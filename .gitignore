@@ -2,3 +2,4 @@
 test.go
 __debug_*
 node_modules
+webapp/public/assets/cards/
