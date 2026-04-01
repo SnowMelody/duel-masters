@@ -1,0 +1,13 @@
+# Air configuration for Duel Masters app
+root = "."
+tmp_dir = "tmp"
+
+[build]
+cmd = "go build -o ./tmp/main.exe cmd/duel-masters/main.go"
+bin = "tmp/main.exe"
+include_ext = ["go", "env"]
+exclude_dir = ["webapp", "node_modules"]
+delay = 1000 # milliseconds
+
+[log]
+time = true

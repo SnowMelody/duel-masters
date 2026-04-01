@@ -10,8 +10,12 @@
           'left': previewCardLeft + 'px',
         }" 
       >
-        <img
+        <!-- <img
           :src="`https://scans.shobu.io/${previewCard.uid}.jpg`"
+          alt="Full card"
+        /> -->
+        <img
+          :src="`/assets/cards/${previewCard.uid}.jpg`"
           alt="Full card"
         />
       </div>
@@ -127,10 +131,16 @@
               :style="{ 'height': cardSize + 'px' }"
               @click="tryAddCard(card)"
               >
-              <v-lazy-image
+              <!-- <v-lazy-image
                 class="max-w-full rounded-2xl"
                 :src="`https://scans.shobu.io/${card.uid}.jpg`"
                 src-placeholder="https://scans.shobu.io/backside.jpg"
+                :alt="card.name"
+              /> -->
+              <v-lazy-image
+                class="max-w-full rounded-2xl"
+                :src="`/assets/cards/${card.uid}.jpg`"
+                src-placeholder="/assets/cards/backside.jpg"
                 :alt="card.name"
               />
             </div>
