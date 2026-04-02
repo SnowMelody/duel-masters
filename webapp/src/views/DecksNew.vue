@@ -95,32 +95,63 @@
 
     <div class="main">
       <!-- Deck builder area -->
-      <div class="deck-panel">
-        <template
+      <div 
+        class="deck-panel"
+        @dragover.prevent
+        @drop="onDrop"
+        :class="{ 'drag-over': dragOver }"
+      >
+        <div
           v-for="(card, index) in getCardsForDeck(selectedDeck.cards)"
           :key="index"
+          class="deck-card-slot"
+          draggable="true"
+          @dragstart="onBuilderDragStart(index)"
+          @dragover.prevent="onBuilderDragOver(index)"
+          @dragenter.prevent
+          @drop="onBuilderDrop(index)"
+          :class="{ 'dragging': index === draggedCardIndex }"
+          @mouseleave="previewCard = null"
         >
           <div
-            v-for="i in card.count"
-            :key="card.uid + '-' + i"
-            class="deck-card-slot"
-            
-            @mouseleave="previewCard = null"
+            class="deck-card-oval"
+            :class="'card-' + card.civilization.toLowerCase()"
+            @click="tryRemoveCard(card)"
+          >
+            <v-lazy-image
+              :src="`/assets/cards/${card.uid}.jpg`"
+              src-placeholder="/assets/cards/backside.jpg"
+              :alt="card.name"
+            />
+          </div>
+        </div>
+      </div>
+
+        <!--
+          <template
+            v-for="(card, index) in getCardsForDeck(selectedDeck.cards)"
+            :key="index"
           >
             <div
-              class="deck-card-oval"
-              :class="'card-' + card.civilization.toLowerCase()"
-              @click="tryRemoveCard(card)"
+              v-for="i in card.count"
+              :key="card.uid + '-' + i"
+              class="deck-card-slot"
+              @mouseleave="previewCard = null"
             >
-              <v-lazy-image
-                :src="`/assets/cards/${card.uid}.jpg`"
-                src-placeholder="/assets/cards/backside.jpg"
-                :alt="card.name"
-              />
+              <div
+                class="deck-card-oval"
+                :class="'card-' + card.civilization.toLowerCase()"
+                @click="tryRemoveCard(card)"
+              >
+                <v-lazy-image
+                  :src="`/assets/cards/${card.uid}.jpg`"
+                  src-placeholder="/assets/cards/backside.jpg"
+                  :alt="card.name"
+                />
+              </div>
             </div>
-          </div>
-        </template>
-      </div>
+          </template>
+    -->
 
       <!-- Card catalogue area -->
       <div class="catalogue-cards-wrapper">
@@ -130,6 +161,8 @@
             :key="card.uid"
             class="catalogue-card"
             @click="tryAddCard(card)"
+            draggable="true"
+            @dragstart="onDragStart(card)"
             @mouseover="showPreview(card, $event)"
             @mouseleave="hidePreview"
           >
@@ -246,6 +279,13 @@ export default {
       previewCardHeight: 560,
 
       cardSize: 360,
+
+      draggedCard: null,
+      dragOver: false,
+
+      customOrderEnabled: false,
+      draggedCardIndex: null,
+      dragOverIndex: null,
     };
   },
 
@@ -303,6 +343,7 @@ export default {
       this.filterCard = "";
     },
 
+    /*
     getCardsForDeck(cardUids) {
       let cards = [];
 
@@ -321,7 +362,7 @@ export default {
           cards.push(card);
         }
       }
-
+      
       cards.sort((c1, c2) =>
         compareCards(c1, c2, {
           by: "manaCost",
@@ -331,15 +372,30 @@ export default {
 
       return cards;
     },
+    */
+
+    getCardsForDeck(cardUids) {
+      if (!this.selectedDeck) return [];
+
+      let cards = [];
+
+      for (let uid of cardUids) {
+        let card = this.cards.find(x => x.uid === uid);
+        if (!card) continue;
+
+        cards.push({ ...card });
+      }
+
+      return cards;
+    },
 
     tryAddCard(card) {
-      if (
-        this.selectedDeck.cards.filter((x) => x == card.uid).length >= 4
-      ) {
-        if (!permissions().includes("admin")) {
-          playSound("/assets/sounds/card-limit.wav");
-          return;
-        }
+      const checkMaxDeckSize = this.selectedDeck.cards.length >= 40;
+      const checkMaxCopies = this.selectedDeck.cards.filter((x) => x == card.uid).length >= 4;
+
+      if (checkMaxDeckSize || checkMaxCopies) {
+        playSound("/assets/sounds/card-limit.wav");
+        return;
       }
 
       this.selectedDeck.cards.push(card.uid);
@@ -361,6 +417,44 @@ export default {
       ) {
         this.previewCard = null;
       }
+    },
+
+
+    onBuilderDragStart(index) {
+      this.draggedCardIndex = index;
+    },
+
+    onBuilderDragOver(index) {
+      this.dragOverIndex = index;
+    },
+
+    onBuilderDrop(index) {
+      if (this.draggedCardIndex === null || this.dragOverIndex === null) return;
+
+      const cards = this.selectedDeck.cards;
+      const draggedCard = cards[this.draggedCardIndex];
+
+      // Remove dragged card
+      cards.splice(this.draggedCardIndex, 1);
+
+      // Insert at new position
+      cards.splice(this.dragOverIndex, 0, draggedCard);
+
+      // Reset drag state
+      this.draggedCardIndex = null;
+      this.dragOverIndex = null;
+    },
+
+
+    onDragStart(card) {
+      this.draggedCard = card;
+    },
+
+    onDrop() {
+      if (!this.draggedCard) return;
+
+      this.tryAddCard(this.draggedCard);
+      this.draggedCard = null;
     },
 
     modifyCatalogueCardSize(addition) {
@@ -663,6 +757,13 @@ Total Cards: ${this.selectedDeck.cards.length}`;
   column-gap: 3px;
   row-gap: 0px;
   margin: 0 auto;
+}
+
+.deck-card-slot.dragging {
+  opacity: 0.5;
+  border: 2px dashed #00bfff;
+  transform: scale(1.05);
+  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
 .deck-card-slot img {
