@@ -110,7 +110,10 @@
           @dragover.prevent="onBuilderDragOver(index)"
           @dragenter.prevent
           @drop="onBuilderDrop(index)"
-          :class="{ 'dragging': index === draggedCardIndex }"
+          :class="{
+            'dragging': index === draggedCardIndex,
+            'drag-over-slot': index === dragOverIndex
+          }"
           @mouseleave="previewCard = null"
         >
           <div
@@ -764,6 +767,11 @@ Total Cards: ${this.selectedDeck.cards.length}`;
   border: 2px dashed #00bfff;
   transform: scale(1.05);
   transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.deck-card-slot.drag-over-slot {
+  border: 2px solid #ff9800;
+  background-color: rgba(255, 152, 0, 0.2);
 }
 
 .deck-card-slot img {
