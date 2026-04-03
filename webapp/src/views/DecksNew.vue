@@ -95,11 +95,12 @@
 
     <div class="main">
       <!-- Deck builder area -->
-      <div 
+      <div
+        name="deck-reorder"
+        tag="div"
         class="deck-panel"
         @dragover.prevent
-        @drop="onDrop"
-        :class="{ 'drag-over': dragOver }"
+        @drop="onBuilderDropEmpty"
       >
         <div
           v-for="(card, index) in getCardsForDeck(selectedDeck.cards)"
@@ -107,12 +108,12 @@
           class="deck-card-slot"
           draggable="true"
           @dragstart="onBuilderDragStart(index)"
-          @dragover.prevent="onBuilderDragOver(index)"
-          @dragenter.prevent
+          @dragover.prevent="onBuilderDragOver(index, $event)"
           @drop="onBuilderDrop(index)"
           :class="{
-            'dragging': index === draggedCardIndex,
-            'drag-over-slot': index === dragOverIndex
+            dragging: index === draggedCardIndex,
+            'drop-left': dragOverIndex === index && dropSide === 'left',
+            'drop-right': dragOverIndex === index && dropSide === 'right'
           }"
           @mouseleave="previewCard = null"
         >
@@ -130,32 +131,6 @@
         </div>
       </div>
 
-        <!--
-          <template
-            v-for="(card, index) in getCardsForDeck(selectedDeck.cards)"
-            :key="index"
-          >
-            <div
-              v-for="i in card.count"
-              :key="card.uid + '-' + i"
-              class="deck-card-slot"
-              @mouseleave="previewCard = null"
-            >
-              <div
-                class="deck-card-oval"
-                :class="'card-' + card.civilization.toLowerCase()"
-                @click="tryRemoveCard(card)"
-              >
-                <v-lazy-image
-                  :src="`/assets/cards/${card.uid}.jpg`"
-                  src-placeholder="/assets/cards/backside.jpg"
-                  :alt="card.name"
-                />
-              </div>
-            </div>
-          </template>
-    -->
-
       <!-- Card catalogue area -->
       <div class="catalogue-cards-wrapper">
         <div class="catalogue-cards">
@@ -165,7 +140,7 @@
             class="catalogue-card"
             @click="tryAddCard(card)"
             draggable="true"
-            @dragstart="onDragStart(card)"
+            @dragstart="onCatalogueDragStart(card)"
             @mouseover="showPreview(card, $event)"
             @mouseleave="hidePreview"
           >
@@ -289,6 +264,9 @@ export default {
       customOrderEnabled: false,
       draggedCardIndex: null,
       dragOverIndex: null,
+      dropSide: null,
+
+      dragSource: null, // "catalogue" | "builder"
     };
   },
 
@@ -424,32 +402,66 @@ export default {
 
 
     onBuilderDragStart(index) {
+      this.dragSource = "builder";
       this.draggedCardIndex = index;
     },
 
-    onBuilderDragOver(index) {
+    onBuilderDragOver(index, event) {
+      if (index === this.draggedCardIndex) return;
+
+      const rect = event.currentTarget.getBoundingClientRect();
+      const midpoint = rect.left + rect.width / 2;
+
       this.dragOverIndex = index;
+      this.dropSide = event.clientX < midpoint ? "left" : "right";
     },
 
     onBuilderDrop(index) {
-      if (this.draggedCardIndex === null || this.dragOverIndex === null) return;
+      if (!this.dragSource) return;
 
-      const cards = this.selectedDeck.cards;
-      const draggedCard = cards[this.draggedCardIndex];
+      let newIndex = index;
+      if (this.dropSide === "right") newIndex++;
 
-      // Remove dragged card
-      cards.splice(this.draggedCardIndex, 1);
+      if (this.dragSource === "builder") {
+        const cards = this.selectedDeck.cards;
+        const draggedCard = cards[this.draggedCardIndex];
 
-      // Insert at new position
-      cards.splice(this.dragOverIndex, 0, draggedCard);
+        cards.splice(this.draggedCardIndex, 1);
 
-      // Reset drag state
+        if (newIndex > this.draggedCardIndex) newIndex--;
+
+        cards.splice(newIndex, 0, draggedCard);
+      }
+
+      if (this.dragSource === "catalogue") {
+        // respect 40 card limit
+        if (this.selectedDeck.cards.length >= 40) return;
+
+        this.selectedDeck.cards.splice(newIndex, 0, this.draggedCard.uid);
+      }
+
+      // reset
+      this.dragSource = null;
       this.draggedCardIndex = null;
+      this.draggedCard = null;
       this.dragOverIndex = null;
+      this.dropSide = null;
     },
 
+  onBuilderDropEmpty(event) {
+    // ignore if dropped on a card slot
+    if (event.target.closest('.deck-card-slot')) return;
+    if (this.dragSource !== "catalogue") return;
+    if (this.selectedDeck.cards.length >= 40) return;
 
-    onDragStart(card) {
+    this.selectedDeck.cards.push(this.draggedCard.uid);
+
+    this.dragSource = null;
+    this.draggedCard = null;
+  },
+
+    onCatalogueDragStart(card) {
+      this.dragSource = "catalogue";
       this.draggedCard = card;
     },
 
@@ -764,14 +776,15 @@ Total Cards: ${this.selectedDeck.cards.length}`;
 
 .deck-card-slot.dragging {
   opacity: 0.5;
-  border: 2px dashed #00bfff;
   transform: scale(1.05);
-  transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
-.deck-card-slot.drag-over-slot {
-  border: 2px solid #ff9800;
-  background-color: rgba(255, 152, 0, 0.2);
+.deck-card-slot.drop-left {
+  border-left: 4px solid #ff9800;
+}
+
+.deck-card-slot.drop-right {
+  border-right: 4px solid #ff9800;
 }
 
 .deck-card-slot img {
