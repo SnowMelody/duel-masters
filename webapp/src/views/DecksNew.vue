@@ -166,6 +166,7 @@
       </div>
     </div>
 
+    <!-- Filter Popup area -->
     <div v-if="showFilterPopup" class="filter-popup-overlay">
       <div class="filter-popup">
         <button class="filter-close" @click="closeFilter">
@@ -174,8 +175,11 @@
 
         <div class="filter-popup-content">
           <div class="filter-section">
+            
+            <!-- Civilization Filter -->
             <div class="filter-title">Civilization
             </div>
+
             <div class="civ-icons">
                 <div
                   v-for="civ in ['light','darkness','nature','fire','water']"
@@ -189,11 +193,31 @@
                 >
               </div>
             </div>
+
+            <!-- Type Filter -->
+            <div>Type
+            </div>
+
+            <div>
+              <select 
+                class="catalogue-filter"
+                v-model="filterFamily">
+                <option
+                  class="family"
+                  v-for="(family, index) in families"
+                  :key="index"
+                  :value="family"
+                  >{{ family }}</option
+                >
+              </select>
+            </div>
+
+
+
           </div>
         </div>
       </div>
     </div>
-
   </div>
 </template>
 
@@ -202,7 +226,7 @@ import { call } from "../remote";
 import Header from "../components/Header.vue";
 import VLazyImage from "v-lazy-image";
 
-const ALL_FAMILIES = "All Races";
+const ALL_FAMILIES = "All";
 const ALL_SETS = "All Sets";
 
 const permissions = () => {
@@ -257,7 +281,7 @@ export default {
       filterFamily: ALL_FAMILIES,
       filterSet: ALL_SETS,
 
-      families: [ALL_FAMILIES, "Spell"],
+      families: [ALL_FAMILIES, "Spell", "Creature"],
 
       filterCivilization: {
         light: false,
@@ -649,10 +673,12 @@ export default {
 
       return true;
     },
-
+    
+    /*
     displayFamily(family) {
       return family ? family.join(" / ") : "Spell";
     },
+    */
   },
 
   async created() {
@@ -788,6 +814,8 @@ export default {
           (card) =>
             (this.filterFamily.toLowerCase() === "spell" &&
               !card.family) ||
+            (this.filterFamily.toLowerCase() === "creature" &&
+              card.family) ||
             (card.family &&
               card.family.includes(this.filterFamily))
         );
