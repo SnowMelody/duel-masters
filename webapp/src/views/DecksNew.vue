@@ -156,6 +156,41 @@
           type="search"
           placeholder="Search cards..."
         />
+
+        <button
+          class="filter-button"
+          @click="toggleFilter"
+        >
+          Filter
+        </button>
+      </div>
+    </div>
+
+    <div v-if="showFilterPopup" class="filter-popup-overlay">
+      <div class="filter-popup">
+        <button class="filter-close" @click="closeFilter">
+          ✕
+        </button>
+
+        <div class="filter-popup-content">
+          <div class="filter-section">
+            <div class="filter-title">Civilization
+            </div>
+            <div class="civ-icons">
+                <div
+                  v-for="civ in ['light','darkness','nature','fire','water']"
+                  :key="civ"
+                  class="civ-filter"
+                  :class="[
+                    'civ-color-' + civ,
+                    selectedCivilizations.includes(civ) ? 'civ-filter-selected' : ''
+                  ]"
+                  @click="toggleCivilization(civ)"
+                >
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -245,6 +280,7 @@ export default {
       sets: [],
       cards: [],
       decks: [],
+      selectedCivilizations: [],
 
       selectedDeck: null,
       selectedDeckUid: null,
@@ -267,6 +303,8 @@ export default {
       dropSide: null,
 
       dragSource: null, // "catalogue" | "builder"
+
+      showFilterPopup: false,
     };
   },
 
@@ -400,7 +438,6 @@ export default {
       }
     },
 
-
     onBuilderDragStart(index) {
       this.dragSource = "builder";
       this.draggedCardIndex = index;
@@ -448,17 +485,17 @@ export default {
       this.dropSide = null;
     },
 
-  onBuilderDropEmpty(event) {
-    // ignore if dropped on a card slot
-    if (event.target.closest('.deck-card-slot')) return;
-    if (this.dragSource !== "catalogue") return;
-    if (this.selectedDeck.cards.length >= 40) return;
+    onBuilderDropEmpty(event) {
+      // ignore if dropped on a card slot
+      if (event.target.closest('.deck-card-slot')) return;
+      if (this.dragSource !== "catalogue") return;
+      if (this.selectedDeck.cards.length >= 40) return;
 
-    this.selectedDeck.cards.push(this.draggedCard.uid);
+      this.selectedDeck.cards.push(this.draggedCard.uid);
 
-    this.dragSource = null;
-    this.draggedCard = null;
-  },
+      this.dragSource = null;
+      this.draggedCard = null;
+    },
 
     onCatalogueDragStart(card) {
       this.dragSource = "catalogue";
@@ -470,6 +507,31 @@ export default {
 
       this.tryAddCard(this.draggedCard);
       this.draggedCard = null;
+    },
+
+    toggleFilter() {
+      this.showFilterPopup = true
+    },
+
+    closeFilter() {
+      this.showFilterPopup = false
+    },
+
+    toggleCivilization(civ) {
+      // Toggle the filter state for card filtering
+      this.filterCivilization[civ] = !this.filterCivilization[civ];
+
+      // Update selectedCivilizations for the UI border to match the filter state
+      const index = this.selectedCivilizations.indexOf(civ);
+      if (this.filterCivilization[civ]) { // If it is now selected for filtering
+        if (index === -1) { // And it's not already in the UI selection list
+          this.selectedCivilizations.push(civ); // Add it to the UI selection list
+        }
+      } else { // If it is now deselected for filtering
+        if (index !== -1) { // And it is currently in the UI selection list
+          this.selectedCivilizations.splice(index, 1); // Remove it from the UI selection list
+        }
+      }
     },
 
     modifyCatalogueCardSize(addition) {
@@ -485,7 +547,7 @@ export default {
 
       this.warning = `${deckList.join("\n")}
 
-Total Cards: ${this.selectedDeck.cards.length}`;
+      Total Cards: ${this.selectedDeck.cards.length}`;
     },
 
     newDeck() {
@@ -762,6 +824,7 @@ Total Cards: ${this.selectedDeck.cards.length}`;
   height: 100%
 }
 
+
 /* Deck building area */
 .deck-panel {
   display: grid;
@@ -794,6 +857,7 @@ Total Cards: ${this.selectedDeck.cards.length}`;
   border-radius: 3px;
 }
 
+
 /* Card catalogue area */
 .catalogue-cards-wrapper {
   height: 20%;
@@ -824,12 +888,137 @@ Total Cards: ${this.selectedDeck.cards.length}`;
   border-radius: 4px;
 }
 
+
 /* Card search input area */
 .catalogue-search {
   height: 5%;
   padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
 }
 
+.catalogue-search input {
+  flex: 1;
+}
+
+
+/* filter button area */
+.filter-button {
+  padding: 4px 12px;
+  border-radius: 6px;
+  border: none;
+  background: #444;
+  color: white;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.filter-button:hover {
+  background: #666;
+}
+
+/* filter popup box area */
+.filter-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2000;
+}
+
+.filter-popup {
+  position: relative;
+  background: #1e1e1e;
+  color: white;
+  padding: 16px;
+  border-radius: 10px;
+  width: 400px;
+  max-width: 90%;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+
+.filter-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  border: none;
+  background: transparent;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.filter-close:hover {
+  opacity: 0.7;
+}
+
+.filter-popup-content {
+  margin-top: 10px;
+}
+
+.filter-section {
+  margin-bottom: 12px;
+}
+
+.filter-title {
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.civ-icons {
+  display: flex;
+  gap: 8px;
+}
+
+.civ-filter {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  border: 4px solid #e0dede;
+  /*transition: 0.15s ease;*/
+  margin-left: 5px;
+}
+
+.civ-filter-selected {
+  border: 4px solid black;
+}
+
+/*
+.civ-filter:hover {
+  transform: scale(1.1);
+}*/
+
+.civ-color-fire {
+  background-color: #D12027;
+}
+
+.civ-color-water {
+  background-color: #47C6F2;
+}
+
+.civ-color-light {
+  background-color: #FAD241;
+}
+
+.civ-color-darkness {
+  background-color: #65696C;
+}
+
+.civ-color-nature {
+  background-color: #118141;
+}
+
+
+/* Card preview on hover */
 .card-preview {
   position: fixed;           /* independent of parent grid/flex */
   z-index: 1000;             /* always on top */
