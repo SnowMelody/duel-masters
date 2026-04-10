@@ -154,7 +154,7 @@
         <input
           v-model="filterCard"
           type="search"
-          placeholder="Search cards..."
+          placeholder="Search cards by name"
         />
 
         <button
@@ -253,6 +253,17 @@
                 >
               </select>
             </div>
+            
+            <div class="filter-title">
+              Card Effect
+            </div>
+            <div>
+              <input
+                v-model="filterEffect"
+                type="search"
+                placeholder="Search cards by effect"
+              />
+            </div>
 
             <!-- Reset Filters Button -->
             <div>
@@ -330,6 +341,7 @@ export default {
       showWizard: false,
 
       filterCard: "",
+      filterEffect: "",
       filterFamily: ALL_FAMILIES,
       filterSet: ALL_SETS,
 
@@ -439,6 +451,10 @@ export default {
       this.filterFamily = ALL_FAMILIES;
       this.filterSet = ALL_SETS;
       this.filterCard = "";
+      this.filterEffect = "";
+      this.filterPowerMin = null;
+      this.filterPowerMax = null;
+      this.selectedCivilizations = [];
     },
 
     /*
@@ -835,10 +851,11 @@ export default {
         (card) =>
           card.name
             .toLowerCase()
-            .includes(this.filterCard.toLowerCase()) ||
-          card.text
-            .toLowerCase()
-            .includes(this.filterCard.toLowerCase())
+            .includes(this.filterCard.toLowerCase()) &&
+          (this.filterEffect === "" ||
+            card.text
+              .toLowerCase()
+              .includes(this.filterEffect.toLowerCase()))
       );
 
       if (this.filterSet !== ALL_SETS) {
@@ -897,12 +914,7 @@ export default {
         cards = cards.filter((card) => {
           const power = parseInt(card.power, 10);
 
-          console.log(card);
-          console.log("DEBUG POWER:", card.name, card.power, power);
-
-          // Ignore cards with no power (e.g. spells)
-          if (isNaN(power)) return false;
-
+          if (isNaN(power)) return false; // Cards with no power should be ignored (e.g. spells)
           if (this.filterPowerMin != null && power < this.filterPowerMin) return false;
           if (this.filterPowerMax != null && power > this.filterPowerMax) return false;
 
