@@ -225,6 +225,16 @@
               {{manaNr}}
             </div>
 
+            <!-- Power Filter -->
+            <div class="filter-title">
+              Power
+            </div>
+            <div class="power-filter-container">
+              <input type="number" v-model.number="filterPowerMin" placeholder="Min" class="power-filter" />
+              <span>-</span>
+              <input type="number" v-model.number="filterPowerMax" placeholder="Max" class="power-filter" />
+            </div>
+
             <!-- Set Filter -->
             <div class="filter-title">
               Set
@@ -342,6 +352,9 @@ export default {
         "6": false,
         "7+": false,
       },
+
+      filterPowerMin: null,
+      filterPowerMax: null,
 
       sets: [],
       cards: [],
@@ -877,6 +890,23 @@ export default {
             return this.filterMana[
               card.manaCost.toString()
             ];
+        });
+      }
+
+      if (this.filterPowerMin != null || this.filterPowerMax != null) {
+        cards = cards.filter((card) => {
+          const power = parseInt(card.power, 10);
+
+          console.log(card);
+          console.log("DEBUG POWER:", card.name, card.power, power);
+
+          // Ignore cards with no power (e.g. spells)
+          if (isNaN(power)) return false;
+
+          if (this.filterPowerMin != null && power < this.filterPowerMin) return false;
+          if (this.filterPowerMax != null && power > this.filterPowerMax) return false;
+
+          return true;
         });
       }
 
