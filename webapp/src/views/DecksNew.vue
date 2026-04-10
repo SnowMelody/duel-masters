@@ -177,9 +177,9 @@
           <div class="filter-section">
             
             <!-- Civilization Filter -->
-            <div class="filter-title">Civilization
+            <div class="filter-title">
+              Civilization
             </div>
-
             <div class="civ-icons">
                 <div
                   v-for="civ in ['light','darkness','nature','fire','water']"
@@ -195,9 +195,9 @@
             </div>
 
             <!-- Type Filter -->
-            <div>Type
+            <div class="filter-title">
+              Type
             </div>
-
             <div>
               <select 
                 class="catalogue-filter"
@@ -210,6 +210,48 @@
                   >{{ family }}</option
                 >
               </select>
+            </div>
+
+            <!-- Mana Filter -->
+            <div class="filter-title">
+              Mana
+            </div>
+            <div 
+              v-for="manaNr in ['1', '2', '3', '4', '5', '6', '7+']" 
+              class="mana-filter"
+              :class="{'mana-filter-selected': filterMana[manaNr]}"
+              @click="filterMana[manaNr] = !filterMana[manaNr]"
+            >
+              {{manaNr}}
+            </div>
+
+            <!-- Set Filter -->
+            <div class="filter-title">
+              Set
+            </div>
+            <div>
+              <select 
+                v-model="filterSet"
+                class="catalogue-filter"
+              >
+                <option
+                  class="set"
+                  v-for="(set, index) in sets"
+                  :key="index"
+                  :value="set"
+                  >{{ set }}</option
+                >
+              </select>
+            </div>
+
+            <!-- Reset Filters Button -->
+            <div>
+              <img
+                class="reset-icon"
+                src="/assets/images/reset-icon.svg"
+                v-tooltip="'Reset all filters'"
+                @click="resetFilters"
+              />
             </div>
 
 
@@ -947,6 +989,7 @@ export default {
   background: #666;
 }
 
+
 /* filter popup box area */
 .filter-popup-overlay {
   position: fixed;
@@ -1000,6 +1043,8 @@ export default {
   margin-bottom: 6px;
 }
 
+
+/* Civilization filter buttons */
 .civ-icons {
   display: flex;
   gap: 8px;
@@ -1043,6 +1088,43 @@ export default {
 
 .civ-color-nature {
   background-color: #118141;
+}
+
+
+/* Type and set filter dropdown */
+.catalogue-filter {
+  background-color: black;
+  color: white;
+}
+
+
+/* Mana filter buttons */
+.mana-filter {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  cursor: pointer;
+  color: white  ;
+  background-color: black;
+  font-weight: 600;
+  border: 4px solid #e0dede;
+}
+
+.mana-filter-selected {
+  border: 4px solid orange;
+}
+
+
+/* Reset filters button */
+.reset-icon {
+  width: 35px;
+  /*margin-left: 20px;*/
+  background-color: lightsalmon;
+  cursor: pointer;
 }
 
 
