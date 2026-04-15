@@ -297,8 +297,12 @@
           <div class="filter-section">
             <div class="filter-title">
               Sort Options
+            <div class="sort-options">
+              <button class="filter-button" @click="sortCards('manaCost')">Cost</button>
+              <button class="filter-button" @click="sortCards('power')">Power</button>
+              <button class="filter-button" @click="sortCards('set')">Set</button>
             </div>
-            <button class="filter-button" @click="sortCards('manaCost')">Cost</button>
+            </div>
           </div>
         </div>
       </div>
@@ -1173,6 +1177,13 @@ export default {
 .catalogue-filter {
   background-color: black;
   color: white;
+}
+
+/* Sort button area */
+.sort-options {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 
