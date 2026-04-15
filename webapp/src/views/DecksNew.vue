@@ -163,6 +163,13 @@
         >
           Filter
         </button>
+
+        <button
+          class="filter-button"
+          @click="toggleSort"
+        >
+          Sort
+        </button>
       </div>
     </div>
 
@@ -274,9 +281,24 @@
                 @click="resetFilters"
               />
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
+    <!-- Sort Popup area -->
+    <div v-if="showSortPopup" class="filter-popup-overlay">
+      <div class="filter-popup">
+        <button class="filter-close" @click="closeSort">
+          ✕
+        </button>
 
-
+        <div class="filter-popup-content">
+          <div class="filter-section">
+            <div class="filter-title">
+              Sort Options
+            </div>
+            <!-- Sort options to be implemented later -->
           </div>
         </div>
       </div>
@@ -396,6 +418,7 @@ export default {
       dragSource: null, // "catalogue" | "builder"
 
       showFilterPopup: false,
+      showSortPopup: false,
     };
   },
 
@@ -610,6 +633,14 @@ export default {
 
     closeFilter() {
       this.showFilterPopup = false
+    },
+
+    toggleSort() {
+      this.showSortPopup = true
+    },
+
+    closeSort() {
+      this.showSortPopup = false
     },
 
     toggleCivilization(civ) {
