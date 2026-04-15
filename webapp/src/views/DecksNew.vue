@@ -189,7 +189,7 @@
             </div>
             <div class="civ-icons">
                 <div
-                  v-for="civ in ['light','darkness','nature','fire','water']"
+                  v-for="civ in ['light','water','darkness','fire','nature']"
                   :key="civ"
                   class="civ-filter"
                   :class="[
@@ -298,9 +298,13 @@
             <div class="filter-title">
               Sort Options
             <div class="sort-options">
+              <button class="filter-button" @click="sortCards('civilization')">Civilization</button>
+              <button class="filter-button" @click="sortCards('type')">Type</button>
+              <button class="filter-button" @click="sortCards('race')">Race</button>
               <button class="filter-button" @click="sortCards('manaCost')">Cost</button>
               <button class="filter-button" @click="sortCards('power')">Power</button>
               <button class="filter-button" @click="sortCards('set')">Set</button>
+              <button class="filter-button" @click="sortCards('name')">Name</button>
             </div>
             </div>
           </div>
@@ -375,10 +379,10 @@ export default {
 
       filterCivilization: {
         light: false,
-        darkness: false,
-        nature: false,
-        fire: false,
         water: false,
+        darkness: false,
+        fire: false,
+        nature: false,
       },
 
       filterMana: {
@@ -802,10 +806,10 @@ export default {
       let sets = {};
       let cardsCiv = {
         light: [],
-        darkness: [],
-        nature: [],
-        fire: [],
         water: [],
+        darkness: [],
+        fire: [],
+        nature: [],
       };
 
       for (let card of cards.data) {
