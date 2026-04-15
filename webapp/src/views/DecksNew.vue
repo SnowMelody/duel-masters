@@ -300,7 +300,7 @@
             <div class="sort-options">
               <button class="filter-button" @click="sortCards('civilization')">Civilization</button>
               <button class="filter-button" @click="sortCards('type')">Type</button>
-              <button class="filter-button" @click="sortCards('race')">Race</button>
+              <button class="filter-button" @click="sortCards('subtypes')">Race</button>
               <button class="filter-button" @click="sortCards('manaCost')">Cost</button>
               <button class="filter-button" @click="sortCards('power')">Power</button>
               <button class="filter-button" @click="sortCards('set')">Set</button>
@@ -427,6 +427,7 @@ export default {
 
       showFilterPopup: false,
       showSortPopup: false,
+      currentSort: { by: null, directionNum: 1 },
     };
   },
 
@@ -652,8 +653,12 @@ export default {
     },
 
     sortCards(by) {
-      this.cards.sort((c1, c2) => compareCards(c1, c2, { by: by, directionNum: 1 }));
-      this.closeSort();
+      if (this.currentSort.by === by) {
+        this.currentSort.directionNum *= -1;
+      } else {
+        this.currentSort.by = by;
+        this.currentSort.directionNum = 1;
+      }
     },
 
     toggleCivilization(civ) {
@@ -964,6 +969,10 @@ export default {
 
           return true;
         });
+      }
+
+      if (this.currentSort.by) {
+        cards.sort((c1, c2) => compareCards(c1, c2, this.currentSort));
       }
 
       return cards;

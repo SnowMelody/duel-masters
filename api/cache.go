@@ -23,6 +23,8 @@ type CardInfo struct {
 	Type         string   `json:"type"`
 	Text         string   `json:"text"`
 	Power        string   `json:"power"`
+	Subtypes     []string `json:"subtypes"`
+	Supertypes   []string `json:"supertypes"`
 }
 
 // Register holds all the card info
@@ -64,6 +66,8 @@ func CreateCardCache() {
 			if _, ok := cardsFromJsonMap[card.Name]; ok {
 				entry.Text = cardsFromJsonMap[card.Name].Text
 				entry.Power = cardsFromJsonMap[card.Name].Power
+				entry.Subtypes = cardsFromJsonMap[card.Name].Subtypes
+				entry.Supertypes = cardsFromJsonMap[card.Name].Supertypes
 			} else {
 				logrus.Warnf("Card '%s' not found in json file", card.Name)
 			}
