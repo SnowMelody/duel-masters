@@ -298,7 +298,7 @@
             <div class="filter-title">
               Sort Options
             </div>
-            <!-- Sort options to be implemented later -->
+            <button class="filter-button" @click="sortCards('manaCost')">Cost</button>
           </div>
         </div>
       </div>
@@ -641,6 +641,11 @@ export default {
 
     closeSort() {
       this.showSortPopup = false
+    },
+
+    sortCards(by) {
+      this.cards.sort((c1, c2) => compareCards(c1, c2, { by: by, directionNum: 1 }));
+      this.closeSort();
     },
 
     toggleCivilization(civ) {
