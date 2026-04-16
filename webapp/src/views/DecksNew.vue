@@ -305,6 +305,7 @@
               <button class="filter-button" @click="sortCards('power')">Power</button>
               <button class="filter-button" @click="sortCards('set')">Set</button>
               <button class="filter-button" @click="sortCards('name')">Name</button>
+              <button class="filter-button" style="background: lightsalmon;" @click="resetSort()">Reset</button>
             </div>
             </div>
           </div>
@@ -321,6 +322,14 @@ import VLazyImage from "v-lazy-image";
 
 const ALL_FAMILIES = "All";
 const ALL_SETS = "All Sets";
+
+const CIV_ORDER = {
+  light: 1,
+  water: 2,
+  darkness: 3,
+  fire: 4,
+  nature: 5,
+};
 
 const permissions = () => {
   let p = localStorage.getItem("permissions");
@@ -339,6 +348,15 @@ function compareCards(card1, card2, sort) {
 
   if (cat1 == null) cat1 = "";
   if (cat2 == null) cat2 = "";
+
+  if (sort.by === "civilization") {
+    const v1 = CIV_ORDER[cat1.toLowerCase()] || 99;
+    const v2 = CIV_ORDER[cat2.toLowerCase()] || 99;
+
+    if (v1 !== v2) {
+      return sort.directionNum * (v1 - v2);
+    }
+  }
 
   return cat1 === parseInt(cat1, 10) && cat2 === parseInt(cat2, 10)
     ? sort.directionNum * (cat1 < cat2 ? -1 : cat1 > cat2 ? 1 : 0)
@@ -650,6 +668,10 @@ export default {
 
     closeSort() {
       this.showSortPopup = false
+    },
+
+    resetSort() {
+      this.currentSort = { by: null, directionNum: 1 };
     },
 
     sortCards(by) {
