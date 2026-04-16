@@ -94,6 +94,11 @@
     </span>
 
     <div class="main">
+      <div class="deck-builder-header">
+        <button class="filter-button" @click="toggleDeckSort">
+          Sort Deck
+        </button>
+      </div>
       <!-- Deck builder area -->
       <div
         name="deck-reorder"
@@ -312,6 +317,26 @@
         </div>
       </div>
     </div>
+
+    <!-- Deck Sort Popup area -->
+    <div v-if="showDeckSortPopup" class="filter-popup-overlay">
+      <div class="filter-popup">
+        <button class="filter-close" @click="closeDeckSort">
+          ✕
+        </button>
+
+        <div class="filter-popup-content">
+          <div class="filter-section">
+            <div class="filter-title">
+              Sort Deck
+            </div>
+            <div class="sort-options">
+              <button class="filter-button" @click="sortDeckByManaCost">Mana Cost</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -445,11 +470,42 @@ export default {
 
       showFilterPopup: false,
       showSortPopup: false,
+      showDeckSortPopup: false,
       currentSort: { by: null, directionNum: 1 },
+      deckSortManaDirection: 1,
     };
   },
 
   methods: {
+    toggleDeckSort() {
+      this.showDeckSortPopup = true;
+    },
+
+    closeDeckSort() {
+      this.showDeckSortPopup = false;
+    },
+
+    sortDeckByManaCost() {
+      if (!this.selectedDeck) return;
+
+      const direction = this.deckSortManaDirection;
+
+      this.selectedDeck.cards.sort((uid1, uid2) => {
+        const card1 = this.cards.find((c) => c.uid === uid1);
+        const card2 = this.cards.find((c) => c.uid === uid2);
+
+        if (!card1 || !card2) return 0;
+
+        if (card1.manaCost < card2.manaCost) return -1 * direction;
+        if (card1.manaCost > card2.manaCost) return 1 * direction;
+
+        // Secondary sort by name for stability
+        return card1.name.localeCompare(card2.name) * direction;
+      });
+
+      this.deckSortManaDirection *= -1;
+    },
+
     showPreview(card, event) {
       const normalWidth = 400;
       const normalHeight = 560;
@@ -1009,6 +1065,12 @@ export default {
   display: flex;
   flex-direction: column;
   height: 100%
+}
+
+.deck-builder-header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 4px 8px;
 }
 
 
