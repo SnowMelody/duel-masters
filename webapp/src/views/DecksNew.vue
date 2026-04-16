@@ -332,6 +332,9 @@
             </div>
             <div class="sort-options">
               <button class="filter-button" @click="sortDeckByManaCost">Mana Cost</button>
+              <button class="filter-button" @click="sortDeckByCivilization">Civilization</button>
+              <button class="filter-button" @click="sortDeckByType">Type</button>
+              <button class="filter-button" @click="sortDeckByQuantity">Quantity</button>
             </div>
           </div>
         </div>
@@ -473,6 +476,9 @@ export default {
       showDeckSortPopup: false,
       currentSort: { by: null, directionNum: 1 },
       deckSortManaDirection: 1,
+      deckSortCivDirection: 1,
+      deckSortTypeDirection: 1,
+      deckSortQtyDirection: 1,
     };
   },
 
@@ -504,6 +510,97 @@ export default {
       });
 
       this.deckSortManaDirection *= -1;
+    },
+
+    sortDeckByCivilization() {
+      if (!this.selectedDeck) return;
+
+      const direction = this.deckSortCivDirection;
+
+      this.selectedDeck.cards.sort((uid1, uid2) => {
+        const card1 = this.cards.find((c) => c.uid === uid1);
+        const card2 = this.cards.find((c) => c.uid === uid2);
+
+        if (!card1 || !card2) return 0;
+
+        const v1 = CIV_ORDER[card1.civilization.toLowerCase()] || 99;
+        const v2 = CIV_ORDER[card2.civilization.toLowerCase()] || 99;
+
+        if (v1 !== v2) {
+          return (v1 - v2) * direction;
+        }
+
+        // Secondary sort by manaCost
+        if (card1.manaCost !== card2.manaCost) {
+          return (card1.manaCost - card2.manaCost) * direction;
+        }
+
+        // Tertiary sort by name
+        return card1.name.localeCompare(card2.name) * direction;
+      });
+
+      this.deckSortCivDirection *= -1;
+    },
+
+    sortDeckByType() {
+      if (!this.selectedDeck) return;
+
+      const direction = this.deckSortTypeDirection;
+
+      this.selectedDeck.cards.sort((uid1, uid2) => {
+        const card1 = this.cards.find((c) => c.uid === uid1);
+        const card2 = this.cards.find((c) => c.uid === uid2);
+
+        if (!card1 || !card2) return 0;
+
+        let type1 = card1.type || "";
+        let type2 = card2.type || "";
+
+        if (type1 !== type2) {
+          return type1.localeCompare(type2) * direction;
+        }
+
+        // Secondary sort by manaCost
+        if (card1.manaCost !== card2.manaCost) {
+          return (card1.manaCost - card2.manaCost) * direction;
+        }
+
+        // Tertiary sort by name
+        return card1.name.localeCompare(card2.name) * direction;
+      });
+
+      this.deckSortTypeDirection *= -1;
+    },
+
+    sortDeckByQuantity() {
+      if (!this.selectedDeck) return;
+
+      const direction = this.deckSortQtyDirection;
+
+      // Count occurrences of each card UID in the deck
+      const counts = this.selectedDeck.cards.reduce((acc, uid) => {
+        acc[uid] = (acc[uid] || 0) + 1;
+        return acc;
+      }, {});
+
+      this.selectedDeck.cards.sort((uid1, uid2) => {
+        const qty1 = counts[uid1];
+        const qty2 = counts[uid2];
+
+        if (qty1 !== qty2) {
+          return (qty1 - qty2) * direction;
+        }
+
+        // Secondary sort by name for stability
+        const card1 = this.cards.find((c) => c.uid === uid1);
+        const card2 = this.cards.find((c) => c.uid === uid2);
+        if (card1 && card2) {
+          return card1.name.localeCompare(card2.name);
+        }
+        return 0;
+      });
+
+      this.deckSortQtyDirection *= -1;
     },
 
     showPreview(card, event) {
