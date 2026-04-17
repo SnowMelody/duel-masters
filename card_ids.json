@@ -1,0 +1,5982 @@
+[
+  {
+    "id": "57eeb3c3-2561-4841-a382-2e50d17533d2",
+    "name": "Aqua Hulcus"
+  },
+  {
+    "id": "3f0fb8f6-d01e-4005-8342-b84584f50a2c",
+    "name": "Crystal Lancer"
+  },
+  {
+    "id": "a9469dd3-73fa-4a8c-a9dd-7b852487308b",
+    "name": "Aqua Jolter"
+  },
+  {
+    "id": "ecd61b34-85ca-4a91-b993-7a8c9976a2b6",
+    "name": "Corile"
+  },
+  {
+    "id": "0ec572b0-ffaf-4abd-a540-ba26c98aacc6",
+    "name": "Holy Awe"
+  },
+  {
+    "id": "a8e806e4-9675-49c1-b4c1-4c9ab2fa789e",
+    "name": "Pala Olesis, Morning Guardian"
+  },
+  {
+    "id": "f2344e6e-0ee3-4f17-8986-b01025db7e14",
+    "name": "Bazagazeal Dragon"
+  },
+  {
+    "id": "1fe34153-7cd0-40e9-bbc0-96dd7074860d",
+    "name": "Twin-Cannon Skyterror"
+  },
+  {
+    "id": "0277a21a-7456-48f0-84b1-fbe7f5010197",
+    "name": "Cutthroat Skyterror"
+  },
+  {
+    "id": "a8503655-fdcb-48e2-bfb1-0ad3aae31f0f",
+    "name": "Rothus, the Traveler"
+  },
+  {
+    "id": "48ab3f2b-4ae3-41a4-ae6f-61b49c958bdc",
+    "name": "Barkwhip, the Smasher"
+  },
+  {
+    "id": "6e381955-231b-4e4e-a14c-82509a5e193c",
+    "name": "Rumbling Terahorn"
+  },
+  {
+    "id": "dfe767f5-8883-4d3c-80ef-df3b277ff426",
+    "name": "Gonta, the Warrior Savage"
+  },
+  {
+    "id": "ddccdc18-92ef-431e-913e-71ba5bb6b1b2",
+    "name": "Melnia, the Aqua Shadow"
+  },
+  {
+    "id": "9db6b2d5-c3f3-4a00-b237-bc7504a9b7df",
+    "name": "Twister Fish"
+  },
+  {
+    "id": "7cab8643-2cf5-483d-b7a1-8b8243a75737",
+    "name": "Star-Cry Dragon"
+  },
+  {
+    "id": "5e42765f-432b-4e33-8fee-65fc9026d1cd",
+    "name": "Gigagrax"
+  },
+  {
+    "id": "bf0eb592-fb6f-4604-8851-f41835cceab9",
+    "name": "Loth Rix, The Iridescent"
+  },
+  {
+    "id": "540a15e7-3751-4b30-97ed-8c737bd2c231",
+    "name": "Armored Groblav"
+  },
+  {
+    "id": "04986395-67af-4e3e-9b46-1a19efc4e7e8",
+    "name": "Angry Maple"
+  },
+  {
+    "id": "04965395-67af-4e3e-9b46-1a19efc4e7e8",
+    "name": "Neve, the Leveler"
+  },
+  {
+    "id": "af211fa9-9cd4-4736-966e-c3c2e484e4a4",
+    "name": "Deep Operation"
+  },
+  {
+    "id": "153d92ba-27c4-43bb-8a3c-8bfe9519e1f0",
+    "name": "Storm Javelin Wyvern"
+  },
+  {
+    "id": "1dd54a8d-d78f-4df9-a695-3024b0e79467",
+    "name": "Wicked Soul Reincarnation"
+  },
+  {
+    "id": "9f3f83fa-ed3e-48f7-9396-bbe1d79ed544",
+    "name": "Cursed Totem"
+  },
+  {
+    "id": "0cb41063-72f9-461c-8fca-9cb4f9b866f8",
+    "name": "Skeleton Vice"
+  },
+  {
+    "id": "d38c09ef-47a8-4c65-9fd8-d51b32840e2b",
+    "name": "Bazagazeal Dragon"
+  },
+  {
+    "id": "dcd23468-765f-4737-b82c-bbf24a1af873",
+    "name": "Bolmeteus Steel Dragon"
+  },
+  {
+    "id": "fd922d0d-0539-48eb-9c48-eb697c321d36",
+    "name": "Fighter Dual Fang"
+  },
+  {
+    "id": "d98db372-ffc5-4f1b-aa4f-dc6db85ea5fb",
+    "name": "Crystal Jouster"
+  },
+  {
+    "id": "689c9fa5-1ff4-4b70-9648-347cdf782605",
+    "name": "Astral Warper"
+  },
+  {
+    "id": "ce07c335-795a-4e8b-909c-6733b83b5ef5",
+    "name": "Ladia Bale, the Inspirational"
+  },
+  {
+    "id": "b1f25405-75b3-4b29-bdbf-7ab1d8548288",
+    "name": "Kachua, Keeper of the Icegate"
+  },
+  {
+    "id": "09e20583-87bc-494c-b0fb-e66df9e248ee",
+    "name": "Bronze-Arm Tribe"
+  },
+  {
+    "id": "b45f7416-d8b8-4121-b2ef-29ab65a231de",
+    "name": "Elena, Channeler of Suns"
+  },
+  {
+    "id": "e025cee0-d509-470c-87fe-f9ac9a3e8c9c",
+    "name": "Bolsred Fire Dragon"
+  },
+  {
+    "id": "fd6db651-ecb6-444e-a822-e65f1e479f43",
+    "name": "Terradragon Zalberg"
+  },
+  {
+    "id": "4f42ed91-688b-4a12-9c64-9e52212f5d41",
+    "name": "Kicky Yacoopy"
+  },
+  {
+    "id": "e420560f-2a5e-496b-ba4e-ff09e78bf886",
+    "name": "Alshia, Spirit of Novas"
+  },
+  {
+    "id": "1698581f-e5fa-4bfa-9544-fbd5cf84c843",
+    "name": "Gett's Saw"
+  },
+  {
+    "id": "ce93ce93-beb5-4a74-88fa-bb7baa136af5",
+    "name": "Glider Man"
+  },
+  {
+    "id": "10dcbbea-37d8-4a20-899a-f0db12dcc3c0",
+    "name": "Streaming Tutor"
+  },
+  {
+    "id": "b732afae-9572-419f-ad09-8f6bedbfb19d",
+    "name": "Rainbow Arrow"
+  },
+  {
+    "id": "ddb3818e-b3b6-4648-abcd-5801eb485ea9",
+    "name": "Blossom Trap"
+  },
+  {
+    "id": "c721b4d5-1777-429e-8078-b64391c56d97",
+    "name": "Luna Blue Dinosaur"
+  },
+  {
+    "id": "57a749e8-c8db-44ea-a012-eab88309a9b4",
+    "name": "Necrodragon Bagrazard"
+  },
+  {
+    "id": "df2ef100-2d8d-4a8a-85b0-ee4112b5c127",
+    "name": "Fire Barett, Armed Soldier"
+  },
+  {
+    "id": "57925086-6eb7-4e1e-abe6-797fe89f4c47",
+    "name": "Construction Mutant"
+  },
+  {
+    "id": "edd69ce2-3499-4ccb-8d68-cd3904cb390f",
+    "name": "Forest Sword, Great Hero"
+  },
+  {
+    "id": "56bf9a01-ea95-48a6-ac85-5f8affedce7b",
+    "name": "Necrodragon Bazradyuda"
+  },
+  {
+    "id": "f64abfbf-dfea-4ae6-b45f-a27138203460",
+    "name": "Gigajiras"
+  },
+  {
+    "id": "8b619595-3387-4859-b938-37969ac32562",
+    "name": "Fist Blader"
+  },
+  {
+    "id": "047f666f-35e0-41af-a8af-7d2b3618b793",
+    "name": "Dark Hydra, Evil Planet Lord"
+  },
+  {
+    "id": "1c93a584-ead8-422a-b96a-de0e4054d0a6",
+    "name": "Mirror Force Dragon"
+  },
+  {
+    "id": "4d2d570d-313b-4a50-9935-9b20f80ee51e",
+    "name": "Azelzard, Devil Emperor"
+  },
+  {
+    "id": "7ee6d441-c07d-4115-b9ec-a022cdb4e04b",
+    "name": "Soldarios, Holy Emperor"
+  },
+  {
+    "id": "d451c1d9-b0b7-4049-960e-fc07461695da",
+    "name": "Dragrunder, Thunderous Dragonic Phoenix"
+  },
+  {
+    "id": "dec0014b-5754-4f3e-8180-a37cae41a12f",
+    "name": "Invincible Mecha Grandiver X"
+  },
+  {
+    "id": "dc6e92bb-b8da-4392-a091-c72dad3d2c14",
+    "name": "Braveheart Dragoon"
+  },
+  {
+    "id": "9ea81d7c-d330-4c05-9fd4-a2bcebcbadc8",
+    "name": "Überdragon Bajulaterra"
+  },
+  {
+    "id": "bd13d634-13a2-4918-a05b-ab23103c71a9",
+    "name": "Flameburn Dragon"
+  },
+  {
+    "id": "beef5856-ea82-4e73-8010-7557c888f72b",
+    "name": "Cassiopeia Story, Holy Emperor"
+  },
+  {
+    "id": "c4aef97a-a61f-4133-b648-f596a6a468af",
+    "name": "Zack Pichi, Winged Dragon Admiral"
+  },
+  {
+    "id": "a7b31547-72d6-4ba2-a826-2f4d92f3a1fe",
+    "name": "Over Skill, Rampaging Machine"
+  },
+  {
+    "id": "e77f0405-e6f4-4661-b812-96cacdd85594",
+    "name": "Vajuta, Demon of Chaos"
+  },
+  {
+    "id": "48d25c20-4077-4476-a536-7eb572d3a82a",
+    "name": "Mint Shuval, Oracle Guardian"
+  },
+  {
+    "id": "1e08aed9-3871-4f7c-8607-b9bf1047cbb3",
+    "name": "Fuuma Agassion"
+  },
+  {
+    "id": "6d798732-6d87-4337-b3f5-daa220283e24",
+    "name": "Grenbelk, Devil Emperor"
+  },
+  {
+    "id": "0a4161d2-ad17-4ea9-8cd4-72e754714c24",
+    "name": "Gantora Maxivus"
+  },
+  {
+    "id": "0af23c03-bc89-4021-9b2a-00d09bf704e4",
+    "name": "Kenji Panda Nelra, Tyrannical Shogun"
+  },
+  {
+    "id": "dd50976e-e060-4b20-ae8a-df5030463b2b",
+    "name": "1st Lt. Pen Pen, Special Forest Commander"
+  },
+  {
+    "id": "73da961d-5038-4d40-b8aa-febdc6ee93f8",
+    "name": "Bolmeteus 'Kensei' Dragon"
+  },
+  {
+    "id": "99ce0943-65a8-4beb-aa21-af115bc97bfb",
+    "name": "Bolmeteus 'Kensei' Dragon"
+  },
+  {
+    "id": "deebc623-9da3-41a9-9036-5b0e4561e5dd",
+    "name": "Wind Blade - Kamikaze Spirit"
+  },
+  {
+    "id": "63ba3fd1-b3a0-4727-b95e-6be8dd7ead4b",
+    "name": "Dragon Blade - Yamato Spirit"
+  },
+  {
+    "id": "80f41d5f-9859-482e-bbfe-c822442968a5",
+    "name": "Thunder Blade - Bushido Spirit"
+  },
+  {
+    "id": "c431c565-8080-421e-b68b-ee6fb1b5a748",
+    "name": "Bolggenpac, Armed Dragon"
+  },
+  {
+    "id": "6af21fdc-dc7a-47bd-b961-58d571753173",
+    "name": "Shishio, Armed Swordsman"
+  },
+  {
+    "id": "c1c638fc-9aa9-4c65-82cf-643a173d0355",
+    "name": "Julius, Thunder Elemental"
+  },
+  {
+    "id": "02d517e2-6e1d-40d4-9ee4-8a2257af802e",
+    "name": "Gatling Force Dragon"
+  },
+  {
+    "id": "af19a159-6342-4358-a45e-d08fc70be752",
+    "name": "Lupia Lapia"
+  },
+  {
+    "id": "f4654889-1525-4686-bacf-2826638904f1",
+    "name": "Lord Reis, Wisdom Elemantal"
+  },
+  {
+    "id": "314605d0-7f04-4fbb-a8ee-1720b15a189d",
+    "name": "Mil Armor, Mecha King Vizier"
+  },
+  {
+    "id": "c77769c4-d078-4e09-b641-ec44a65c894e",
+    "name": "Suva, Emperor of the Gods"
+  },
+  {
+    "id": "5c711d7e-bd61-4865-8026-879cad6e0c29",
+    "name": "Vishu, Emperor of the Gods"
+  },
+  {
+    "id": "755d9eed-06d8-4233-8a2a-eeb48ade6a93",
+    "name": "Death, Destruction God"
+  },
+  {
+    "id": "a1d49a6d-a114-4788-942f-a2a0edcfc471",
+    "name": "Heavy, Dragon God"
+  },
+  {
+    "id": "93a08d95-497e-40d2-83bb-63f35f1ea478",
+    "name": "Metal, Dragon God"
+  },
+  {
+    "id": "e0bdb051-fe13-4066-a66f-43b13425e3f9",
+    "name": "Magic Shot - Glory Gate"
+  },
+  {
+    "id": "9ec9cdec-1859-4dcd-996f-40580de59697",
+    "name": "Dark Soul Creation"
+  },
+  {
+    "id": "cada7b8a-200e-40b3-99dc-6d6943671b0e",
+    "name": "Magic Shot - Arcadia Egg"
+  },
+  {
+    "id": "16810da1-ffda-47f8-9192-e999ee076afc",
+    "name": "Nero Gryphis, Mystic Light Emperor"
+  },
+  {
+    "id": "94eb5fc0-a451-4d7d-9190-9d627076cae5",
+    "name": "Gregorias, Mystic Light Death Saint"
+  },
+  {
+    "id": "6e4921d6-99b5-411c-92d1-fa4edb88f2d0",
+    "name": "Rock Romanov, the Wicked God"
+  },
+  {
+    "id": "b0f467b4-a45d-4392-b9ec-7569b7a8a749",
+    "name": "Chester Romanov, the Wicked God"
+  },
+  {
+    "id": "cb0bc036-4992-4e5b-91bb-1b97d6663279",
+    "name": "Mad Romanov, the Wicked God"
+  },
+  {
+    "id": "6ad80e64-bd42-4cdf-986a-3c04ae9fcfab",
+    "name": "Earth Eternity Gate"
+  },
+  {
+    "id": "920f0571-31b3-4fe5-898f-3669bc08f185",
+    "name": "God Bringer"
+  },
+  {
+    "id": "cf4f50a7-5821-4ded-920d-e8a35919e819",
+    "name": "Primal Scream"
+  },
+  {
+    "id": "e81715bc-16d0-41c9-aa1b-d82c49a7d5b4",
+    "name": "Evolution Burst - Death and Rebirth"
+  },
+  {
+    "id": "87d55c40-80e8-4df9-a9f1-49bfca1b7c8a",
+    "name": "Dragon Gear - Sword Flash Legend"
+  },
+  {
+    "id": "04107c6d-49b4-4766-8747-ebe436d5c4f4",
+    "name": "Whitecrane Zack, Lord of the Skies"
+  },
+  {
+    "id": "29d8bcde-2380-4689-9b2e-ace92e37ce0c",
+    "name": "Pipippi, Electro-Riser"
+  },
+  {
+    "id": "fd31717c-9dab-4477-96fc-7f7eb351cec5",
+    "name": "Saga, the Almighty Creator"
+  },
+  {
+    "id": "2f7a1b92-f0ab-4160-a279-6343ae9b7589",
+    "name": "Dark Division, Demonic Eye Beast"
+  },
+  {
+    "id": "852acd17-4095-455f-b45d-f3933379888f",
+    "name": "Magmadragon Balga Geyser"
+  },
+  {
+    "id": "71913654-b5bd-4d93-8a61-189ca4d0341b",
+    "name": "Maxval, Electro-Fuuma"
+  },
+  {
+    "id": "3ced3501-5cca-42d6-b357-5b0796f6c89b",
+    "name": "Bolgress Bazz, Matchless Dragon Machine"
+  },
+  {
+    "id": "4d12e01b-43e8-417b-bce4-ed7bc8ab9ab8",
+    "name": "Necrodragon Dobolzack"
+  },
+  {
+    "id": "a7aadea0-621c-402b-9838-d7bb75a40801",
+    "name": "Bloody Dragoon"
+  },
+  {
+    "id": "68cbc121-7a2c-4ee8-8fff-b79ad3eac876",
+    "name": "God Lupia"
+  },
+  {
+    "id": "418b281d-c15d-46ac-9d54-6c19fb87dd7c",
+    "name": "Endra Pappi"
+  },
+  {
+    "id": "bcdd0e65-a8f4-46ed-8cfd-aa5445e808a1",
+    "name": "Impact of Heavenly Violence"
+  },
+  {
+    "id": "23ef41e6-cf58-4bac-bc91-6ecf12cb99fc",
+    "name": "Saint Bolshack, Spiritual Dragon"
+  },
+  {
+    "id": "e3d72d31-a162-4e90-8393-c7176e5913ea",
+    "name": "Phantom Spear Zircon"
+  },
+  {
+    "id": "9ef5af67-ec64-470e-8f1a-2940f87a1174",
+    "name": "Infinity 'Hidden Blade' Dragon"
+  },
+  {
+    "id": "ced6de49-8305-49d8-9d05-317b19a4be95",
+    "name": "Geo Goctra, Armed Dragon"
+  },
+  {
+    "id": "be73e82d-6da3-41b2-9218-29c06ce8f8c9",
+    "name": "Bloody Shadow, Mystic Light Death Knight"
+  },
+  {
+    "id": "74bbe854-d34c-40f8-91df-37e6fdda98c4",
+    "name": "Grand Cross 'Iron Cleaver' Dragon"
+  },
+  {
+    "id": "8d34480b-abbd-4d48-addd-0b25391075fb",
+    "name": "Valkyrie 'Windbreaker' Dragon"
+  },
+  {
+    "id": "80d9765b-c675-42d8-997f-476aa32a682e",
+    "name": "Ivan the 2nd, Demonic Eye Gunman"
+  },
+  {
+    "id": "36e16d73-5f9c-481a-93d4-4dd383f0a4d1",
+    "name": "Necrodragon Metal Zangilas"
+  },
+  {
+    "id": "192a4b5d-48c6-4ded-9795-adcf15d797c7",
+    "name": "Balga Raiser, the Dragonic Meteor"
+  },
+  {
+    "id": "f61be9d8-dbac-4ca6-a93a-0d02068c16a1",
+    "name": "Ailfreet, Spirit of the Holy Gates"
+  },
+  {
+    "id": "7d7b195c-7c02-486f-a762-1905cc3f5bb3",
+    "name": "Ulcelios, Spirit of the Holy Core"
+  },
+  {
+    "id": "5a053697-f994-4624-b8dd-bcd81372f19c",
+    "name": "Black Lucifer, Sorcerer of Darkness"
+  },
+  {
+    "id": "abc3bd70-7a83-46f8-a828-d583ed2f5236",
+    "name": "Super Necrodragon Lunarzberg"
+  },
+  {
+    "id": "79a3d574-549c-48f3-adb5-d590171321f1",
+    "name": "Bari Bari Miracle"
+  },
+  {
+    "id": "c9240f84-6905-4c17-b9f9-05e68e47dce3",
+    "name": "Grave Deal, Pure Flame Shadow"
+  },
+  {
+    "id": "bfdd7449-c08b-4149-8c7b-a3cda1f086c5",
+    "name": "Flamewing Dragon"
+  },
+  {
+    "id": "58de11b7-55ac-42f6-864f-8f646497301f",
+    "name": "Galaxy Lupia"
+  },
+  {
+    "id": "4bf93076-48de-4fd9-a20e-fe63f7494ab3",
+    "name": "Fortress NEX, Assault Fortress"
+  },
+  {
+    "id": "62dba49a-1452-4a14-a065-b81f01c97fff",
+    "name": "Valkyrie Lupia, Sky Lord Dragonmech"
+  },
+  {
+    "id": "a250d8a4-a4d5-423c-add5-5b9b833e8808",
+    "name": "Original Heart, the New Moon Pulses"
+  },
+  {
+    "id": "ee14da82-9830-4baa-8040-8e85ef5a3177",
+    "name": "Melgainer, Electro-Spectre"
+  },
+  {
+    "id": "354b5d49-3e66-4599-ac68-8d37afd2808a",
+    "name": "Great Ashikaga, Wicked General"
+  },
+  {
+    "id": "9637fff9-144f-49cf-aea8-e7b83aada6cd",
+    "name": "Olgaiza, Dark Demon of the Evil Fortress"
+  },
+  {
+    "id": "3befa0ff-4216-4c56-9f31-1ccbaa408b7f",
+    "name": "Asteroid Luxus, Light Comet"
+  },
+  {
+    "id": "5f6d4906-1f2b-455a-a620-992dfa6c3673",
+    "name": "Amnis, Holy Elemental"
+  },
+  {
+    "id": "b02fb837-3b16-4480-9408-49c710c9217d",
+    "name": "Giliam, The Tormentor"
+  },
+  {
+    "id": "80f04b78-bcd4-418f-8429-88dee42a522d",
+    "name": "Brigade Shell Q"
+  },
+  {
+    "id": "b78076a1-eecf-4cc1-9bbc-009b90930edf",
+    "name": "Super Dragon Machine Dolzark"
+  },
+  {
+    "id": "de4c01ce-5f8c-4332-8953-dbb2c9d18ab2",
+    "name": "Super Dragon Machine Dolzark"
+  },
+  {
+    "id": "ff54e307-7097-4b12-9c35-e06307f61e74",
+    "name": "Olgate, Nightmare Samurai"
+  },
+  {
+    "id": "4c2e1260-29a9-4645-939a-012fa9df932f",
+    "name": "Q-tronic Omnistrain"
+  },
+  {
+    "id": "7e9eddab-97ea-4b14-8e43-ede104dbf99a",
+    "name": "Dyno Mantis, The Mightspinner"
+  },
+  {
+    "id": "e9a62043-5346-4584-bb61-84828af444f9",
+    "name": "Armored Valborg"
+  },
+  {
+    "id": "6c562252-75d9-4723-8316-e3dc4a303e3d",
+    "name": "Velyrika Dragon"
+  },
+  {
+    "id": "ec5bdb88-895a-4ca8-8f83-0cd99d24c765",
+    "name": "Überdragon Zaschack"
+  },
+  {
+    "id": "5d280781-11d2-4ef2-8629-7ad155ae3eda",
+    "name": "Cyber Brain"
+  },
+  {
+    "id": "df61933b-d11d-4ca7-ae70-8d5828b8a470",
+    "name": "Hell Slash"
+  },
+  {
+    "id": "eac79388-1cc6-456b-8e41-e931112f3cc9",
+    "name": "Terradragon Soulgardas"
+  },
+  {
+    "id": "c4f3db71-e9e7-4ab6-95fc-1174b4f42aca",
+    "name": "Streaming Shaper"
+  },
+  {
+    "id": "05c47a4a-aca7-4bc2-858d-15599c34ee19",
+    "name": "Glaris, Electro-Spirit"
+  },
+  {
+    "id": "62c85ad7-20c5-4eb0-8b9e-58c4266139f1",
+    "name": "Astral Reef"
+  },
+  {
+    "id": "774ee0bb-0dcc-4213-8217-534cfab303fe",
+    "name": "Angila, Electro-Mask"
+  },
+  {
+    "id": "8a447cbb-a303-4327-80f9-117e0795a997",
+    "name": "Galzark, Divine Destruction Dragon Knight"
+  },
+  {
+    "id": "2aab221b-b1ed-40ba-878d-a1c92cfc06cf",
+    "name": "Saberfili, the Paladin"
+  },
+  {
+    "id": "5694f7de-6f43-4c73-bd13-5a529b10f470",
+    "name": "Necrodragon Zekira"
+  },
+  {
+    "id": "600eddff-520f-4195-a2f2-605ef6c3ea71",
+    "name": "Zardia, Spirit of Bloody Winds"
+  },
+  {
+    "id": "293b1635-fe60-4a0a-b4bb-752866a8cd5e",
+    "name": "Gravity Dragon"
+  },
+  {
+    "id": "f1d269b6-516e-4b28-ba9d-302b71b893bd",
+    "name": "Kamikaze Zephyr"
+  },
+  {
+    "id": "3da55908-e105-4270-b150-d5155f222f0b",
+    "name": "Aquan"
+  },
+  {
+    "id": "1ed1889a-fbbb-4fd8-ab52-c7589b0dd018",
+    "name": "Forte, Brave Fear Lord"
+  },
+  {
+    "id": "a4568ee5-1894-4f2b-8e77-55c376797dbb",
+    "name": "Dark Jios, Lord of Dark Dragons"
+  },
+  {
+    "id": "b6bf1e13-1018-409b-b425-4cc23536a2c0",
+    "name": "Neo Bolshack Dragon"
+  },
+  {
+    "id": "d3f67040-cece-44c9-afbc-2ab7d860b54a",
+    "name": "Leopard Glory Sword"
+  },
+  {
+    "id": "d13ed1db-47e1-407f-9806-ad0c69bbf43a",
+    "name": "Magmadragon Gardos"
+  },
+  {
+    "id": "f0deb2fa-6ff6-482f-a8a8-47e1ecf55158",
+    "name": "Helios Tiga Dragon"
+  },
+  {
+    "id": "bc0fb446-60cc-4173-b285-c7ab72aed99c",
+    "name": "Dark Salamandaz, White Tiger Swordsman"
+  },
+  {
+    "id": "f34acf84-3725-46fd-9bfc-318ab9f35530",
+    "name": "Dandy Eggplant"
+  },
+  {
+    "id": "fe00ddd6-ad76-4d37-9337-94450c965ac4",
+    "name": "Shining Nova, Dragon Flame Phoenix"
+  },
+  {
+    "id": "d98a5940-7a7b-494c-a01c-344f955f0189",
+    "name": "Demonic Vice"
+  },
+  {
+    "id": "5122c996-ec44-4caa-828a-a28b3d90d039",
+    "name": "Priusriser, Spirit Knight"
+  },
+  {
+    "id": "3f436235-06e8-4886-af62-a21a26aef1fb",
+    "name": "Flamenimal of Wildfire"
+  },
+  {
+    "id": "e5b91fd2-cf3d-4fca-b830-1e669e379ff6",
+    "name": "Fuuma Abyss Magmoor"
+  },
+  {
+    "id": "ef4cd888-abd0-4384-b475-a365b3d51223",
+    "name": "Commander Lucky Lottofive"
+  },
+  {
+    "id": "6c77b8a9-a41d-41b0-9814-531255fc589b",
+    "name": "Meteor Flash Dragoon"
+  },
+  {
+    "id": "8a46c2f3-f2c7-449e-ae3e-5b23e2e855c5",
+    "name": "Wheel Warrior W, Invincible Warrior"
+  },
+  {
+    "id": "3cd95f04-9b2f-42cb-bbe5-b9505bad0566",
+    "name": "Jamseal, Spirit Knight"
+  },
+  {
+    "id": "da3d3731-8b97-4919-9972-18bdc1851939",
+    "name": "Paladin S, Invincible Warrior"
+  },
+  {
+    "id": "7482458c-ea97-474a-9bcc-54dde25bf440",
+    "name": "Fuuma Daidologinus"
+  },
+  {
+    "id": "d953602a-556e-4263-9086-92073d2860d4",
+    "name": "Flaremetal Dragoon"
+  },
+  {
+    "id": "e1178e21-6946-46d5-b848-3bef7180dfb7",
+    "name": "Banjo, the Super-energetic"
+  },
+  {
+    "id": "af5c05d8-5cfb-4a4e-9a5e-61d2ae9359c1",
+    "name": "Fuuma Fernodalos"
+  },
+  {
+    "id": "60a9d53f-2f52-49ba-b597-a3dd27b3b78e",
+    "name": "Bolmeteus Red Dragoon"
+  },
+  {
+    "id": "a113f5c4-8ea3-4698-9b2a-d2169fd6607c",
+    "name": "Diamond Glorius, Light Divine Dragon"
+  },
+  {
+    "id": "985ba2fc-007a-46d6-889b-0286065024f8",
+    "name": "Supernova Ixion Burning Rave"
+  },
+  {
+    "id": "f5b9b0e6-7b69-4491-86c8-f16895aa666a",
+    "name": "Vilan Legius, Battle Dragon"
+  },
+  {
+    "id": "67a13371-fba8-4ad3-9e11-03086d51b2d2",
+    "name": "Balzack, Military Flame God"
+  },
+  {
+    "id": "2bf009b7-e5c4-49f4-ad55-56883bd16c16",
+    "name": "Olmegas, Military Earth God"
+  },
+  {
+    "id": "eb22fa4d-1f42-421d-bfe5-427028c9d2cc",
+    "name": "Zeek Calibas, the Fuuma Holy Dragon"
+  },
+  {
+    "id": "bf4f9a63-3660-4804-819e-9f3d7c8bd304",
+    "name": "Olgias, Champion of the Evil Fortress"
+  },
+  {
+    "id": "2b172064-c0b6-4524-974b-838261ae9006",
+    "name": "Valgazak, Matchless Dragonmech"
+  },
+  {
+    "id": "f217ab39-19cd-4094-b8b5-1154f9adc6bd",
+    "name": "Gaius, Mystic Light Emperor"
+  },
+  {
+    "id": "0cedee59-ffe2-4860-a5f6-3bd7895f2624",
+    "name": "Balga Zenigata, Armed Dragon"
+  },
+  {
+    "id": "0d0066e0-e560-4b24-ad46-8895db471d31",
+    "name": "Gordnov the 5th, Demonic Eyed Death Dragon"
+  },
+  {
+    "id": "be9689b6-d3b2-4720-83ca-421e9eab8c2d",
+    "name": "Overkill Zero Dragon"
+  },
+  {
+    "id": "ff683682-abdc-4007-87d9-4bed2c3e1872",
+    "name": "Überdragon Bolmeteus Crimson"
+  },
+  {
+    "id": "064d8062-939d-4832-b48d-84a182f5dbb1",
+    "name": "Cerulean Dagger Dragon"
+  },
+  {
+    "id": "710e3158-5264-413f-bacd-da3b47be1c42",
+    "name": "Varz Romanov, Dark Lord of Demons"
+  },
+  {
+    "id": "a7b0c7fd-c8fa-47d9-8dfe-77fcb69359d8",
+    "name": "Valkerios Samurai Dragon"
+  },
+  {
+    "id": "9bef360b-2a14-44d1-9b3c-66eff50c5da9",
+    "name": "Geometeus Infinite Dragon"
+  },
+  {
+    "id": "6475dac4-0a66-40ed-b760-c276bfe4db43",
+    "name": "Bocco Lupia"
+  },
+  {
+    "id": "7c32fe51-c895-48b7-a338-6ac9bbaa347a",
+    "name": "Diamond Aven, Spirit of Awakening"
+  },
+  {
+    "id": "6fb58f86-935a-4d23-b669-1e7d353d0414",
+    "name": "Inferno Sign"
+  },
+  {
+    "id": "595c6576-d9c8-4947-aa2e-519dc41b5b82",
+    "name": "Inferno Sign"
+  },
+  {
+    "id": "3f82c55e-5b71-4202-bf74-b4299614d32e",
+    "name": "Bolmeteus Sapphire Dragon"
+  },
+  {
+    "id": "95b63387-4260-4b0b-8654-1b46ed1c027b",
+    "name": "Terror Pit"
+  },
+  {
+    "id": "d0e938ec-124e-420a-9e6f-0aa44f071eca",
+    "name": "Bronze-Arm Tribe"
+  },
+  {
+    "id": "8e195419-e837-483b-8572-355fecf8f33e",
+    "name": "Hell's Scrapper"
+  },
+  {
+    "id": "7df58fc9-716a-40d9-89b0-2210a2ce2be1",
+    "name": "Hell's Scrapper"
+  },
+  {
+    "id": "726831ea-c2ba-4e98-bd83-6cc7f7bf9fb6",
+    "name": "Hell's Scrapper"
+  },
+  {
+    "id": "e2ae8719-8325-4c99-b29e-102085da1974",
+    "name": "Ultimate 'Shadow Tiger' Dragon"
+  },
+  {
+    "id": "be1c1447-0004-4e2e-a741-dfb47cf7e6f5",
+    "name": "Ultra Miracluppi"
+  },
+  {
+    "id": "5741304d-89b2-4ed1-a481-4a794210ef7c",
+    "name": "Greatest Earth, Planetary Dragon"
+  },
+  {
+    "id": "3eaf10ef-1bf4-4443-9d77-4e1a10cf7193",
+    "name": "Dark Lucifer, Demonic Eyed Gunman"
+  },
+  {
+    "id": "b519b724-3a54-4847-8ca9-7b56fec4b3d9",
+    "name": "Bolbalzak 'Sword Flash' Dragon, Blue Divine Dragon"
+  },
+  {
+    "id": "a2be29db-97da-40bd-8ff2-9f5781e6af50",
+    "name": "Saga, God of Destruction"
+  },
+  {
+    "id": "143e624a-e4a7-4612-a4f2-f1447b25daab",
+    "name": "Aqua Surfer"
+  },
+  {
+    "id": "9a2cb13b-7a0a-4bb6-a486-c546192c5a0b",
+    "name": "Aqua Surfer"
+  },
+  {
+    "id": "5f2a7c71-adc0-4ea3-afb9-3c1999c2cb5e",
+    "name": "Überdragon Baham"
+  },
+  {
+    "id": "7fe5722e-3e4a-4543-b6fc-d53baf1b6704",
+    "name": "Alphadios, Lord of Spirits"
+  },
+  {
+    "id": "97a855ee-1460-4f14-b0f0-46491b4b76cc",
+    "name": "Natural Snare"
+  },
+  {
+    "id": "d8c0c9ea-b8bc-4cde-aa3c-2ce6d701657d",
+    "name": "Death Smoke"
+  },
+  {
+    "id": "8217ac36-5184-463e-8a7e-38f3c8baf668",
+    "name": "Cocco Lupia"
+  },
+  {
+    "id": "74652d73-ab29-4c7b-84b4-de6ffdc0b363",
+    "name": "Ballom, Master of Death"
+  },
+  {
+    "id": "31977e53-9534-4130-9fc8-c28fc5afc9ad",
+    "name": "Emeral"
+  },
+  {
+    "id": "54621340-a25d-4cc7-8801-0894d230f57e",
+    "name": "Aku, Ultimate God"
+  },
+  {
+    "id": "654c5ab4-9f4b-4c4e-be5e-2c4f773d3c7a",
+    "name": "Amaterasu, Founder of the Blue Wolves"
+  },
+  {
+    "id": "b546c319-0a68-4b5a-a1fb-b504f5d5d408",
+    "name": "Babelginus, Demonic Dragon"
+  },
+  {
+    "id": "87f29c76-e530-487a-89b7-94d773c56da5",
+    "name": "Baiken, Blue Dragon of the Hidden Blade"
+  },
+  {
+    "id": "6544df7e-24c2-49b3-95b1-97c5ea197241",
+    "name": "Bega, Vizier of Shadow"
+  },
+  {
+    "id": "76c6a411-3f65-4fb5-a3d1-d188e30a1456",
+    "name": "Boiling Blade - Dual Stinger"
+  },
+  {
+    "id": "c3b88eb1-4b7e-4b33-98cd-4ccbee64a3d2",
+    "name": "Violence Heaven"
+  },
+  {
+    "id": "32f2a6e6-6384-4d67-a19c-0518816346bc",
+    "name": "Musha Lupia"
+  },
+  {
+    "id": "acd9c7eb-403d-46e0-ad14-4ce8f96d4f88",
+    "name": "Queen Alcadeias, Holy Gaia"
+  },
+  {
+    "id": "c8d4fe22-66c2-46d3-b9c5-8a18da71967f",
+    "name": "Qurian"
+  },
+  {
+    "id": "c6eb0d69-162e-400d-be54-89189ec789a0",
+    "name": "Elupheus, Lord of Spirits"
+  },
+  {
+    "id": "4fcf61a1-9738-4777-9890-74e6d0c2347d",
+    "name": "Super Trash Train, Fuuma Devil"
+  },
+  {
+    "id": "2c374db2-7b97-4205-a669-cda740d21176",
+    "name": "Bolshack Yamato Dragon"
+  },
+  {
+    "id": "2dbe96e2-2ca6-4eff-baaa-546580db7c42",
+    "name": "King Alcadeias, Holy Gaia"
+  },
+  {
+    "id": "246ac39d-d9a0-49cb-96c4-8998662c34b6",
+    "name": "Zen, Transcendent God"
+  },
+  {
+    "id": "43547845-55ec-4f5e-bef7-df3a9f56bbcf",
+    "name": "Murmur, Vizier of Formation"
+  },
+  {
+    "id": "4b0f1da0-bb2e-40fe-a453-41eb64946368",
+    "name": "Bullet \"Shirou\" Barrett"
+  },
+  {
+    "id": "23945b8c-07c0-4d74-bd9d-6055bf586ba4",
+    "name": "Crest of Mother"
+  },
+  {
+    "id": "b8e4a4b7-ad0b-4e07-b299-330ebb4cbdd4",
+    "name": "Dragon Ultimate God Geki"
+  },
+  {
+    "id": "4364f931-1a39-40ff-9f1b-f1b7d6a77b9e",
+    "name": "Dragon Ultimate God Metsu"
+  },
+  {
+    "id": "3de7278e-3f93-460d-83c9-1c1126a1842e",
+    "name": "Change the World, Blue Divine Dragon"
+  },
+  {
+    "id": "610460f8-cfdc-49ea-a642-80797b312b2f",
+    "name": "DEATH Dragerion, the Supernova"
+  },
+  {
+    "id": "ccc5ee70-bc60-420d-92e5-ed8bd7ff949f",
+    "name": "Death Phoenix, Avatar of Doom"
+  },
+  {
+    "id": "546d8f58-44bd-43f7-947a-9a192f8d1734",
+    "name": "Dorvolan, the Battle Attacking Dragon Rider"
+  },
+  {
+    "id": "431148f8-29bc-4d58-8376-7af75468d92b",
+    "name": "Dual Shock Dragon"
+  },
+  {
+    "id": "a30403b3-75b0-4916-9d5e-5d21e0461326",
+    "name": "Skysword, the Savage Vizier"
+  },
+  {
+    "id": "b16028e0-c74c-410b-a01a-6784550aee99",
+    "name": "Supernova Apollonus Dragerion"
+  },
+  {
+    "id": "dfcd4201-ea9a-4b6b-9793-70ab4b4a48de",
+    "name": "Spell Del Fin, Light Divine Dragon"
+  },
+  {
+    "id": "f4f7f83e-daf8-4327-b963-6a4f13fd4d6c",
+    "name": "Valkerios Dragon"
+  },
+  {
+    "id": "c16f975c-3b25-4296-8890-edca5339a0ec",
+    "name": "Malibu Dancer"
+  },
+  {
+    "id": "13ea4cea-09d1-47eb-9859-4693e40ebdce",
+    "name": "Invisible Suit"
+  },
+  {
+    "id": "654e926a-03c3-4130-911c-bf1a4a6461ac",
+    "name": "Inferno Gate"
+  },
+  {
+    "id": "54b94d00-c8db-471a-a9b3-bf2edf12a0eb",
+    "name": "Osmosis Bullet Soul, Skull Hunter"
+  },
+  {
+    "id": "c9be6090-077b-4f34-95cc-d33b2266e45c",
+    "name": "Headlong Giant"
+  },
+  {
+    "id": "22e9d177-69b3-4239-8b2b-ec97f74d5577",
+    "name": "Überdragon Bajula"
+  },
+  {
+    "id": "bf000f38-660c-4ce0-aa24-2ecbb1e4dee2",
+    "name": "Magmadragon Jagalzor"
+  },
+  {
+    "id": "ccf7ccd6-48e1-46f6-9800-367bf36ec29b",
+    "name": "Emergency Typhoon"
+  },
+  {
+    "id": "543e9cb0-a340-4c4e-bff1-049ed0036b09",
+    "name": "Transmogrify"
+  },
+  {
+    "id": "5468c3cc-b2ef-4d54-aec8-a4b5bde0b904",
+    "name": "Necrodragon Jagraveen"
+  },
+  {
+    "id": "a11bd791-18b3-4927-a45c-3c52e3a568a0",
+    "name": "Space Crawler"
+  },
+  {
+    "id": "a21b30a4-7ee9-4db3-b048-21986d402e94",
+    "name": "Terradragon Balgazarmas"
+  },
+  {
+    "id": "32ccb5de-a2f3-4556-b810-1da74dac97de",
+    "name": "Lyla Latta"
+  },
+  {
+    "id": "239319d8-b68f-4536-9dda-8d9913ec4574",
+    "name": "Biwanoshin, Wandering Travelers"
+  },
+  {
+    "id": "a5276c8a-3ebf-4a12-861b-836b993d3f89",
+    "name": "Necrodragon Guljeneraid"
+  },
+  {
+    "id": "aa3dd7e8-dea9-407b-98b3-0df6cd18a97a",
+    "name": "Gulan Berze, Poseidon Destroying Dragon"
+  },
+  {
+    "id": "b52abc73-b7d2-450a-9c3d-d9ca9b7c899b",
+    "name": "Überdragon Sunburst NEX"
+  },
+  {
+    "id": "24df6981-22d6-4802-9f43-d83656324cac",
+    "name": "Stardust NEX, Spiritual Dragon Knight"
+  },
+  {
+    "id": "3002970e-b70a-432a-9c50-503f4120b18b",
+    "name": "Fernando the 7th, Emperor of Mystic Light"
+  },
+  {
+    "id": "814a278c-531d-4e4e-b456-70e7f3674008",
+    "name": "Master Lupia, Temporal Wing"
+  },
+  {
+    "id": "1ad01812-1781-434b-824b-ea827a8ea991",
+    "name": "Suva, Temporal Menace"
+  },
+  {
+    "id": "a76dd455-c86c-4df5-82e4-d12807668ca5",
+    "name": "Storm Double Cross, Temporal Storm"
+  },
+  {
+    "id": "157c90b5-53d3-4de9-bd46-02a676ea3dc6",
+    "name": "Galaxy, Temporal Immortal"
+  },
+  {
+    "id": "6b339d81-8424-4436-ba75-7fc741d77969",
+    "name": "Bolmeteus 'Young Samurai' Dragon, Temporal Samurai"
+  },
+  {
+    "id": "dd9b8e01-3f26-4e11-aecd-eeccfba8f3a1",
+    "name": "Olzekia, Temporal Sword General"
+  },
+  {
+    "id": "0da4592c-74e2-408b-9856-6f6c56e06e63",
+    "name": "Hyperspatial Shooting Hole"
+  },
+  {
+    "id": "88c14c77-30e1-4583-b2a9-0ddf5732d9b6",
+    "name": "Hyperspatial Emperor Hole"
+  },
+  {
+    "id": "ac80a3a2-7c6d-4231-b6c5-6376a7f24b62",
+    "name": "Hyperspatial Samurai Hole"
+  },
+  {
+    "id": "9c762431-4e58-4544-b401-0915a63bc7a5",
+    "name": "Shobu Aini"
+  },
+  {
+    "id": "850c4f2f-6ae0-48e9-9f85-b6a3523e5907",
+    "name": "Reppi Aini"
+  },
+  {
+    "id": "8fac9000-4e89-41d8-a12d-ea1a3a3a027f",
+    "name": "Dual Belforce, Blastdragon"
+  },
+  {
+    "id": "3795604f-65fd-4153-9678-b4a00dc9d244",
+    "name": "Storm Double Cross, Blastdragon ~Tornado Chain~"
+  },
+  {
+    "id": "f184d970-abcf-41b2-9ef8-a46f9553fb63",
+    "name": "Perfect Storm Double Cross, Blastdragon"
+  },
+  {
+    "id": "42320f73-5170-4425-89af-60c657536447",
+    "name": "Crystal Super Paladin"
+  },
+  {
+    "id": "b71e864e-a811-473b-a05e-20e2313458ac",
+    "name": "Galaxy Cross Aini, Sky Lord Dragonmech"
+  },
+  {
+    "id": "5db10014-4ea7-4ae6-a844-97bce5bab160",
+    "name": "Überdragon Fighbird"
+  },
+  {
+    "id": "369d3709-88dd-4f98-a851-ca868a26e96c",
+    "name": "Manly Pepper"
+  },
+  {
+    "id": "ca5ab177-a919-4343-b92f-6e22ff3f0f72",
+    "name": "Kizuna Blaster"
+  },
+  {
+    "id": "616c146e-049f-4720-a225-0a189729ca79",
+    "name": "Chilias, the Oracle"
+  },
+  {
+    "id": "f7dc24d2-2a84-46ff-9661-0b8418d68650",
+    "name": "Dia Nork, Moonlight Guardian"
+  },
+  {
+    "id": "ecd1ae69-4f63-4e8d-a3f4-9a5c81f98a20",
+    "name": "Emerald Grass"
+  },
+  {
+    "id": "b7d11c62-2ab3-439b-b147-ae29d34e9216",
+    "name": "Frei, Vizier of Air"
+  },
+  {
+    "id": "39090f65-779c-46c9-856c-67303dd5605c",
+    "name": "Gran Gure, Space Guardian"
+  },
+  {
+    "id": "0ec572b0-ffaf-4abd-a540-ba26c98aacc5",
+    "name": "Holy Awe"
+  },
+  {
+    "id": "578ed21b-8ba5-42b2-b662-87a321ee0c7d",
+    "name": "Iere, Vizier of Bullets"
+  },
+  {
+    "id": "6a4270cf-f3be-4c66-8b30-eb2c769065dc",
+    "name": "Iocant, the Oracle"
+  },
+  {
+    "id": "c05fe45d-690e-4856-bddb-5f46154e57e5",
+    "name": "La Ura Giga, Sky Guardian"
+  },
+  {
+    "id": "0cc5279e-0a26-41a8-a2a5-f7711120b772",
+    "name": "Lah, Purification Enforcer"
+  },
+  {
+    "id": "95bfccf9-91cf-4ab9-8298-c95bc368bf0b",
+    "name": "Laser Wing"
+  },
+  {
+    "id": "cf5eb3d3-e128-42db-bf1a-161d5dd4b972",
+    "name": "Lok, Vizier of Hunting"
+  },
+  {
+    "id": "15efe8b0-02c1-439b-8e7c-4548e74f5c33",
+    "name": "Miele, Vizier of Lightning"
+  },
+  {
+    "id": "b12f1d66-46ee-49b9-878d-59cc3d515633",
+    "name": "Moonlight Flash"
+  },
+  {
+    "id": "808ddd60-e8ca-49f0-9baa-57e632f85b28",
+    "name": "Rayla, Truth Enforcer"
+  },
+  {
+    "id": "7b58e8c2-0b1e-4ef5-812f-e667c2092c73",
+    "name": "Reusol, the Oracle"
+  },
+  {
+    "id": "d5d57060-ca58-48e1-8903-9b8362c92b0d",
+    "name": "Ruby Grass"
+  },
+  {
+    "id": "725a28b7-8c06-4691-93d8-1c6b0dacdba5",
+    "name": "Senatine Jade Tree"
+  },
+  {
+    "id": "9430e127-ce64-4572-b386-f1ce3f50e94a",
+    "name": "Solar Ray"
+  },
+  {
+    "id": "c3389188-718d-45bb-8946-0a572d96916b",
+    "name": "Sonic Wing"
+  },
+  {
+    "id": "eccceb7c-834c-4bf9-b0cd-c2dc6fad3dbf",
+    "name": "Szubs Kin, Twilight Guardian"
+  },
+  {
+    "id": "340ec79b-3a4e-4483-ac0e-5dd6b40eb4e1",
+    "name": "Toel, Vizier of Hope"
+  },
+  {
+    "id": "57eeb3c3-2561-4841-a381-2e50d17533d1",
+    "name": "Aqua Hulcus"
+  },
+  {
+    "id": "09b218fc-9c5a-48ef-9555-4908932271e9",
+    "name": "Aqua Knight"
+  },
+  {
+    "id": "c43bc627-9e7a-4686-9d61-789425669b02",
+    "name": "Aqua Soldier"
+  },
+  {
+    "id": "9781089f-1aa9-4a75-b106-35e9d431e31d",
+    "name": "Aqua Vehicle"
+  },
+  {
+    "id": "7f225860-af37-47ac-9b36-1480872576b6",
+    "name": "Brain Serum"
+  },
+  {
+    "id": "596f5b72-2502-4120-81f9-9ff9a17271d8",
+    "name": "Candy Drop"
+  },
+  {
+    "id": "2c8ded77-89f3-4625-aa3e-6576b83e0384",
+    "name": "Crystal Memory"
+  },
+  {
+    "id": "a3cf18f0-b04f-45e9-97f7-2a2ead0a1787",
+    "name": "Faerie Child"
+  },
+  {
+    "id": "c971ff15-5735-4d61-bb16-c805130ca405",
+    "name": "Hunter Fish"
+  },
+  {
+    "id": "ce48ff2c-ea9e-4c12-8629-028d2480b063",
+    "name": "Illusionary Merfolk"
+  },
+  {
+    "id": "3e2940f4-5654-4456-bfc2-fa5e43911cfb",
+    "name": "King Coral"
+  },
+  {
+    "id": "f04feb7f-971f-4192-893a-46c23180233a",
+    "name": "King Ripped-Hide"
+  },
+  {
+    "id": "3f331274-f5f8-42e7-9f28-ce637add34d4",
+    "name": "Marine Flower"
+  },
+  {
+    "id": "4b021e6f-39cf-401e-89cf-f164f7c0a797",
+    "name": "Phantom Fish"
+  },
+  {
+    "id": "cfe9f5b8-2eeb-42c9-89ff-7e69734adc4d",
+    "name": "Revolver Fish"
+  },
+  {
+    "id": "70e6cc2c-c63d-4dd9-9b6e-0713fed174bb",
+    "name": "Saucer-Head Shark"
+  },
+  {
+    "id": "446eaf96-36c8-4093-b4b2-e77e7afb6e3f",
+    "name": "Seamine"
+  },
+  {
+    "id": "be80f0e8-05b7-4914-916a-f24d5e616ea8",
+    "name": "Spiral Gate"
+  },
+  {
+    "id": "a3331db6-d3c2-4b3f-9fcc-f4aa9fc2bb52",
+    "name": "Teleportation"
+  },
+  {
+    "id": "7a6f1c82-a8ac-4646-b3e9-fb8592bdd0a4",
+    "name": "Tropico"
+  },
+  {
+    "id": "c9b98336-312d-4d08-8add-6b820a88815f",
+    "name": "Unicorn Fish"
+  },
+  {
+    "id": "68d78fd4-db8a-43a6-8eb6-e1435cfc2959",
+    "name": "Virtual Tripwire"
+  },
+  {
+    "id": "c62208ec-efc8-4b08-bb01-6cd5251b0969",
+    "name": "Black Feather, Shadow of Rage"
+  },
+  {
+    "id": "f3ded71d-3cf9-415b-a9d2-b759ca0ce07b",
+    "name": "Bloody Squito"
+  },
+  {
+    "id": "cc9762c3-515a-4734-a3fe-1e0c4c3b3d71",
+    "name": "Bone Assassin, the Ripper"
+  },
+  {
+    "id": "4d3201e8-0d9b-481e-b8e3-86cb90058e20",
+    "name": "Bone Spider"
+  },
+  {
+    "id": "452aead9-2a65-46b1-84b2-383fe99ddc5f",
+    "name": "Creeping Plague"
+  },
+  {
+    "id": "dd9d1cc1-01cb-4bf9-80c4-821e3c449887",
+    "name": "Dark Clown"
+  },
+  {
+    "id": "162f70fb-33f7-4436-a114-41f255c0ce7e",
+    "name": "Dark Raven, Shadow of Grief"
+  },
+  {
+    "id": "6f2cc530-1228-4b03-9ec0-ba24f6a367bf",
+    "name": "Dark Reversal"
+  },
+  {
+    "id": "d1703c3b-8e49-4959-8322-ae11a7ca6632",
+    "name": "Death Smoke"
+  },
+  {
+    "id": "ae797f95-54b1-48e9-9216-f315b39826bd",
+    "name": "Ghost Touch"
+  },
+  {
+    "id": "c4839847-e393-47b0-b172-95531aa6d39e",
+    "name": "Gigaberos"
+  },
+  {
+    "id": "5d73062e-acff-47e6-b49a-c0bb1a1762b5",
+    "name": "Gigagiele"
+  },
+  {
+    "id": "6161e271-5294-4073-94d2-b9c06f9d8fa3",
+    "name": "Gigargon"
+  },
+  {
+    "id": "ea878730-fde0-4bd0-ad25-95e49f54a1b2",
+    "name": "Masked Horror, Shadow of Scorn"
+  },
+  {
+    "id": "f16795cc-4378-4e36-b13a-19f9b932228c",
+    "name": "Night Master, Shadow of Decay"
+  },
+  {
+    "id": "ec46daa1-49ce-4b88-b2bc-e923672ad0f3",
+    "name": "Skeleton Soldier, the Defiled"
+  },
+  {
+    "id": "a7eceb07-4f6d-4b2b-8dba-7a3df8f803f7",
+    "name": "Stinger Worm"
+  },
+  {
+    "id": "edd6cffc-8c91-4682-b8af-64cfe823103b",
+    "name": "Swamp Worm"
+  },
+  {
+    "id": "5883180e-d88c-4f24-b17c-f5a837420147",
+    "name": "Terror Pit"
+  },
+  {
+    "id": "dbdbad44-6a62-4eff-b8f1-95f56588a13a",
+    "name": "Vampire Silphy"
+  },
+  {
+    "id": "90b2ed59-828c-4237-ac2e-b7008a02ad2e",
+    "name": "Wandering Braineater"
+  },
+  {
+    "id": "e2b992ee-91a3-49d3-8228-7be60a0b9ec5",
+    "name": "Writhing Bone Ghoul"
+  },
+  {
+    "id": "ae66061e-6039-4dee-abf0-51169913bb35",
+    "name": "Armored Walker Urherion"
+  },
+  {
+    "id": "0b1e4f56-6342-46db-9faf-882fd1f1f179",
+    "name": "Artisan Picora"
+  },
+  {
+    "id": "0ffdcae3-9db2-401b-8a82-dfad707b83cd",
+    "name": "Bolshack Dragon"
+  },
+  {
+    "id": "5370bad9-1260-455e-8120-ea89badc7eaf",
+    "name": "Brawler Zyler"
+  },
+  {
+    "id": "5cafc789-e730-4472-9a62-8b333b2691e6",
+    "name": "Burning Power"
+  },
+  {
+    "id": "71d90484-c144-4dcf-ad8e-23e7e55f0f2e",
+    "name": "Chaos Strike"
+  },
+  {
+    "id": "87a102b5-71fd-410a-a8f0-c35182217f08",
+    "name": "Crimson Hammer"
+  },
+  {
+    "id": "c5a869f4-a959-4667-a352-92df5369e0b9",
+    "name": "Deadly Fighter Braid Claw"
+  },
+  {
+    "id": "6cf85053-abaa-4577-b151-86123004980e",
+    "name": "Draglide"
+  },
+  {
+    "id": "f682051b-7cc3-4155-aa8b-eb3335b0435c",
+    "name": "Explosive Fighter Ucarn"
+  },
+  {
+    "id": "ebd730e1-1099-41ec-a028-6ef1d4cf91b2",
+    "name": "Fatal Attacker Horvath"
+  },
+  {
+    "id": "c782edd9-34ef-47f5-8f16-af2c3b107a36",
+    "name": "Fire Sweeper Burning Hellion"
+  },
+  {
+    "id": "3b6e6c29-017d-41b9-bf93-186f7963723e",
+    "name": "Gatling Skyterror"
+  },
+  {
+    "id": "af3bc221-1cc2-4f58-83ea-2673ac2c66c5",
+    "name": "Immortal Baron, Vorg"
+  },
+  {
+    "id": "35a9315c-2c08-46e0-b96b-daf3e8e996ce",
+    "name": "Magma Gazer"
+  },
+  {
+    "id": "d067285f-10ea-4666-99c8-bc23e27e3262",
+    "name": "Meteosaur"
+  },
+  {
+    "id": "983e72d7-3f4e-466d-a4e3-06552e392af2",
+    "name": "Nomad Hero Gigio"
+  },
+  {
+    "id": "198ffce7-3d79-420e-9d9b-ebd6421adb6f",
+    "name": "Onslaughter Triceps"
+  },
+  {
+    "id": "a8503655-fdcb-48e2-bfb0-0ad3aae31f0e",
+    "name": "Rothus, the Traveler"
+  },
+  {
+    "id": "41c0664d-1969-487d-bde5-866127c1c49e",
+    "name": "Stonesaur"
+  },
+  {
+    "id": "becd0856-fb8b-46fd-a950-b57cc5d17c70",
+    "name": "Super Explosive Volcanodon"
+  },
+  {
+    "id": "48c5c29b-2f4e-4a57-86b4-864c6f0dc124",
+    "name": "Tornado Flame"
+  },
+  {
+    "id": "7b22cc2c-3a4a-4f50-9e61-fb9646a762cd",
+    "name": "Aura Blast"
+  },
+  {
+    "id": "015fd6bb-37a9-45cf-bb6b-a5497412b880",
+    "name": "Bronze-Arm Tribe"
+  },
+  {
+    "id": "1d72eb3e-5185-449a-a16f-391bd2338343",
+    "name": "Burning Mane"
+  },
+  {
+    "id": "e2e5e1ef-c613-449a-8400-15581082501b",
+    "name": "Coiling Vines"
+  },
+  {
+    "id": "32acfe8b-90fc-4ba9-b6ad-7655c0abee12",
+    "name": "Dimension Gate"
+  },
+  {
+    "id": "a4adb373-0aec-4fff-997c-3820c7ec528d",
+    "name": "Dome Shell"
+  },
+  {
+    "id": "fcd0cb50-b687-4180-90a8-390aeb8705cc",
+    "name": "Fear Fang"
+  },
+  {
+    "id": "43abeec5-0597-43b3-93cf-766b95d19b5b",
+    "name": "Forest Hornet"
+  },
+  {
+    "id": "6663848d-035e-44b6-9d9f-7b236ea5bc43",
+    "name": "Golden Wing Striker"
+  },
+  {
+    "id": "0e26fe1a-a9d1-4c78-80e9-7f4cc0e4c1c8",
+    "name": "Mighty Shouter"
+  },
+  {
+    "id": "a2e11f7f-63f4-4357-9e77-5314576dff45",
+    "name": "Natural Snare"
+  },
+  {
+    "id": "858b2c1d-5507-46f0-8840-151ee59f760b",
+    "name": "Pangaea's Song"
+  },
+  {
+    "id": "bee69327-ca6b-455c-b3dc-463fc3284b61",
+    "name": "Poisonous Dahlia"
+  },
+  {
+    "id": "4c9acf76-cc52-44c3-9e39-613d744c63c5",
+    "name": "Poisonous Mushroom"
+  },
+  {
+    "id": "b3ca1944-41a2-4939-ae85-1a73b1fe085f",
+    "name": "Red-Eye Scorpion"
+  },
+  {
+    "id": "2aeae452-5630-4f86-b073-7e9dc07adc43",
+    "name": "Stampeding Longhorn"
+  },
+  {
+    "id": "10e0e90f-ad7d-4b69-98d5-f01525eb1cdd",
+    "name": "Steel Smasher"
+  },
+  {
+    "id": "1ecb54a2-bcbf-4396-bf09-50dfe984e287",
+    "name": "Storm Shell"
+  },
+  {
+    "id": "bbc655b3-3676-4cda-9554-e2d465e20b99",
+    "name": "Thorny Mandra"
+  },
+  {
+    "id": "c761c174-87c3-4f4a-ab94-aa837c5ab587",
+    "name": "Tower Shell"
+  },
+  {
+    "id": "84e1b416-c2d5-4ae1-aca0-025651c6aa58",
+    "name": "Tri-horn Shepherd"
+  },
+  {
+    "id": "be8c0d0b-dcab-402c-8e7b-878e35bacca7",
+    "name": "Ultimate Force"
+  },
+  {
+    "id": "5d3d7052-e5fa-4502-8d31-c72673232317",
+    "name": "Hanusa, Radiance Elemental"
+  },
+  {
+    "id": "25a2af16-cc42-4f4c-8c3d-59fb3a7ca74b",
+    "name": "Urth, Purifying Elemental"
+  },
+  {
+    "id": "4097a036-a775-4218-9a1d-f57ead85dda6",
+    "name": "Aqua Sniper"
+  },
+  {
+    "id": "cd13f7c2-aa5e-43b8-8811-700f230a5de5",
+    "name": "King Depthcon"
+  },
+  {
+    "id": "dc1b51b3-52e7-4f1c-8770-515d4e1cb53d",
+    "name": "Deathliger, Lion of Chaos"
+  },
+  {
+    "id": "07a0115e-797a-49d8-90bf-9ea6de39978d",
+    "name": "Zagaan, Knight of Darkness"
+  },
+  {
+    "id": "91db2302-6794-4aa4-b17b-6637d356e9ac",
+    "name": "Astrocomet Dragon"
+  },
+  {
+    "id": "1c5511be-7629-41c5-bf17-4bc810be5472",
+    "name": "Scarlet Skyterror"
+  },
+  {
+    "id": "c1ebdda0-be88-4665-937e-2ef3ada8d378",
+    "name": "Deathblade Beetle"
+  },
+  {
+    "id": "18e0e199-7827-4a4c-a37d-3acfa4e500d6",
+    "name": "Roaring Great-Horn"
+  },
+  {
+    "id": "a73bf1d3-b4a6-48cd-89d3-1983f160304d",
+    "name": "Diamond Cutter"
+  },
+  {
+    "id": "40439f79-8f48-4e62-9009-cb06798ef7ac",
+    "name": "Ethel, Star Sea Elemental"
+  },
+  {
+    "id": "96ecef8e-0485-418d-9d0d-a4169c3b70b7",
+    "name": "Fonch, the Oracle"
+  },
+  {
+    "id": "b85b0492-132c-46ac-85e6-c8b5b466598a",
+    "name": "Laguna, Lightning Enforcer"
+  },
+  {
+    "id": "fd9f6d26-8fd8-43f2-84e5-b83493a1106e",
+    "name": "Larba Geer, the Immaculate"
+  },
+  {
+    "id": "17ee5046-c3fd-4422-af14-c54a4be8d9a2",
+    "name": "Logic Cube"
+  },
+  {
+    "id": "749d1209-4847-4401-8d70-8c95fd26c220",
+    "name": "Magris, Vizier of Magnetism"
+  },
+  {
+    "id": "1960f3c2-5321-4da1-be56-50a7e98cae0d",
+    "name": "Phal Eega, Dawn Guardian"
+  },
+  {
+    "id": "b691251e-8b9b-4436-8ca8-d9d3aba3ac72",
+    "name": "Reso Pacos, Clear Sky Guardian"
+  },
+  {
+    "id": "1eca6a24-9270-477f-a588-80859481ef94",
+    "name": "Spiral Grass"
+  },
+  {
+    "id": "206c53d6-8068-4fec-bc5b-287de58eed5f",
+    "name": "Wyn, the Oracle"
+  },
+  {
+    "id": "ac636f90-215f-4934-bcd3-abfec69a5fda",
+    "name": "Aqua Bouncer"
+  },
+  {
+    "id": "f4a364f5-d0e9-4777-b51e-6dc6e39b803c",
+    "name": "Aqua Shooter"
+  },
+  {
+    "id": "ecd61b34-85ca-4a91-b993-7a8c9976a2b5",
+    "name": "Corile"
+  },
+  {
+    "id": "3f0fb8f6-d01e-4005-8340-b84584f50a2a",
+    "name": "Crystal Lancer"
+  },
+  {
+    "id": "5781986a-4ca8-48e1-a5a1-95e820455bce",
+    "name": "Hypersquid Walter"
+  },
+  {
+    "id": "5cf64846-0eb2-4e8d-bf15-4ca573f96e58",
+    "name": "King Nautilus"
+  },
+  {
+    "id": "f9b47778-c7d5-48da-aac3-1ddf8efbbbf1",
+    "name": "Plasma Chaser"
+  },
+  {
+    "id": "aa1cca8a-3140-4180-9c9f-3f126dd16a68",
+    "name": "Recon Operation"
+  },
+  {
+    "id": "7956b4f5-b910-403d-b388-b67c837b7e99",
+    "name": "Scissor Eye"
+  },
+  {
+    "id": "6406411f-e9ae-4b55-8213-7e18c4cd9aee",
+    "name": "Stained Glass"
+  },
+  {
+    "id": "98b1afbe-5a0a-461e-800c-34d02339f21f",
+    "name": "Thought Probe"
+  },
+  {
+    "id": "839f780b-067b-4b3c-9090-7cd614375da9",
+    "name": "Amber Piercer"
+  },
+  {
+    "id": "66ee3b9e-fdbf-41c2-9363-5327572706f2",
+    "name": "Chaos Worm"
+  },
+  {
+    "id": "99791f19-21ee-4ee3-a6b0-e26702c2a380",
+    "name": "Critical Blade"
+  },
+  {
+    "id": "39b8b1c0-bc1d-445b-b60d-91cabfe62fb5",
+    "name": "Dark Titan Maginn"
+  },
+  {
+    "id": "fcf2f484-c471-4a5d-bc41-1fcd56604d73",
+    "name": "General Dark Fiend"
+  },
+  {
+    "id": "66ac493f-b836-46c9-a28e-09e7bd040064",
+    "name": "Gigastand"
+  },
+  {
+    "id": "84b7a5f2-cbfc-4d2d-a757-6685aa38c241",
+    "name": "Gray Balloon, Shadow of Greed"
+  },
+  {
+    "id": "733a4f35-7470-40e3-9cd7-479aa965bfbb",
+    "name": "Horrid Worm"
+  },
+  {
+    "id": "fae765a5-fa73-4627-94d1-f74f2ed00792",
+    "name": "Lost Soul"
+  },
+  {
+    "id": "4916f651-6169-4e8b-be5d-6a3237dc0a70",
+    "name": "Marrow Ooze, the Twister"
+  },
+  {
+    "id": "ec3213d2-6914-4091-bf86-869354a36b15",
+    "name": "Poison Worm"
+  },
+  {
+    "id": "24353d06-89ef-4867-9513-485750d01e10",
+    "name": "Armored Cannon Balbaro"
+  },
+  {
+    "id": "05d946f7-5977-4f51-8bca-ecb39845f1a2",
+    "name": "Bolzard Dragon"
+  },
+  {
+    "id": "e1e112d7-11e1-4f01-9c91-00a2b1626043",
+    "name": "Bombersaur"
+  },
+  {
+    "id": "4b715b5c-2e82-4686-9c9f-4ce1e5503621",
+    "name": "Burst Shot"
+  },
+  {
+    "id": "c125f786-e6d5-4477-8ab0-1e92d6eed348",
+    "name": "Cavalry General Curatops"
+  },
+  {
+    "id": "9311b3ec-fe9e-45bd-a989-dc00aec3ca60",
+    "name": "Dogarn, the Marauder"
+  },
+  {
+    "id": "0bea1262-311a-47b1-888d-dd065cfe3d7f",
+    "name": "Engineer Kipo"
+  },
+  {
+    "id": "ba8c4d25-a352-4725-a3aa-6eb015f99d6c",
+    "name": "Galsaur"
+  },
+  {
+    "id": "cf536a4d-1512-44d8-b0e6-615d0725e3f0",
+    "name": "Metalwing Skyterror"
+  },
+  {
+    "id": "9fed2257-362f-43c7-b50e-5526ccf799aa",
+    "name": "Mini Titan Gett"
+  },
+  {
+    "id": "cc5c643e-5120-421d-b26f-76be381dead7",
+    "name": "Rumble Gate"
+  },
+  {
+    "id": "48ab3f2b-4ae3-41a4-ae6f-61b49c958bdb",
+    "name": "Barkwhip, the Smasher"
+  },
+  {
+    "id": "60d8c6a6-20c1-425c-9ecc-b56981a70e21",
+    "name": "Elf-X"
+  },
+  {
+    "id": "ed3931f2-2b60-48d4-b82f-361d3a8c5bd7",
+    "name": "Essence Elf"
+  },
+  {
+    "id": "2c7e38e1-0546-47ab-9388-383d093405b2",
+    "name": "Fortress Shell"
+  },
+  {
+    "id": "a219c895-5822-458e-862f-6ade1529c42e",
+    "name": "Leaping Tornado Horn"
+  },
+  {
+    "id": "bf5ce598-f604-4c55-b0c9-9ed0e059aeec",
+    "name": "Mana Crisis"
+  },
+  {
+    "id": "ff33e31f-4f1c-4c07-b293-2e65a13e1077",
+    "name": "Rainbow Stone"
+  },
+  {
+    "id": "6e381955-231b-4e4e-a14b-82509a5e193b",
+    "name": "Rumbling Terahorn"
+  },
+  {
+    "id": "94e5d2a3-d8b2-4fce-9899-61adb063dc60",
+    "name": "Silver Axe"
+  },
+  {
+    "id": "d7e4a7da-6131-42e9-adf1-de0178549bd5",
+    "name": "Silver Fist"
+  },
+  {
+    "id": "9275747d-f2bb-4298-9b70-7075b17d1e0d",
+    "name": "Xeno Mantis"
+  },
+  {
+    "id": "5d095b28-262e-454d-96c7-9174ed83e3f6",
+    "name": "Ladia Bale, the Inspirational"
+  },
+  {
+    "id": "41e8d5c2-bfeb-48bb-ab9e-aaee79852c89",
+    "name": "Crystal Paladin"
+  },
+  {
+    "id": "215c4cfb-2a22-4ee1-b4ea-28ac24a1eeee",
+    "name": "Ultracide Worm"
+  },
+  {
+    "id": "eac1bc57-bdf8-4629-86b3-9609d1bf2aba",
+    "name": "Armored Blaster Valdios"
+  },
+  {
+    "id": "0dca6f6c-c426-4c88-b283-043527f04bb3",
+    "name": "Fighter Dual Fang"
+  },
+  {
+    "id": "4459f97b-8927-4231-a11d-f4f88175b71c",
+    "name": "Alek, Solidity Enforcer"
+  },
+  {
+    "id": "9d9468f8-3eb3-448c-8638-5d77c77f936b",
+    "name": "Aless, the Oracle"
+  },
+  {
+    "id": "b275fbf0-5355-45ec-b3a8-a956cf898ae6",
+    "name": "Boomerang Comet"
+  },
+  {
+    "id": "6b6ff714-0602-48da-9ee0-2578aa8ea32e",
+    "name": "Lena, Vizier of Brilliance"
+  },
+  {
+    "id": "96370266-e077-47c1-968f-0184bcb94227",
+    "name": "Logic Sphere"
+  },
+  {
+    "id": "b052351d-dd6c-4c40-a6d7-840e23398ff1",
+    "name": "Ra Vu, Seeker of Lightning"
+  },
+  {
+    "id": "eb46cc3f-75b9-4b50-851f-bf1fd3e76c06",
+    "name": "Raza Vega, Thunder Guardian"
+  },
+  {
+    "id": "c49be3ab-da9b-4af8-8377-0595ca3160ce",
+    "name": "Sieg Balicula, the Intense"
+  },
+  {
+    "id": "b9b1a83a-626c-471a-82ff-3e2372c9d838",
+    "name": "Sparkle Flower"
+  },
+  {
+    "id": "a097478c-af87-4316-b42d-888418d07919",
+    "name": "Sundrop Armor"
+  },
+  {
+    "id": "7fdf0d01-a999-4f31-8a37-945396796998",
+    "name": "Ur Pale, Seeker of Sunlight"
+  },
+  {
+    "id": "f76fd433-24ba-41e3-81eb-622cad7247e2",
+    "name": "Angler Cluster"
+  },
+  {
+    "id": "23a97f92-d53d-4b9f-8e33-ca090bd30c1e",
+    "name": "Aqua Deformer"
+  },
+  {
+    "id": "d96cdbba-0e60-4d8e-9394-4830b11f559d",
+    "name": "Emeral"
+  },
+  {
+    "id": "4852b823-7b96-4669-809b-edc14c042567",
+    "name": "Flood Valve"
+  },
+  {
+    "id": "39e0b4b6-eaa5-4673-9538-aa9d2c7fc5d8",
+    "name": "King Neptas"
+  },
+  {
+    "id": "2f2dae63-bb68-4d89-b7b1-48dd14eab40e",
+    "name": "King Ponitas"
+  },
+  {
+    "id": "232a9fdd-e289-454f-9593-5b766c969a1e",
+    "name": "Legendary Bynor"
+  },
+  {
+    "id": "e14514a5-592b-40ed-b693-7cb8f649d93a",
+    "name": "Liquid Scope"
+  },
+  {
+    "id": "14609828-6c61-441a-aa76-c436bf2c6b00",
+    "name": "Psychic Shaper"
+  },
+  {
+    "id": "0f9a0c09-1d5b-4162-94ca-5399f8f37d63",
+    "name": "Shtra"
+  },
+  {
+    "id": "fb3a5abd-c16a-4365-98c0-79753fdcd91d",
+    "name": "Stinger Ball"
+  },
+  {
+    "id": "e4ad6b63-5c97-4002-9b0a-b38ba8b5312b",
+    "name": "Baraga, Blade of Gloom"
+  },
+  {
+    "id": "dae59bf4-cb23-40d0-aed2-bdbf953f73f5",
+    "name": "Bone Piercer"
+  },
+  {
+    "id": "826de4ef-a10d-410a-aed1-066783babbdc",
+    "name": "Eldritch Poison"
+  },
+  {
+    "id": "b3975c0b-2978-4b1a-8225-78d420ff941d",
+    "name": "Gamil, Knight of Hatred"
+  },
+  {
+    "id": "21a9e35f-4219-490c-8963-3e1fee66c71b",
+    "name": "Ghastly Drain"
+  },
+  {
+    "id": "03b16fba-71e7-4328-a605-4643bb5cfbf8",
+    "name": "Hang Worm, Fetid Larva"
+  },
+  {
+    "id": "12d21399-f499-432b-bbb0-8ca1088b33c7",
+    "name": "Jack Viper, Shadow of Doom"
+  },
+  {
+    "id": "ec9ebf80-3060-48cf-888a-bd00b61b3746",
+    "name": "Mudman"
+  },
+  {
+    "id": "c08d8e5a-9f4b-4fe4-bf20-d5c7fca9ea15",
+    "name": "Scratchclaw"
+  },
+  {
+    "id": "f773e1f2-37d0-45c2-a34f-63e91094aab1",
+    "name": "Snake Attack"
+  },
+  {
+    "id": "bfef8796-4214-4cfe-af86-4a8608a6fd7f",
+    "name": "Wailing Shadow Belbetphlo"
+  },
+  {
+    "id": "b6109c08-3d01-486d-b544-5dfc11d341a0",
+    "name": "Armored Warrior Quelos"
+  },
+  {
+    "id": "479b477f-f535-4564-ac0c-5f0aeaafe914",
+    "name": "Baby Zoppe"
+  },
+  {
+    "id": "d74a5d6f-a24e-4ecb-a163-7c696be8c06c",
+    "name": "Blaze Cannon"
+  },
+  {
+    "id": "e27ac147-3d7d-42d7-a3a4-2e3a1eccdb2c",
+    "name": "Boltail Dragon"
+  },
+  {
+    "id": "0f5a2f7e-74df-4ae5-ab0e-300b1761b417",
+    "name": "Explosive Dude Joe"
+  },
+  {
+    "id": "caca44fe-8e47-4863-b1e9-7c7c09eb7ddc",
+    "name": "Flametropus"
+  },
+  {
+    "id": "89bf69b3-25a7-4f9f-884a-fb9e7dd93efd",
+    "name": "Muramasa, Duke of Blades"
+  },
+  {
+    "id": "d2cc5ca6-c0a3-4a83-935f-08d0e0878983",
+    "name": "Searing Wave"
+  },
+  {
+    "id": "cf6673ec-4bae-4891-9c80-e3e3a8269914",
+    "name": "Snip Striker Bullraizer"
+  },
+  {
+    "id": "5646364b-4018-4556-9b20-265ef3fb372d",
+    "name": "Überdragon Jabaha"
+  },
+  {
+    "id": "0a5600c5-65a0-439d-b19c-4bf5ee036e32",
+    "name": "Volcanic Arrows"
+  },
+  {
+    "id": "9cff685f-3491-400b-b9d4-43c383193dc7",
+    "name": "Aurora of Reversal"
+  },
+  {
+    "id": "22dae49f-f802-46d1-ad1e-400b980b80ab",
+    "name": "Dawn Giant"
+  },
+  {
+    "id": "e202fcb0-08a1-46ee-8654-66406ea436ce",
+    "name": "Gigamantis"
+  },
+  {
+    "id": "5170634d-1574-4a06-b3bd-3c546fb9191e",
+    "name": "Mana Nexus"
+  },
+  {
+    "id": "f200f25c-479b-4381-967e-590bedd9dc90",
+    "name": "Masked Pomegranate"
+  },
+  {
+    "id": "c3c09eac-d9b9-4eb6-8056-94afa4ba3927",
+    "name": "Pouch Shell"
+  },
+  {
+    "id": "64371ab9-a8bc-4ec9-9b9b-f190c8ac1001",
+    "name": "Psyshroom"
+  },
+  {
+    "id": "e8910059-0471-44ac-a573-a3fe8ed207d9",
+    "name": "Raging Dash-Horn"
+  },
+  {
+    "id": "fc25a99c-7ef9-44bc-9204-ca84f6248116",
+    "name": "Roar of the Earth"
+  },
+  {
+    "id": "8dab06d5-93c3-4ac7-abfb-3ce2e63d77e5",
+    "name": "Sniper Mosquito"
+  },
+  {
+    "id": "84595f9f-c9c1-4d50-8e8f-29e5ef63bfbf",
+    "name": "Sword Butterfly"
+  },
+  {
+    "id": "70270aa3-ff24-476c-be22-5b9f48fc682a",
+    "name": "Miar, Comet Elemental"
+  },
+  {
+    "id": "9c7e3304-3aff-4362-a687-b5ca5333fe98",
+    "name": "Chaos Fish"
+  },
+  {
+    "id": "9df4d8ac-3c86-4c1f-b916-c9a384b0340f",
+    "name": "Giriel, Ghastly Warrior"
+  },
+  {
+    "id": "41c2e4dc-460f-459a-b7cf-ef17b5c9a4eb",
+    "name": "Garkago Dragon"
+  },
+  {
+    "id": "54652ec5-3bc3-4124-9c67-b05ba56def5f",
+    "name": "Earthstomp Giant"
+  },
+  {
+    "id": "7d4b64b0-1672-47d4-b54d-1758b0bb08cf",
+    "name": "Alcadeias, Lord of Spirits"
+  },
+  {
+    "id": "187a6327-b0e0-42a3-8cae-9293b41927ac",
+    "name": "Astral Warper"
+  },
+  {
+    "id": "8e10db1c-1445-45c0-b7d2-3b888ed87998",
+    "name": "Trox, General of Destruction"
+  },
+  {
+    "id": "70ed7fd3-afb9-4b62-9c3c-6b26b8eccf04",
+    "name": "Doboulgyser, Giant Rock Beast"
+  },
+  {
+    "id": "38e927bc-74a1-498c-bbaa-3443999ac7a0",
+    "name": "Supporting Tulip"
+  },
+  {
+    "id": "6a2f2777-e7be-49ee-8bb4-d963f1ecd409",
+    "name": "Aeris, Flight Elemental"
+  },
+  {
+    "id": "5da6bf2e-9de1-4166-ade0-a9ded5b99612",
+    "name": "Amber Grass"
+  },
+  {
+    "id": "d74da0b7-3c0d-4e27-85c9-4ccf0df621d1",
+    "name": "Fu Reil, Seeker of Storms"
+  },
+  {
+    "id": "0ce1bba5-376f-4c9b-9865-730f9e62a7d7",
+    "name": "Full Defensor"
+  },
+  {
+    "id": "55c0e0e4-f585-423b-9b23-054156ab3de3",
+    "name": "Gulan Rias, Speed Guardian"
+  },
+  {
+    "id": "0993f972-634e-4175-86a5-25074a5bd165",
+    "name": "Kolon, the Oracle"
+  },
+  {
+    "id": "7a94b69e-335c-489a-8c5d-1294a9cb960f",
+    "name": "Milieus, the Daystretcher"
+  },
+  {
+    "id": "6a909066-2011-4de7-9a97-cab333dca4cf",
+    "name": "Mist Rias, Sonic Guardian"
+  },
+  {
+    "id": "339ba23a-0228-4677-a90a-c7efc843ee73",
+    "name": "Ouks, Vizier of Restoration"
+  },
+  {
+    "id": "ae43a5d8-8bae-4e0b-b31c-66a37c94c719",
+    "name": "Re Bil, Seeker of Archery"
+  },
+  {
+    "id": "ebb2a7f2-ea2d-427f-8dca-0a650553736d",
+    "name": "Sarius, Vizier of Suppression"
+  },
+  {
+    "id": "afa724a7-6a5e-425d-984c-b1a977b0c7f8",
+    "name": "Screaming Sunburst"
+  },
+  {
+    "id": "d48b24ad-2b6c-4a00-affc-f95be66976fc",
+    "name": "Whisking Whirlwind"
+  },
+  {
+    "id": "a31acf59-bf6a-4e52-9158-53103e5e9951",
+    "name": "Aqua Guard"
+  },
+  {
+    "id": "a9469dd3-73fa-4a8c-a9dd-7b852487308a",
+    "name": "Aqua Jolter"
+  },
+  {
+    "id": "2fe88eac-54da-4e49-a6b3-22b1b8c7da65",
+    "name": "Clone Factory"
+  },
+  {
+    "id": "4143565f-a7a0-48f9-9601-67ad15ca0933",
+    "name": "Hunter Cluster"
+  },
+  {
+    "id": "831f5090-667f-41e3-863d-2db3d8be68db",
+    "name": "Hydro Hurricane"
+  },
+  {
+    "id": "979c8fda-550e-40af-a88e-d26bee3cbbb4",
+    "name": "Keeper of the Sunlit Abyss"
+  },
+  {
+    "id": "8155edc9-5ab2-4295-95e4-2cd07c438e61",
+    "name": "Marinomancer"
+  },
+  {
+    "id": "e4408b19-a426-4cc3-8b81-281499e80a88",
+    "name": "Smile Angler"
+  },
+  {
+    "id": "9182f914-2bd2-41e6-b950-9edb2035aff1",
+    "name": "Chains of Sacrifice"
+  },
+  {
+    "id": "a646e98b-70ce-402d-b995-3678757c86d3",
+    "name": "Darkpact"
+  },
+  {
+    "id": "79e32904-a0e9-4596-99ad-76bda92e672c",
+    "name": "Gigabolver"
+  },
+  {
+    "id": "70f08780-cf4b-4c4a-8188-5235157ce863",
+    "name": "Gregoria, Princess of War"
+  },
+  {
+    "id": "bd3d2c66-b38a-40eb-9333-3509e0e213c9",
+    "name": "Gregorian Worm"
+  },
+  {
+    "id": "ba955ab0-5bb3-4aaf-82f3-293522e65a9c",
+    "name": "Locomotiver"
+  },
+  {
+    "id": "593ca472-b8d1-4fec-ae07-0102afd12a48",
+    "name": "Mongrel Man"
+  },
+  {
+    "id": "b0b950c5-5498-4edc-a7dc-14991961fd2e",
+    "name": "Photocide, Lord of the Wastes"
+  },
+  {
+    "id": "3bd6cfa5-7641-441d-a76a-b6df468ec292",
+    "name": "Purple Piercer"
+  },
+  {
+    "id": "da8d62d3-47b9-450e-961c-9bcc171ff0ee",
+    "name": "Shadow Moon, Cursed Shade"
+  },
+  {
+    "id": "2e5452fe-1225-401a-b98b-b8a08639a467",
+    "name": "Skeleton Thief, the Revealer"
+  },
+  {
+    "id": "a41ca346-193d-4c2f-bccb-382ca2591120",
+    "name": "Soul Gulp"
+  },
+  {
+    "id": "da7988b3-43dd-48fb-9339-b1834b61d1ee",
+    "name": "Volcano Smog, Deceptive Shade"
+  },
+  {
+    "id": "746d520f-7486-4eba-ae59-58473092a999",
+    "name": "Blasto, Explosive Soldier"
+  },
+  {
+    "id": "bc430287-5cac-42b5-a6f8-5edcfe5cea58",
+    "name": "Chaotic Skyterror"
+  },
+  {
+    "id": "0103d28a-1c07-4cc3-916e-1fd67ef9595a",
+    "name": "Kamikaze, Chainsaw Warrior"
+  },
+  {
+    "id": "6567373c-9549-4dc4-a7b6-824c6d7c4e84",
+    "name": "Magmarex"
+  },
+  {
+    "id": "e6c76df1-24c8-4125-9f9f-8ae3b2bc61f6",
+    "name": "Mega Detonator"
+  },
+  {
+    "id": "43cde867-4cad-4ed7-867e-b01d1577b571",
+    "name": "Missile Boy"
+  },
+  {
+    "id": "1484ec6d-c1b5-4fc4-abaf-a16c08cfc5f7",
+    "name": "Pippie Kuppie"
+  },
+  {
+    "id": "4dd64294-fe68-4337-b6fc-48e1a473a1ce",
+    "name": "Sword of Malevolent Death"
+  },
+  {
+    "id": "a04666a7-a12f-4777-b4f9-420f7ad4b253",
+    "name": "Ancient Giant"
+  },
+  {
+    "id": "09604e37-5e09-4042-b5cb-5c180f048167",
+    "name": "Cannon Shell"
+  },
+  {
+    "id": "206c032c-2b4a-4278-bfac-af9ff8ece118",
+    "name": "Dew Mushroom"
+  },
+  {
+    "id": "7e9369a0-f137-4e37-8576-4733993c2ba4",
+    "name": "Exploding Cactus"
+  },
+  {
+    "id": "ae56a6c7-b118-44cb-bb6d-c45a9484c598",
+    "name": "Mystic Inscription"
+  },
+  {
+    "id": "e55c0de2-8366-4585-ac08-ebaea0e96818",
+    "name": "Sword of Benevolent Life"
+  },
+  {
+    "id": "e2305d22-7105-44a0-b1c0-5c9caba974be",
+    "name": "Three-Eyed Dragonfly"
+  },
+  {
+    "id": "aa5deaa8-4935-47ee-a6dc-a036398886a1",
+    "name": "Torcon"
+  },
+  {
+    "id": "d01f8146-c033-4150-a18e-b648c6786d77",
+    "name": "Rimuel, Cloudbreak Elemental"
+  },
+  {
+    "id": "7b6fe59d-8b11-4f8b-9a0b-1ce22673c274",
+    "name": "King Aquakamui"
+  },
+  {
+    "id": "f2103ae0-1ea6-411a-b6f8-553f995cb65e",
+    "name": "Ballom, Master of Death"
+  },
+  {
+    "id": "81ebd0e6-94dc-44e6-958a-6df15dae091c",
+    "name": "Galklife Dragon"
+  },
+  {
+    "id": "b80de483-5aa7-4181-8672-bb3a5c11b438",
+    "name": "Niofa, Horned Protector"
+  },
+  {
+    "id": "c7fec5e8-4e56-451b-a7b6-ad08680703a4",
+    "name": "La Byle, Seeker of the Winds"
+  },
+  {
+    "id": "a9e9a9c5-9125-4116-8fe9-f4087615b8a1",
+    "name": "King Mazelan"
+  },
+  {
+    "id": "f66ca3b3-7300-41ef-8319-9de6dfc4e39a",
+    "name": "Sinister General Damudo"
+  },
+  {
+    "id": "4ac7c097-cdc3-42e8-9203-1a481274f9d2",
+    "name": "Bladerush Skyterror Q"
+  },
+  {
+    "id": "75b315ab-c169-46b0-a693-1eb52eef24f8",
+    "name": "Obsidian Scarab"
+  },
+  {
+    "id": "3e6d2002-39f0-4be9-bad0-1738a299731f",
+    "name": "Ballus, Dogfight Enforcer Q"
+  },
+  {
+    "id": "680f0ae7-9962-4dbf-88da-b1faf3e1e066",
+    "name": "Calgo, Vizier of Rainclouds"
+  },
+  {
+    "id": "c0c9c3c6-6b8c-49a3-b6ff-ad9d7c2bf5a7",
+    "name": "Gallia Zohl, Iron Guardian Q"
+  },
+  {
+    "id": "50d6a40e-dfaf-46e1-81e9-376f9aa8ffbc",
+    "name": "Glory Snow"
+  },
+  {
+    "id": "d3a108f2-57f3-4fba-9b1b-b85a5ca788ed",
+    "name": "Kulus, Soulshine Enforcer"
+  },
+  {
+    "id": "15456751-98e0-4cbf-b2e9-649427bcf8ae",
+    "name": "La Guile, Seeker of Skyfire"
+  },
+  {
+    "id": "60b50334-f4c9-46dd-aa87-76f4e67cb5f8",
+    "name": "Le Quist, the Oracle"
+  },
+  {
+    "id": "22fc691b-58bd-49b4-b807-8b0592b8c8db",
+    "name": "Snork La, Shrine Guardian"
+  },
+  {
+    "id": "81e05a20-875a-4047-af47-9850dac9a863",
+    "name": "Syforce, Aurora Elemental"
+  },
+  {
+    "id": "39fee52e-e539-4bd9-99b7-03e61b4afea3",
+    "name": "Thunder Net"
+  },
+  {
+    "id": "f5b9c2d5-970d-4578-a521-acccd856cfdf",
+    "name": "Aqua Surfer"
+  },
+  {
+    "id": "69164e5d-2c0e-4369-b0c2-0494840128fd",
+    "name": "Divine Riptide"
+  },
+  {
+    "id": "8fac6848-e179-4611-a56a-f76f7716f0a8",
+    "name": "Lurking Eel"
+  },
+  {
+    "id": "aa5799bd-aaee-4ff4-89ae-374db57cfa83",
+    "name": "Miracle Quest"
+  },
+  {
+    "id": "4c5323af-2c14-4bc7-9cb8-7b967c7b8586",
+    "name": "Pokolul"
+  },
+  {
+    "id": "a8189c59-1f1b-498d-a289-113ce02ab631",
+    "name": "Sea Slug"
+  },
+  {
+    "id": "89bdc9a2-72c8-4ce7-afd4-626538ed4c82",
+    "name": "Solidskin Fish"
+  },
+  {
+    "id": "ece74930-3f8b-4d35-95ed-94639dd251cd",
+    "name": "Spikestrike Ichthys Q"
+  },
+  {
+    "id": "3e63d487-a25c-405d-8c04-df8c5e414fd6",
+    "name": "Split-Head Hydroturtle Q"
+  },
+  {
+    "id": "181126d5-0ad8-4033-a9d2-c8ca939f3fac",
+    "name": "Steel-Turret Cluster"
+  },
+  {
+    "id": "1064bbcc-0f15-4757-8d88-93084edaba3f",
+    "name": "Gigakail"
+  },
+  {
+    "id": "88cf0a1e-5506-4d5a-a2fd-0d1bb60f6abd",
+    "name": "Gigaling Q"
+  },
+  {
+    "id": "38db41d2-2a6d-4f6e-83e8-265208be45ea",
+    "name": "Gigazoul"
+  },
+  {
+    "id": "fd297f8a-c5ae-46c3-9d59-a13de5736b0e",
+    "name": "Horned Mutant"
+  },
+  {
+    "id": "d5a09c99-985e-412e-b77f-558c059db7ee",
+    "name": "Jewel Spider"
+  },
+  {
+    "id": "8e3510d7-fe27-4e62-91b7-b6c869a615e3",
+    "name": "Scheming Hands"
+  },
+  {
+    "id": "f0587622-589f-46c5-9857-d73ee9db4db4",
+    "name": "Skullsweeper Q"
+  },
+  {
+    "id": "42949cc1-d2e4-459e-9ccf-ac93ebe636de",
+    "name": "Slime Veil"
+  },
+  {
+    "id": "870e7b00-eb00-4546-9f15-a5cb6cb976d9",
+    "name": "Vashuna, Sword Dancer"
+  },
+  {
+    "id": "cfedb8c9-419a-4c0b-b05b-a3a30436f4b0",
+    "name": "Wisp Howler, Shadow of Tears"
+  },
+  {
+    "id": "a422a702-fc94-45e8-b6d9-aa6b92e8797f",
+    "name": "Blazosaur Q"
+  },
+  {
+    "id": "82e062b1-bf9d-444e-9cd3-2fdef007ba64",
+    "name": "Bolgash Dragon"
+  },
+  {
+    "id": "dac08511-6c9a-44cf-b328-237acb678305",
+    "name": "Bombat, General of Speed"
+  },
+  {
+    "id": "d98448c3-fd04-452b-a338-c9674c69e96f",
+    "name": "Cannoneer Bargon"
+  },
+  {
+    "id": "826eecb2-0beb-47f0-afb8-2d01bd51491d",
+    "name": "Cataclysmic Eruption"
+  },
+  {
+    "id": "27eca314-2540-45e0-8201-71e33bb14da7",
+    "name": "Cyclone Panic"
+  },
+  {
+    "id": "1053c39a-68c3-4811-9c7c-049914f420e3",
+    "name": "Kip Chippotto"
+  },
+  {
+    "id": "ab743952-7857-490a-b6d6-6ecd9f0d68c8",
+    "name": "Rikabu, the Dismantler"
+  },
+  {
+    "id": "5ad88bc8-5991-46d9-a98a-19c7569a4f05",
+    "name": "Ruthless Skyterror"
+  },
+  {
+    "id": "1fe34153-7cd0-40e9-bbcf-96dd7074860c",
+    "name": "Twin-Cannon Skyterror"
+  },
+  {
+    "id": "5145a445-45ce-430c-ba58-c15c5e8af984",
+    "name": "Ambush Scorpion"
+  },
+  {
+    "id": "a8f4d303-72c0-4b67-b6af-d99d267de0c5",
+    "name": "Balloonshroom Q"
+  },
+  {
+    "id": "f6ff8845-afc0-4958-8673-fad12058193a",
+    "name": "Bloodwing Mantis"
+  },
+  {
+    "id": "f288e855-44bb-4649-8c9d-de4a61fd228a",
+    "name": "Brutal Charge"
+  },
+  {
+    "id": "9b9446d1-cda6-4d57-91d9-9cf4264e3fd8",
+    "name": "Crow Winger"
+  },
+  {
+    "id": "cf0c049f-f047-4c57-9043-7911eb28395d",
+    "name": "Enchanted Soil"
+  },
+  {
+    "id": "7a59d73d-f340-482c-beb3-55ee83aa6222",
+    "name": "Moon Horn"
+  },
+  {
+    "id": "6b3ec428-4fa1-4646-ad49-54fa379df2e7",
+    "name": "Nocturnal Giant"
+  },
+  {
+    "id": "4246218b-c66b-4f8f-b05a-1e7bff9f39a5",
+    "name": "Scissor Scarab"
+  },
+  {
+    "id": "5ff3c63c-30df-4f5c-acce-796f5b6c2dac",
+    "name": "Smash Horn Q"
+  },
+  {
+    "id": "372ecf37-071a-4ddd-bf50-b27e7fcb5913",
+    "name": "Syrius, Firmament Elemental"
+  },
+  {
+    "id": "117765de-dbde-45ae-941d-2b864421ba4c",
+    "name": "King Tsunami"
+  },
+  {
+    "id": "5f5a3a3f-3675-4e5d-8bd6-0c76cb8c4ce4",
+    "name": "Death Cruzer, the Annihilator"
+  },
+  {
+    "id": "f78a43be-b874-4a05-b681-48647fde9e48",
+    "name": "Billion-Degree Dragon"
+  },
+  {
+    "id": "4353b917-261d-4365-9f49-dc2d52f6a8bb",
+    "name": "Avalanche Giant"
+  },
+  {
+    "id": "f1bd7b39-7582-4f80-ba4c-423ef16f7a96",
+    "name": "Invincible Aura"
+  },
+  {
+    "id": "9916970b-bb9b-4fa6-8a13-61b203e0cad1",
+    "name": "Lu Gila, Silver Rift Guardian"
+  },
+  {
+    "id": "ec0b5fbc-3a94-4f45-80f8-063daacb62e0",
+    "name": "Aeropica"
+  },
+  {
+    "id": "53ecc374-d627-43b0-8091-220c313de700",
+    "name": "Invincible Technology"
+  },
+  {
+    "id": "2982c4fd-1518-4686-b523-2317600ab425",
+    "name": "Invincible Abyss"
+  },
+  {
+    "id": "b8addd02-0a51-4445-a2c8-d7dc045c7712",
+    "name": "Tank Mutant"
+  },
+  {
+    "id": "d8aee1e9-0799-4acf-af2a-3a8fd1b4eb8e",
+    "name": "Invincible Cataclysm"
+  },
+  {
+    "id": "b42f1258-714b-4051-bd4c-2013e40a4c6b",
+    "name": "Valiant Warrior Exorious"
+  },
+  {
+    "id": "e56c04ae-1edf-4308-87b6-697e0d9a85d4",
+    "name": "Invincible Unity"
+  },
+  {
+    "id": "b2ad3f06-2901-498b-ab40-4e37f2b3649d",
+    "name": "Splinterclaw Wasp"
+  },
+  {
+    "id": "c30f60d5-d97c-457e-b438-e4a606136171",
+    "name": "Adomis, the Oracle"
+  },
+  {
+    "id": "c77c93ab-c973-4874-aef4-b1ef2f9614c5",
+    "name": "Arc Bine, the Astounding"
+  },
+  {
+    "id": "e415e7ee-ab90-43ec-9443-05dcbb7f6b88",
+    "name": "Ballas, Vizier of Electrons"
+  },
+  {
+    "id": "cf8b1a10-a425-4670-bb50-af7c4fb132d6",
+    "name": "Bonds of Justice"
+  },
+  {
+    "id": "ab0c0696-3abf-4a10-ac41-805a6c538849",
+    "name": "Chekicul, Vizier of Endurance"
+  },
+  {
+    "id": "42af9ccd-021c-48e5-833d-d7b6a08676d2",
+    "name": "Chen Treg, Vizier of Blades"
+  },
+  {
+    "id": "fee203a9-b5a8-4d01-abb9-12d07c62475d",
+    "name": "Cosmogold, Spectral Knight"
+  },
+  {
+    "id": "aad5a2ae-0ad3-4ba1-b620-47913c2b3c7d",
+    "name": "Dava Torey, Seeker of Clouds"
+  },
+  {
+    "id": "f552c0a3-9863-4ea6-9769-3c1134da0995",
+    "name": "Forbos, Sanctum Guardian Q"
+  },
+  {
+    "id": "f0ac300b-2ebd-49b6-aa43-34d5a131a715",
+    "name": "Gariel, Elemental of Sunbeams"
+  },
+  {
+    "id": "da51845c-4a6b-4c36-9c7d-fbb654ba2aa2",
+    "name": "Kanesill, the Explorer"
+  },
+  {
+    "id": "e2e64a5c-ec8d-464a-bbe3-bacbb01da399",
+    "name": "Lightning Grass"
+  },
+  {
+    "id": "efa301fb-a605-4ab5-ae3d-1fb49e2a83e6",
+    "name": "Moontear, Spectral Knight"
+  },
+  {
+    "id": "0aeb82a3-2737-471d-a092-ebf02eca10ee",
+    "name": "Protective Force"
+  },
+  {
+    "id": "ca9f7712-db3d-4233-acf4-7c98646cc1d3",
+    "name": "Rain of Arrows"
+  },
+  {
+    "id": "7c33ae39-5079-471b-982c-98da274c9892",
+    "name": "Razorpine Tree"
+  },
+  {
+    "id": "5fc2d880-b508-460f-b1d3-e2d9a7377612",
+    "name": "Sphere of Wonder"
+  },
+  {
+    "id": "6bfebd3d-64ff-4321-bb0b-e994ca8f811e",
+    "name": "Telitol, the Explorer"
+  },
+  {
+    "id": "38617d18-b12a-4618-8a26-3effab948fcb",
+    "name": "Vess, the Oracle"
+  },
+  {
+    "id": "a8dbcc5e-a9e8-4cc6-8b87-3b53a5701371",
+    "name": "Yuluk, the Oracle"
+  },
+  {
+    "id": "cf8b1897-0044-4a13-9114-c1c3ba51bedd",
+    "name": "Aqua Rider"
+  },
+  {
+    "id": "b7f236fd-e7eb-41cc-912a-5239c134f265",
+    "name": "Energy Stream"
+  },
+  {
+    "id": "7fd21958-859f-4085-acab-c736de7667ef",
+    "name": "Fort Megacluster"
+  },
+  {
+    "id": "305bb0c5-7bfe-47cd-a83f-80d8cb620c8c",
+    "name": "Hazard Crawler"
+  },
+  {
+    "id": "38ea8acd-e8e3-4bd9-a7c9-7d74761c3712",
+    "name": "King Triumphant"
+  },
+  {
+    "id": "4387fa57-6ba9-4628-ad07-12bd02def4cb",
+    "name": "Kyuroro"
+  },
+  {
+    "id": "0743092b-fd5e-41ab-8e38-d6664c1741cd",
+    "name": "Madrillon Fish"
+  },
+  {
+    "id": "7372e3b8-85d1-4d3d-a704-be821ac2211a",
+    "name": "Midnight Crawler"
+  },
+  {
+    "id": "a50a7fba-0fd7-49e1-887f-8d229f3a5b2d",
+    "name": "Mystic Dreamscape"
+  },
+  {
+    "id": "3d32a70c-303d-46f8-862a-f7d5a3cfaafc",
+    "name": "Neon Cluster"
+  },
+  {
+    "id": "1ec9f300-c8cb-41c2-b9a8-b46408c49098",
+    "name": "Overload Cluster"
+  },
+  {
+    "id": "d176b30a-cac6-4249-a78d-18f34b97546b",
+    "name": "Promephius Q"
+  },
+  {
+    "id": "00f39646-e15a-47a1-a085-c3522bfa5146",
+    "name": "Raptor Fish"
+  },
+  {
+    "id": "7cf434ba-e27e-4674-b927-df22fa053a26",
+    "name": "Ripple Lotus Q"
+  },
+  {
+    "id": "79f6a24a-5419-4988-bc19-b07120982732",
+    "name": "Shock Hurricane"
+  },
+  {
+    "id": "74ce4102-f6af-467e-8d81-464ac9ebe25e",
+    "name": "Sopian"
+  },
+  {
+    "id": "24ec4b9d-1839-4a0f-9ebf-f5340bfc523a",
+    "name": "Spiral Gate"
+  },
+  {
+    "id": "b900ea21-4caa-44b0-81ce-b2dbe6a06722",
+    "name": "Steam Star"
+  },
+  {
+    "id": "c1a29dac-6649-4920-bc4d-b0b8070ed15f",
+    "name": "Thrash Crawler"
+  },
+  {
+    "id": "eb15fb12-f761-44d7-a91f-4f85a9d27814",
+    "name": "Zepimeteus"
+  },
+  {
+    "id": "9970cdd5-bde6-4996-916e-00209a7419f6",
+    "name": "Bazooka Mutant"
+  },
+  {
+    "id": "d92b07a3-5dba-448b-94c6-310a588956cc",
+    "name": "Cursed Pincher"
+  },
+  {
+    "id": "b948f601-4d03-4751-959d-0bfca2a014fe",
+    "name": "Death Smoke"
+  },
+  {
+    "id": "edb47886-0edd-4aeb-867b-f4d71bb626dd",
+    "name": "Frost Specter, Shadow of Age"
+  },
+  {
+    "id": "b455c70a-bcac-4063-9bc3-9793b7365b66",
+    "name": "Future Slash"
+  },
+  {
+    "id": "78d73122-a35c-448e-871f-8bf713d81fb7",
+    "name": "Gigagriff"
+  },
+  {
+    "id": "b88a3f25-12fd-4c25-8bee-6f1e81fce51b",
+    "name": "Gnarvash, Merchant of Blood"
+  },
+  {
+    "id": "63047135-feae-43bb-8610-8ce6dbec0456",
+    "name": "Grave Worm Q"
+  },
+  {
+    "id": "ed3d85f3-f1a4-41b7-88ab-6ecef15948b7",
+    "name": "Grim Soul, Shadow of Reversal"
+  },
+  {
+    "id": "8805e361-8971-4251-9bd5-a1f044be4185",
+    "name": "Grinning Axe, the Monstrosity"
+  },
+  {
+    "id": "eca2f1a6-c8df-4abc-b0bb-41d31058ee10",
+    "name": "Intense Evil"
+  },
+  {
+    "id": "9d7de648-c25f-4439-835b-359147cca717",
+    "name": "Junkatz, Rabid Doll"
+  },
+  {
+    "id": "5006e5ef-2b00-434e-94ae-9d992d0df5c1",
+    "name": "Lone Tear, Shadow of Solitude"
+  },
+  {
+    "id": "42ee6087-94cf-45cc-9e0b-baf73a008d81",
+    "name": "Lupa, Poison-Tipped Doll"
+  },
+  {
+    "id": "b2a80ade-8d00-4aa7-ad89-30473dfecd1b",
+    "name": "Proclamation of Death"
+  },
+  {
+    "id": "47b35edf-3982-48af-b98b-5548300de386",
+    "name": "Schuka, Duke of Amnesia"
+  },
+  {
+    "id": "12601fae-c2b7-4211-9f84-0922628d384e",
+    "name": "Skullcutter, Swarm Leader"
+  },
+  {
+    "id": "3370af08-dfd1-42a7-8f92-692ba7c48017",
+    "name": "Tentacle Worm"
+  },
+  {
+    "id": "c0dd4b57-b334-4954-88ff-8a791df67b28",
+    "name": "Vile Mulder, Wing of the Void"
+  },
+  {
+    "id": "de383025-127a-445b-b705-3f258ac6cccf",
+    "name": "Zorvaz, the Bonecrusher"
+  },
+  {
+    "id": "65df0a97-9686-4a93-a586-28b491592806",
+    "name": "Armored Decimator Valkaizer"
+  },
+  {
+    "id": "f1a875ab-7edb-46d2-ac0d-31ebdcb97aca",
+    "name": "Armored Scout Gestuchar"
+  },
+  {
+    "id": "03e90b61-de6b-4512-a656-2832968b694a",
+    "name": "Automated Weaponmaster Machai"
+  },
+  {
+    "id": "9ff648e7-b909-4df7-ac27-21f57dd71f59",
+    "name": "Badlands Lizard"
+  },
+  {
+    "id": "f2344e6e-0ee3-4f17-8984-b01025db7e11",
+    "name": "Bazagazeal Dragon"
+  },
+  {
+    "id": "1674d51c-378d-4257-b2b7-e587d1edbdd8",
+    "name": "Choya, the Unheeding"
+  },
+  {
+    "id": "8b7fc29b-d79c-4b08-a88e-9d055d02c6e8",
+    "name": "Cocco Lupia"
+  },
+  {
+    "id": "76da3804-df25-4773-ba2f-ea17bab89f2d",
+    "name": "Comet Missile"
+  },
+  {
+    "id": "5c424a0f-5bbd-41cd-9279-2b408f7e5935",
+    "name": "Crisis Boulder"
+  },
+  {
+    "id": "0277a21a-7456-48f0-84b1-fbe7f5010196",
+    "name": "Cutthroat Skyterror"
+  },
+  {
+    "id": "5e73baca-4680-4c67-aa52-e4da9ac44e15",
+    "name": "Legionnaire Lizard"
+  },
+  {
+    "id": "791d2be3-e30d-4215-8db7-aaccda3dc890",
+    "name": "Migasa, Adept of Chaos"
+  },
+  {
+    "id": "3d6b7853-c3eb-446c-aee1-984ed00b04ac",
+    "name": "Phantom Dragon's Flame"
+  },
+  {
+    "id": "27c58f10-82ef-47ca-8a69-1cfa2057743d",
+    "name": "Picora's Wrench"
+  },
+  {
+    "id": "708d2e3a-76dd-40d6-9278-345383b3047a",
+    "name": "Pyrofighter Magnus"
+  },
+  {
+    "id": "adc7eb5d-862d-430c-bd7d-ca51f0c94b02",
+    "name": "Q-tronic Gargantua"
+  },
+  {
+    "id": "1b83ff2c-3095-40d5-bd76-e1566836a8ea",
+    "name": "Rikabu's Screwdriver"
+  },
+  {
+    "id": "eaa15452-23bb-4fad-a557-9df3c9752292",
+    "name": "Rumblesaur Q"
+  },
+  {
+    "id": "646245a5-3c70-4842-912c-82a288846f97",
+    "name": "Spastic Missile"
+  },
+  {
+    "id": "08a6f16d-36bc-48a9-a704-122875759618",
+    "name": "Torchclencher"
+  },
+  {
+    "id": "ca1f21a4-7f8e-45f3-b7e3-467bdcbd3b10",
+    "name": "Bliss Totem, Avatar of Luck"
+  },
+  {
+    "id": "e0538282-a50e-4097-840c-80f262ce0416",
+    "name": "Cantankerous Giant"
+  },
+  {
+    "id": "a441c54e-8edc-4c70-b9e0-64fe73a468ff",
+    "name": "Carrier Shell"
+  },
+  {
+    "id": "52415948-e965-4636-a240-793f8c29de7c",
+    "name": "Charmilia, the Enticer"
+  },
+  {
+    "id": "d146c950-37d9-4893-95ce-30bd237b5097",
+    "name": "Clobber Totem"
+  },
+  {
+    "id": "9c382f3b-38f0-4ae0-b75a-fe35aa39e3f3",
+    "name": "Dimension Gate"
+  },
+  {
+    "id": "124dc6bb-a6c3-4771-91a5-9cd2c2b198e7",
+    "name": "Factory Shell Q"
+  },
+  {
+    "id": "6dfdd98c-da99-4a5d-9595-51430026d97d",
+    "name": "Faerie Life"
+  },
+  {
+    "id": "3031a721-6725-42f3-a694-08e931eb9fc6",
+    "name": "Feather Horn, the Tracker"
+  },
+  {
+    "id": "f5499baf-ded1-41c5-8386-3ac7f7c1c841",
+    "name": "Forbidding Totem"
+  },
+  {
+    "id": "41b82092-4d34-4b3c-934a-d7bd4fca654a",
+    "name": "Garabon, the Glider"
+  },
+  {
+    "id": "bc8b2d5d-f595-42d2-a10c-2ee3cd336c3f",
+    "name": "Illusory Berry"
+  },
+  {
+    "id": "751ad736-7517-4f58-9d03-5b6afa865c84",
+    "name": "Innocent Hunter, Blade of All"
+  },
+  {
+    "id": "7732053b-6ec5-4a62-a5c1-cccff5583366",
+    "name": "Living Citadel Vosh"
+  },
+  {
+    "id": "1768f54e-5855-45d9-9c6e-306fc2926451",
+    "name": "Mighty Bandit, Ace of Thieves"
+  },
+  {
+    "id": "c99a26f4-ee0a-48d2-aae8-89a775eb208a",
+    "name": "Mystic Treasure Chest"
+  },
+  {
+    "id": "79012009-cb97-4e3a-96b5-76fbeb37ea2b",
+    "name": "Pangaea's Will"
+  },
+  {
+    "id": "8fdf84b5-7fa2-4caa-820e-5c045fc51156",
+    "name": "Paradise Horn"
+  },
+  {
+    "id": "8eca8a5e-f039-4103-b113-5d8c5566a0c0",
+    "name": "Slumber Shell"
+  },
+  {
+    "id": "93ef36cc-4426-46e8-8e12-84e8435e6892",
+    "name": "Trench Scarab"
+  },
+  {
+    "id": "a5fa55a7-8ded-4e8b-9b45-f791427cffd8",
+    "name": "Craze Valkyrie, the Drastic"
+  },
+  {
+    "id": "57b5a157-2ccc-40a7-b8d4-b1b738071562",
+    "name": "Laveil, Seeker of Catastrophe"
+  },
+  {
+    "id": "187d4a6c-9b92-4c7c-8507-e1de185bce02",
+    "name": "Crystal Jouster"
+  },
+  {
+    "id": "59da70cc-e655-4e70-b467-8024dc7c472e",
+    "name": "Q-tronic Hypermind"
+  },
+  {
+    "id": "6a525afa-ec9c-44c9-93dd-31e76d82538d",
+    "name": "Daidalos, General of Fury"
+  },
+  {
+    "id": "569c34fc-614a-4aaf-a89b-d4e5dd49426c",
+    "name": "Phantasmal Horror Gigazald"
+  },
+  {
+    "id": "4717faef-1065-4153-a509-854c22637e27",
+    "name": "Bolmeteus Steel Dragon"
+  },
+  {
+    "id": "4121d282-d257-4b3b-8388-83fbb4829dd9",
+    "name": "Lava Walker Executo"
+  },
+  {
+    "id": "cc7916d4-9f3a-4993-8283-134f3bba105c",
+    "name": "Cliffcrush Giant"
+  },
+  {
+    "id": "4269337e-5772-4d22-9474-e3068cf21de0",
+    "name": "Ultra Mantis, Scourge of Fate"
+  },
+  {
+    "id": "d1fe4c40-637e-4e5c-a769-0d2fc8aa11ca",
+    "name": "Gandar, Seeker of Explosions"
+  },
+  {
+    "id": "c3c7ac05-c847-4842-9504-22e29fa24a2f",
+    "name": "King Benthos"
+  },
+  {
+    "id": "b6863540-2985-4349-aa82-05f9dbe36993",
+    "name": "Battleship Mutant"
+  },
+  {
+    "id": "44293c09-875b-4582-99cd-450b544c875d",
+    "name": "Armored Transport Galiacruse"
+  },
+  {
+    "id": "38504a0f-da4a-4855-9d93-08866f8b955d",
+    "name": "Spinning Totem"
+  },
+  {
+    "id": "7e664555-207b-47d6-8078-f40c5885021d",
+    "name": "Bex, the Oracle"
+  },
+  {
+    "id": "f603d464-3492-40ba-990d-85dc02814966",
+    "name": "Geoshine, Spectral Knight"
+  },
+  {
+    "id": "8501c2f8-7dd2-4c2f-aa80-8025c8998371",
+    "name": "Justice Jamming"
+  },
+  {
+    "id": "3fc5db56-616c-49c4-8ddc-2d922e9c4a54",
+    "name": "Kizar Basiku, the Outrageous"
+  },
+  {
+    "id": "a3569344-7a9a-476a-9afc-35e9c28ad209",
+    "name": "Lightning Charger"
+  },
+  {
+    "id": "119afa07-1a17-4197-8df9-3ee4254f0a58",
+    "name": "Miracle Portal"
+  },
+  {
+    "id": "4507bcbd-17f6-4035-9da5-1a6d0b41601e",
+    "name": "Pulsar Tree"
+  },
+  {
+    "id": "ae65d4d1-78aa-4711-ba49-eafd98b358e9",
+    "name": "Rodi Gale, Night Guardian"
+  },
+  {
+    "id": "7148214f-dc9c-4fb4-835c-cd6064e247df",
+    "name": "Rom, Vizier of Tendrils"
+  },
+  {
+    "id": "e5bb03ac-0f09-44de-8fbe-b0c7f2748e84",
+    "name": "Rondobil, the Explorer"
+  },
+  {
+    "id": "0d273a22-1cf9-4f99-8321-e2282e855b57",
+    "name": "Aqua Agent"
+  },
+  {
+    "id": "7e4cdeee-0b47-4260-8ba8-3f1cf0b9ab36",
+    "name": "Aqua Fencer"
+  },
+  {
+    "id": "0735c257-6554-4aeb-9aca-f3bed4022752",
+    "name": "Biancus"
+  },
+  {
+    "id": "5ce98713-900d-4291-8dc4-889de1d68461",
+    "name": "Cetibols"
+  },
+  {
+    "id": "44c6f9ec-1832-4d62-a73e-3dab72818591",
+    "name": "Curious Eye"
+  },
+  {
+    "id": "10048aab-7f26-4c3f-862b-199f41f132aa",
+    "name": "Garatyano"
+  },
+  {
+    "id": "a1ed67a1-2143-461e-b2ee-7d74ec6773e5",
+    "name": "Riptide Charger"
+  },
+  {
+    "id": "cf6ee28e-ab9b-4313-9ea9-048767476308",
+    "name": "Splash Zebrafish"
+  },
+  {
+    "id": "0106b420-f033-4f9e-b5a9-237f1d6ded0e",
+    "name": "Titanium Cluster"
+  },
+  {
+    "id": "395bac96-1ce7-4681-99fe-59ed2f6dd156",
+    "name": "Trenchdive Shark"
+  },
+  {
+    "id": "b79da1ed-4d54-4396-bc8b-38594979cab2",
+    "name": "Dream Pirate, Shadow of Theft"
+  },
+  {
+    "id": "2a5fe0d2-134c-4a4d-bf90-cfafaa795a84",
+    "name": "Gezary, Undercover Doll"
+  },
+  {
+    "id": "1532f8ae-1dc7-4609-a518-063f8de9c751",
+    "name": "Gigabuster"
+  },
+  {
+    "id": "350d2dde-2abf-48c0-a1da-63dff2d00bfa",
+    "name": "Hopeless Vortex"
+  },
+  {
+    "id": "dbf22912-afdd-49cf-ac0a-6417886d8407",
+    "name": "Phantasmal Horror Gigazabal"
+  },
+  {
+    "id": "36a25a40-d952-4c07-9625-ee88745d6df7",
+    "name": "Propeller Mutant"
+  },
+  {
+    "id": "50cf8db2-11e6-44e2-ad50-89b8041ee670",
+    "name": "Scalpel Spider"
+  },
+  {
+    "id": "b8303223-d073-42b9-8338-cc3b72e5ae69",
+    "name": "Three-Faced Ashura Fang"
+  },
+  {
+    "id": "dca76df6-bd90-46d2-b032-30560f71de4d",
+    "name": "Vacuum Gel"
+  },
+  {
+    "id": "25d36779-1263-4777-aaa1-6c2949addbbf",
+    "name": "Venom Charger"
+  },
+  {
+    "id": "e0558aef-d2d3-4111-aa79-965cdc604f57",
+    "name": "Apocalypse Vise"
+  },
+  {
+    "id": "d8248eef-8cc6-498b-83c3-8fd4dd377893",
+    "name": "Astronaut Skyterror"
+  },
+  {
+    "id": "66763699-8e81-458c-a298-20cd843ddd8d",
+    "name": "Cratersaur"
+  },
+  {
+    "id": "507077aa-7b0b-42c8-a38e-7ff28846c159",
+    "name": "Energy Charger"
+  },
+  {
+    "id": "fa4fc042-7238-495d-9706-2d7b733bcff7",
+    "name": "Gazarias Dragon"
+  },
+  {
+    "id": "aadea88f-bf0c-48ac-9ee7-ac6bdfcb819c",
+    "name": "Kipo's Contraption"
+  },
+  {
+    "id": "f63d041c-e752-4f5c-a3ab-80f45241b249",
+    "name": "Kooc Pollon"
+  },
+  {
+    "id": "fcb63428-e684-486b-9c34-04d24adc8221",
+    "name": "Otherworldly Warrior Naglu"
+  },
+  {
+    "id": "1640acce-f082-4814-be15-b7851f65d21a",
+    "name": "Valkrowzer, Ultra Rock Beast"
+  },
+  {
+    "id": "190cdfdd-c077-4521-91ed-7bc5d6853b75",
+    "name": "Wild Racer Chief Garan"
+  },
+  {
+    "id": "fedcde11-394c-4af5-aa48-df0dc9d02647",
+    "name": "Brood Shell"
+  },
+  {
+    "id": "bb339fe8-3e63-4657-8c5d-d2386c22ff38",
+    "name": "Cryptic Totem"
+  },
+  {
+    "id": "dd842b81-e187-44e3-92f2-a36826718849",
+    "name": "Freezing Icehammer"
+  },
+  {
+    "id": "30272397-4b70-4b40-b7ee-8399ebe099d6",
+    "name": "Fruit of Eternity"
+  },
+  {
+    "id": "e6c53caf-9923-4496-a817-2727ea17bead",
+    "name": "Launch Locust"
+  },
+  {
+    "id": "8de000dc-4cd9-4a6b-bccc-acfae89211ef",
+    "name": "Mulch Charger"
+  },
+  {
+    "id": "bb3a50dd-049d-488d-b89c-779dcf29b82e",
+    "name": "Popple, Flowerpetal Dancer"
+  },
+  {
+    "id": "3e3b883e-721c-42b9-8181-52e514695c7f",
+    "name": "Stinger Horn, the Delver"
+  },
+  {
+    "id": "a5cba5aa-271f-43b0-8350-ca94c5cdfe9a",
+    "name": "Tangle Fist, the Weaver"
+  },
+  {
+    "id": "ced03efd-90c8-4303-83b4-16d2d1198aaf",
+    "name": "World Tree, Root of Life"
+  },
+  {
+    "id": "d45c3c6a-da43-42c8-bf9f-e72aa8c59a36",
+    "name": "Siri, Glory Elemental"
+  },
+  {
+    "id": "a7179172-1a44-46af-abf9-59daf43e67d9",
+    "name": "Cosmic Nebula"
+  },
+  {
+    "id": "504c57d4-d27a-42ce-bfff-36708b814c21",
+    "name": "Crath Lade, Merciless King"
+  },
+  {
+    "id": "19bc25dc-2b35-4676-ab72-a8b13b1828e0",
+    "name": "Sky Crusher, the Agitator"
+  },
+  {
+    "id": "d9be6090-077b-4f34-95cc-d33b2266e45c",
+    "name": "Headlong Giant"
+  },
+  {
+    "id": "2161ef41-da4a-456f-89a6-9aa77ebe896b",
+    "name": "Kuukai, Finder of Karma"
+  },
+  {
+    "id": "8853aa0a-be83-4643-83dd-8be6c5d58be8",
+    "name": "Aqua Ranger"
+  },
+  {
+    "id": "7cb87086-debc-4108-8ada-2e3053211b16",
+    "name": "Megaria, Empress of Dread"
+  },
+  {
+    "id": "cf000f38-660c-4ce0-aa24-2ecbb1e4dee2",
+    "name": "Magmadragon Jagalzor"
+  },
+  {
+    "id": "a156ed1e-b2b4-4ed3-b6a9-539ff04c98dd",
+    "name": "Kachua, Keeper of the Icegate"
+  },
+  {
+    "id": "f254f124-71d4-4fa5-b533-b7f07cb98544",
+    "name": "Dracobarrier"
+  },
+  {
+    "id": "8a9fc455-d8da-4ad2-bb29-117b5a2d412c",
+    "name": "Laser Whip"
+  },
+  {
+    "id": "b2254bd0-fc89-49ab-8a65-16a95f785753",
+    "name": "Lunar Charger"
+  },
+  {
+    "id": "080a33aa-ef5a-4b42-beb3-898c9a71a219",
+    "name": "Migalo, Vizier of Spycraft"
+  },
+  {
+    "id": "09243e57-0456-44d4-abca-8b9bbe045b4b",
+    "name": "Misha, Channeler of Suns"
+  },
+  {
+    "id": "b28b82be-4901-49c7-b8a6-0894302fcd41",
+    "name": "Nariel, the Oracle"
+  },
+  {
+    "id": "89e8ff15-344c-4126-ada7-8ee2966b8a71",
+    "name": "Sasha, Channeler of Suns"
+  },
+  {
+    "id": "03001a9c-19f4-48e3-8812-4f5eb34c39cb",
+    "name": "Sol Galla, Halo Guardian"
+  },
+  {
+    "id": "ed49889d-f2da-4589-8402-f97b1c09cfb3",
+    "name": "Solar Grass"
+  },
+  {
+    "id": "a8fd4083-4cae-46d1-9e02-0880a1f3c014",
+    "name": "Thrumiss, Zephyr Guardian"
+  },
+  {
+    "id": "38220cfa-531c-4aa1-9b4f-e3c1cc85b1fd",
+    "name": "Aqua Grappler"
+  },
+  {
+    "id": "5d4da0a8-3c88-4975-abb6-f3f14c16f512",
+    "name": "Candy Cluster"
+  },
+  {
+    "id": "7d87dcf1-468f-49cc-a5ee-dbdc533a96cc",
+    "name": "Eureka Charger"
+  },
+  {
+    "id": "d03a8283-6c9b-4a0c-aec7-41d44a6f2fcf",
+    "name": "Grape Globbo"
+  },
+  {
+    "id": "4ea04daa-fe50-486e-a14f-07bfcb16c8ee",
+    "name": "Illusion Fish"
+  },
+  {
+    "id": "fd02460a-f9d8-456c-85da-5f37bb5ab84d",
+    "name": "Lalicious"
+  },
+  {
+    "id": "aea2d65b-f0c4-45ed-97ee-9d430cb64400",
+    "name": "Marine Scramble"
+  },
+  {
+    "id": "6edd4023-afe2-4b53-a8b7-d29d851a63c4",
+    "name": "Prowling Elephish"
+  },
+  {
+    "id": "df92f858-a2e9-4f7e-a9fb-c909eeaeb482",
+    "name": "Vikorakys"
+  },
+  {
+    "id": "560eb5b5-9fdf-45f8-aecc-62048b269b23",
+    "name": "Wave Lance"
+  },
+  {
+    "id": "02b4fa1f-763e-40e5-8512-bb7d2ffa322a",
+    "name": "Corpse Charger"
+  },
+  {
+    "id": "f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e",
+    "name": "Cranium Clamp"
+  },
+  {
+    "id": "e74f8316-eb76-41e0-aa44-f716c2e9ce8c",
+    "name": "Dimension Splitter"
+  },
+  {
+    "id": "d17d0e8a-e3ef-4a94-9b7d-95455abb50cf",
+    "name": "Gachack, Mechanical Doll"
+  },
+  {
+    "id": "75457906-539f-4c89-b24a-a7e794595ecb",
+    "name": "Gigaclaws"
+  },
+  {
+    "id": "30298abb-4882-47ca-bf47-82af1df5f868",
+    "name": "Motorcycle Mutant"
+  },
+  {
+    "id": "afca9d71-6486-4bdc-b089-159553cfb6f3",
+    "name": "Necrodragon Galbazeek"
+  },
+  {
+    "id": "d2f91d1a-5e8d-43ce-8512-ec6be9c3f424",
+    "name": "Necrodragon Giland"
+  },
+  {
+    "id": "d766e9bf-bada-4e22-9d82-6e2f8e25132f",
+    "name": "Scream Slicer, Shadow of Fear"
+  },
+  {
+    "id": "12fa044c-770e-4944-8fc3-e5c407812e35",
+    "name": "Tyrant Worm"
+  },
+  {
+    "id": "6ed6f9e5-65b8-45b6-9792-b6b5428dac42",
+    "name": "Bruiser Dragon"
+  },
+  {
+    "id": "006d63ab-f038-455d-ae0b-254778f51813",
+    "name": "Furious Onslaught"
+  },
+  {
+    "id": "d8ac2ab1-2d02-4877-9d79-35e0e003e8fa",
+    "name": "Kyrstron, Lair Delver"
+  },
+  {
+    "id": "8112be9d-50a9-4489-b3f8-257aeed62205",
+    "name": "Magmadragon Melgars"
+  },
+  {
+    "id": "cfbaa44c-b949-45fc-8fe6-99bbab5dab93",
+    "name": "Missile Soldier Ultimo"
+  },
+  {
+    "id": "b469fd84-1fa5-42fa-b4e1-f1d186400e9d",
+    "name": "Rocketdive Skyterror"
+  },
+  {
+    "id": "b955dd9b-2774-42a6-a3d7-97b23116ff0f",
+    "name": "Slaphappy Soldier Galback"
+  },
+  {
+    "id": "224723b5-a3d5-4f8f-81f3-1a19a04b5e3d",
+    "name": "Torpedo Skyterror"
+  },
+  {
+    "id": "2cf1ccb5-50d8-4a50-902e-85a8ee0a5a04",
+    "name": "Totto Pipicchi"
+  },
+  {
+    "id": "d031c833-da73-42a0-af4a-cd2a8ce9af6d",
+    "name": "Volcano Charger"
+  },
+  {
+    "id": "2651ac84-cbbe-4e07-b5f7-0085675254cd",
+    "name": "Bakkra Horn, the Silent"
+  },
+  {
+    "id": "e69438a4-57fa-4028-8450-d855ab013f63",
+    "name": "Carbonite Scarab"
+  },
+  {
+    "id": "fb8f0d54-97ee-430e-a1aa-b23296be8345",
+    "name": "Coliseum Shell"
+  },
+  {
+    "id": "a4018d92-aef5-4332-b274-016881d6871e",
+    "name": "Dracodance Totem"
+  },
+  {
+    "id": "1fbf62d7-aca7-4f0e-bf22-9170e36aad57",
+    "name": "Muscle Charger"
+  },
+  {
+    "id": "701500bb-7ade-4d3d-9938-8367fa3a71bd",
+    "name": "Quixotic Hero Swine Snout"
+  },
+  {
+    "id": "a759c6e0-6846-4a4c-aa75-0b8c77b73435",
+    "name": "Root Charger"
+  },
+  {
+    "id": "3b7f7a73-3f12-46a6-a36c-509fed6177ee",
+    "name": "Senia, Orchard Avenger"
+  },
+  {
+    "id": "f4750fe9-35ce-4bca-b074-a939d18a971d",
+    "name": "Terradragon Gamiratar"
+  },
+  {
+    "id": "ea9dbf9c-d049-4213-a658-e47ab25867e6",
+    "name": "Terradragon Regarion"
+  },
+  {
+    "id": "8d0a4919-3d84-423e-982c-0920755a6eed",
+    "name": "Nastasha, Channeler of Suns"
+  },
+  {
+    "id": "ffdf164b-7abe-4a33-b8c6-e584e731b740",
+    "name": "Emperor Quazla"
+  },
+  {
+    "id": "0abb1391-a69f-4839-aafa-222628d5dde8",
+    "name": "Super Necrodragon Abzo Dolba"
+  },
+  {
+    "id": "85e9d177-69b3-4239-8b2b-ec97f74d5577",
+    "name": "Überdragon Bajula"
+  },
+  {
+    "id": "44cbf9fd-3906-4032-939c-f702ffda7415",
+    "name": "Super Terradragon Bailas Gale"
+  },
+  {
+    "id": "5fc46bb1-486a-4b00-833e-1b2075b1587f",
+    "name": "Glena Vuele, the Hypnotic"
+  },
+  {
+    "id": "c58d4c7e-2569-4c9b-a1b0-93c00187c788",
+    "name": "Marching Motherboard"
+  },
+  {
+    "id": "83ac5a3a-1b3d-43f9-a08e-4415e5f478ff",
+    "name": "Azaghast, Tyrant of Shadows"
+  },
+  {
+    "id": "4dbc114f-b53e-45f5-baa5-5ca33a5a3337",
+    "name": "Balesk Baj, the Timeburner"
+  },
+  {
+    "id": "313e725b-e8fc-4fc5-988c-f14cc45adff1",
+    "name": "Vreemah, Freaky Mojo Totem"
+  },
+  {
+    "id": "77b12f4f-a063-40dd-8829-fb7c91ec4540",
+    "name": "Betrale, the Explorer"
+  },
+  {
+    "id": "d2e9e450-11c3-430c-9e1a-364f3232110b",
+    "name": "Cosmic Wing"
+  },
+  {
+    "id": "6c075256-a127-4419-943d-400c9df1e9b7",
+    "name": "Cyclolink, Spectral Knight"
+  },
+  {
+    "id": "6d7cf87d-21d6-4671-823a-32aa93de67ee",
+    "name": "Jil Warka, Time Guardian"
+  },
+  {
+    "id": "6e541459-a1de-4a65-be65-f363f38e7c3b",
+    "name": "Kalute, Vizier of Eternity"
+  },
+  {
+    "id": "da37e2f2-95cf-48b0-a1a2-8e44aea6d884",
+    "name": "Micute, the Oracle"
+  },
+  {
+    "id": "136670b4-7c19-49a0-bc89-c920c34be0cc",
+    "name": "Mihail, Celestial Elemental"
+  },
+  {
+    "id": "70cac25c-bf54-4934-8180-cf18867e9d7d",
+    "name": "Nexus Charger"
+  },
+  {
+    "id": "0a75c035-d06b-4e10-9fa1-8d3ec6faa795",
+    "name": "Tra Rion, Penumbra Guardian"
+  },
+  {
+    "id": "f9f3ae82-c98f-40ce-9187-c2e5a356c083",
+    "name": "Unified Resistance"
+  },
+  {
+    "id": "2afbe361-644f-4c89-a9af-f18dd2c10825",
+    "name": "Abduction Charger"
+  },
+  {
+    "id": "256dc280-5ba0-4b20-9544-b62552a5398c",
+    "name": "Emperor Maroll"
+  },
+  {
+    "id": "62f0d41e-61c0-4050-9fde-97be0b573a59",
+    "name": "Hokira"
+  },
+  {
+    "id": "c13a5315-dec4-47ee-85fd-4feefeafe385",
+    "name": "Impossible Tunnel"
+  },
+  {
+    "id": "cf96ecd5-481a-4a63-b8f1-61731525d956",
+    "name": "Kelp Candle"
+  },
+  {
+    "id": "8733dbde-24a8-4015-863a-3684657c4dd6",
+    "name": "Scout Cluster"
+  },
+  {
+    "id": "10e8af32-72f0-486c-abdc-dd1088735cb7",
+    "name": "Submarine Project"
+  },
+  {
+    "id": "e855fefa-623c-4558-b523-185f6c0bc4fe",
+    "name": "Tekorax"
+  },
+  {
+    "id": "6c7b55dc-065b-4d8b-8b17-0350e6157c48",
+    "name": "Tentacle Cluster"
+  },
+  {
+    "id": "39eba063-d49c-4c65-af0f-4a410db6ad86",
+    "name": "Zeppelin Crawler"
+  },
+  {
+    "id": "ec6a2833-e4ef-401e-a025-28deef02a46d",
+    "name": "Acid Reflux, the Fleshboiler"
+  },
+  {
+    "id": "da93d9d0-b569-408d-af93-b4a4286fc91f",
+    "name": "Bat Doctor, Shadow of Undeath"
+  },
+  {
+    "id": "d53bb7b9-5d3e-44ed-a8ab-ab262ec23cb8",
+    "name": "Gabzagul, Warlord of Pain"
+  },
+  {
+    "id": "5a81f94e-aff8-4c15-a0bb-a787eb7362f4",
+    "name": "Grinning Hunger"
+  },
+  {
+    "id": "ab6c7559-1714-4238-a063-393cfe8adc08",
+    "name": "Ice Vapor, Shadow of Anguish"
+  },
+  {
+    "id": "56486d95-811d-4a77-a21b-dd773eb67d97",
+    "name": "Necrodragon Izorist Vhal"
+  },
+  {
+    "id": "7e9225cc-b7d8-4267-a8db-9ec0c7629216",
+    "name": "Slash Charger"
+  },
+  {
+    "id": "5703585a-5a92-41c8-b8fc-4775d71429c2",
+    "name": "Trixo, Wicked Doll"
+  },
+  {
+    "id": "750f39b7-c3d3-4fd4-bf07-a45712195c42",
+    "name": "Venom Worm"
+  },
+  {
+    "id": "687ab68e-4c9e-4a1f-8b80-7ced8a7eff7f",
+    "name": "Zombie Carnival"
+  },
+  {
+    "id": "c23b0bbb-6a76-4b92-a224-832ed12544ff",
+    "name": "Aerodactyl Kooza"
+  },
+  {
+    "id": "0219aa19-f201-4e11-92c5-59f4f5aaa697",
+    "name": "Blizzard of Spears"
+  },
+  {
+    "id": "dc879044-c47b-4a05-b3fb-d305fb47370e",
+    "name": "Fists of Forever"
+  },
+  {
+    "id": "ca9c45d2-d280-4a57-9558-eb39a880cd3d",
+    "name": "Gigio's Hammer"
+  },
+  {
+    "id": "5680ad34-e725-45a3-a53a-9b3c7f24feae",
+    "name": "Quakesaur"
+  },
+  {
+    "id": "e3b5531f-1dca-4c3a-beda-ca09a7c5ab71",
+    "name": "Relentless Blitz"
+  },
+  {
+    "id": "04dc2f45-6c44-486c-9bdf-9f99694792ff",
+    "name": "Shock Trooper Mykee"
+  },
+  {
+    "id": "fb6614a6-644d-4fde-9958-225cf2295d47",
+    "name": "Simian Warrior Grash"
+  },
+  {
+    "id": "24ee2a43-3ec4-44d0-82a6-ba80e58e5255",
+    "name": "Snaptongue Lizard"
+  },
+  {
+    "id": "206b19fb-b389-44f3-9a45-06a7df6dc0f0",
+    "name": "Steam Rumbler Kain"
+  },
+  {
+    "id": "ea7ebbe2-59ce-4257-a5b6-8b074c4ed75d",
+    "name": "Cavern Raider"
+  },
+  {
+    "id": "6f2b5764-ebb1-4f26-8dfa-32333b051df1",
+    "name": "Dance of the Sproutlings"
+  },
+  {
+    "id": "c6b9f290-208f-4c7f-9e1f-4d0742c785ce",
+    "name": "Mana Bonanza"
+  },
+  {
+    "id": "b8e18b9a-5ba1-40c1-bcee-78f5e3e194fe",
+    "name": "Silvermoon Trailblazer"
+  },
+  {
+    "id": "3aa08e1b-b08d-4f53-b0ca-6f8917c2963d",
+    "name": "Solid Horn"
+  },
+  {
+    "id": "1c877a61-6ec5-4c4c-87ee-8d4ab417b476",
+    "name": "Storm Wrangler, the Furious"
+  },
+  {
+    "id": "228e33e9-662d-4fc2-8a7c-b6bc51731807",
+    "name": "Terradragon Anrist Vhal"
+  },
+  {
+    "id": "4a31d053-5846-4229-a740-cc2fc8438fc7",
+    "name": "Vine Charger"
+  },
+  {
+    "id": "a5f9ba06-7db8-453b-9cc6-45ac9789d4fb",
+    "name": "Whip Scorpion"
+  },
+  {
+    "id": "7104edf5-edb3-4ce3-81f6-ef08b414d11b",
+    "name": "Whispering Totem"
+  },
+  {
+    "id": "fc2021fa-453b-4774-8127-82bc94cdc6a1",
+    "name": "Petrova, Channeler of Suns"
+  },
+  {
+    "id": "2b33507e-0154-43f7-a190-e84178ea81c9",
+    "name": "Aqua Master"
+  },
+  {
+    "id": "e8701278-6d71-4cd6-bc92-23690b8de9d2",
+    "name": "Stallob, the Lifequasher"
+  },
+  {
+    "id": "eea41196-819f-48a4-ad2d-300bedfec3b7",
+    "name": "Magmadragon Ogrist Vhal"
+  },
+  {
+    "id": "0dc0f75b-403e-4171-ab65-b45e7e021f41",
+    "name": "Stratosphere Giant"
+  },
+  {
+    "id": "d4d00738-81f8-4782-91e3-de96f40023d9",
+    "name": "Balza, Seeker of Hyperpearls"
+  },
+  {
+    "id": "51e58f0d-6c59-4d15-99a1-ce2908756b28",
+    "name": "Ryudmila, Channeler of Suns"
+  },
+  {
+    "id": "296b783c-9200-466e-9eb3-a1a82933c19d",
+    "name": "King Oquanos"
+  },
+  {
+    "id": "e2552e90-61bf-46ec-80a6-28666bfccd1c",
+    "name": "Gajirabute, Vile Centurion"
+  },
+  {
+    "id": "1a2317fa-3710-418e-9b99-a3489f34285a",
+    "name": "Kejila, the Hidden Horror"
+  },
+  {
+    "id": "79c48731-193b-4dc6-b26f-1eb820357367",
+    "name": "Gaulezal Dragon"
+  },
+  {
+    "id": "f6d473c1-952f-482a-85da-cb29cfb46b07",
+    "name": "Carnival Totem"
+  },
+  {
+    "id": "4a223c53-e0fc-4d85-b531-c325c94ed188",
+    "name": "Tanzanyte, the Awakener"
+  },
+  {
+    "id": "c94b8b0a-5406-4d24-9ac9-333c5c077ccd",
+    "name": "Bombazar, Dragon of Destiny"
+  },
+  {
+    "id": "a1ef4e4e-d8c9-4b33-bfb0-3f8f7d021ff5",
+    "name": "Techno Totem"
+  },
+  {
+    "id": "78b562fb-b011-4ed1-a014-88c8d5dfeb2d",
+    "name": "Berochika, Channeler of Suns"
+  },
+  {
+    "id": "511d5780-d5ee-41df-a9ed-c266c55f7a84",
+    "name": "Bulgluf, the Spydroid"
+  },
+  {
+    "id": "f6ef26e0-be8d-4685-94eb-b2e2b764fa9c",
+    "name": "Clearlo, Grace Enforcer"
+  },
+  {
+    "id": "85852774-dd96-4395-8980-eb5b85bf5bfc",
+    "name": "Ferrosaturn, Spectral Knight"
+  },
+  {
+    "id": "476c377a-f91b-4c04-93ee-8c0c2ef27c5f",
+    "name": "Flohdani, the Spydroid"
+  },
+  {
+    "id": "455cb293-8296-4ffc-be01-ddaaedf2e63a",
+    "name": "Glais Mejicula, the Extreme"
+  },
+  {
+    "id": "5da3bdf7-98b4-4f5d-9639-68702c59ad2a",
+    "name": "Ikaz, the Spydroid"
+  },
+  {
+    "id": "afeecd61-4c89-4ab9-9c25-297551fe3624",
+    "name": "Kaemira, the Oracle"
+  },
+  {
+    "id": "56ecfb42-15f2-4559-9cb5-0ea4c9e34fed",
+    "name": "Lemik, Vizier of Thought"
+  },
+  {
+    "id": "7088b444-0550-4215-b12c-e6559b28bb3f",
+    "name": "Logic Cube"
+  },
+  {
+    "id": "e0fcacac-1394-4dff-8c58-ebf67fba7da4",
+    "name": "Messa Bahna, Expanse Guardian"
+  },
+  {
+    "id": "a8e806e4-9675-49c1-b4c1-4c9ab2fa789d",
+    "name": "Pala Olesis, Morning Guardian"
+  },
+  {
+    "id": "b1651408-0b72-41d1-ab38-e7e65cac7d8d",
+    "name": "Poltalester, the Spydroid"
+  },
+  {
+    "id": "e3d5a9f5-cfd1-491d-baa3-2b14b66171f2",
+    "name": "Rapid Reincarnation"
+  },
+  {
+    "id": "cc1b048b-2175-4a28-beea-72f3638891a3",
+    "name": "Solar Ray"
+  },
+  {
+    "id": "7d379ea7-da2a-4b4a-ba4f-beceda436998",
+    "name": "Static Warp"
+  },
+  {
+    "id": "d906c8b7-4797-4569-a444-cd0c88b308c3",
+    "name": "Tulk, the Oracle"
+  },
+  {
+    "id": "4251847b-2e9c-4a14-97a3-cff496fdef2d",
+    "name": "Aqua Strummer"
+  },
+  {
+    "id": "097ab46d-e7f0-4586-a179-c5f7ca4d3693",
+    "name": "Ardent Lunatron"
+  },
+  {
+    "id": "a15ddc75-f015-42b6-be15-eb17e1da2779",
+    "name": "Battery Cluster"
+  },
+  {
+    "id": "3f923abc-b3c0-4e04-89aa-6361900722a5",
+    "name": "Buoyant Blowfish"
+  },
+  {
+    "id": "9700f13c-8491-4543-8137-0f1316bd86ac",
+    "name": "Charge Whipper"
+  },
+  {
+    "id": "9ae35b47-0f98-4e96-a356-a7908077d45e",
+    "name": "Crystal Spinslicer"
+  },
+  {
+    "id": "8e45b9c2-9845-4cdc-88f7-2c062364ce5a",
+    "name": "Fluorogill Manta"
+  },
+  {
+    "id": "460fc2eb-c7cd-42d5-9bed-a98de4f59026",
+    "name": "Milporo"
+  },
+  {
+    "id": "45b61aee-5393-4268-ad4b-a678c18b1584",
+    "name": "Mystic Magician"
+  },
+  {
+    "id": "df56ab26-86cb-43cc-8d80-9afefc2b5162",
+    "name": "Pinpoint Lunatron"
+  },
+  {
+    "id": "f87e1c61-7822-4427-8f29-50a53e1869ab",
+    "name": "Recon Operation"
+  },
+  {
+    "id": "49b6747c-6bdf-4cf0-9a5e-8978c9af15c1",
+    "name": "Siren Concerto"
+  },
+  {
+    "id": "304a3de9-225f-4e66-92e4-b7fc7a47efbb",
+    "name": "Spiral Gate"
+  },
+  {
+    "id": "acc8adb5-63c9-4438-976c-dcdf8fe1dad8",
+    "name": "Tide Patroller"
+  },
+  {
+    "id": "5c343af6-6d86-4b1c-a5e7-d847650f4038",
+    "name": "Torpedo Cluster"
+  },
+  {
+    "id": "659e9cb0-a340-4c4e-bff1-049ed0036b09",
+    "name": "Transmogrify"
+  },
+  {
+    "id": "99f49ffb-8ffb-4f79-98cf-40aca018bc4a",
+    "name": "Zaltan"
+  },
+  {
+    "id": "c1ec3b3b-80e6-4fd0-86bf-c28b5fa01fc6",
+    "name": "Benzo, the Hidden Fury"
+  },
+  {
+    "id": "faf21ab5-754f-4f76-86a5-70406f192c8e",
+    "name": "Death Smoke"
+  },
+  {
+    "id": "e3d3ba3e-eb9b-40b3-a7f6-befc78f2683f",
+    "name": "Dedreen, the Hidden Corrupter"
+  },
+  {
+    "id": "e7b18dba-e6e6-426a-9e57-c4b1088d79d6",
+    "name": "Gigamente"
+  },
+  {
+    "id": "40c90a0f-d083-48af-b503-7c2845d9765a",
+    "name": "Gigandura"
+  },
+  {
+    "id": "06e93dfb-b8d7-4307-a444-a3eba52ad63c",
+    "name": "Hourglass Mutant"
+  },
+  {
+    "id": "08f2ebba-8996-405d-be3b-deca75936afc",
+    "name": "Infernal Command"
+  },
+  {
+    "id": "ae997a18-0cba-4393-8548-185816bb68ca",
+    "name": "Mikay, Rattling Doll"
+  },
+  {
+    "id": "d22eba6d-8172-4886-98e3-0a83de612fcc",
+    "name": "Mummy Wrap, Shadow of Fatigue"
+  },
+  {
+    "id": "cab1a72e-ba8a-416c-bf9b-4b39dc4a0f9b",
+    "name": "Nightmare Invader"
+  },
+  {
+    "id": "e69867c3-41e2-4219-a3a9-29a0630c28e8",
+    "name": "Pierr, Psycho Doll"
+  },
+  {
+    "id": "98fcae59-b6f7-46a7-85d6-ffa55ee33627",
+    "name": "Spark Chemist, Shadow of Whim"
+  },
+  {
+    "id": "46346474-92da-4465-994c-ba48bfcd1537",
+    "name": "Spinal Parasite"
+  },
+  {
+    "id": "5926c4c5-efc1-41b5-a9f6-30819e4a4407",
+    "name": "Uliya, the Entrancer"
+  },
+  {
+    "id": "9dced850-9c8c-431c-82f7-38d6e6d2dce3",
+    "name": "Upheaval"
+  },
+  {
+    "id": "51ef593f-a840-4123-9a29-c2f11aa6dbd9",
+    "name": "Venom Capsule"
+  },
+  {
+    "id": "ddf61f9a-752d-4072-a497-7ed8b14ca8ce",
+    "name": "Zero Nemesis, Shadow of Panic"
+  },
+  {
+    "id": "d2bb3950-66b9-4af0-9160-4946c17c143a",
+    "name": "Armored Raider Gandaval"
+  },
+  {
+    "id": "bf2605e3-3b96-48ee-a73c-74f15ee8fed5",
+    "name": "Brad, Super Kickin' Dynamo"
+  },
+  {
+    "id": "affde51a-afb7-49e7-9f85-b9cfee945523",
+    "name": "Burnwisp Lizard"
+  },
+  {
+    "id": "81fbcc63-2c55-4dae-8e32-8b88cd2a81c2",
+    "name": "Colossus Boost"
+  },
+  {
+    "id": "abe034cb-5b1b-4a9f-9519-0af2bfcc4796",
+    "name": "Cragsaur"
+  },
+  {
+    "id": "d194a92c-5f30-4661-ba5e-f4160dcd95ae",
+    "name": "Explosive Trooper Zalmez"
+  },
+  {
+    "id": "fb0fe721-bc21-4f10-a807-7aa698c8e38a",
+    "name": "Forced Frenzy"
+  },
+  {
+    "id": "1ab6ccdb-6ed6-4ae2-a59f-e85f710055bb",
+    "name": "Hurlosaur"
+  },
+  {
+    "id": "3c1ea573-d8d1-44db-8fc8-8703e5b84bc0",
+    "name": "Mezger, Commando Leader"
+  },
+  {
+    "id": "0f74de48-a8da-4ff7-929a-50fa19fa1028",
+    "name": "Minelord Skyterror"
+  },
+  {
+    "id": "b2645833-af84-4c2f-ae3f-5b0e8d5e2b44",
+    "name": "Mykee's Pliers"
+  },
+  {
+    "id": "46398e27-8a30-4ce2-b2b2-1b6a3afc57dd",
+    "name": "Phantom Dragon's Flame"
+  },
+  {
+    "id": "d2afb8c2-e09a-4d87-88cb-4fef1cc79fa6",
+    "name": "Siege Roller Bagash"
+  },
+  {
+    "id": "62429d3e-c777-4e6d-93fc-e4a4d5ba54f8",
+    "name": "Smash Warrior Stagrandu"
+  },
+  {
+    "id": "447deba1-788b-4cbc-bd73-b4e48e2b848b",
+    "name": "Supersonic Jet Pack"
+  },
+  {
+    "id": "93ac0e42-2ab3-4e1c-b6f4-ac8caaa87f88",
+    "name": "Taunting Skyterror"
+  },
+  {
+    "id": "1b786e62-ffbc-4694-a8cd-8dd48f8e18fd",
+    "name": "Vorg's Engine"
+  },
+  {
+    "id": "3bc35246-4632-4eae-b656-fa5eea34b033",
+    "name": "Adventure Boar"
+  },
+  {
+    "id": "1033cef8-be2d-4cea-bbbc-592a23c49e88",
+    "name": "Ancient Horn, the Watcher"
+  },
+  {
+    "id": "2aa4a8bc-6ce2-4f7f-a797-a698887cea0e",
+    "name": "Bubble Scarab"
+  },
+  {
+    "id": "2690a6cc-9919-4a76-8bf6-69d4602e0047",
+    "name": "Earth Ripper, Talon of Rage"
+  },
+  {
+    "id": "c8e8db62-117a-42ba-a701-876f4c7a2760",
+    "name": "Faerie Life"
+  },
+  {
+    "id": "74be313e-b8ff-4741-88ce-b7f0d6adba45",
+    "name": "Hustle Berry"
+  },
+  {
+    "id": "6a8fa457-5871-4620-8562-b1ae2a7dbf00",
+    "name": "Jiggly Totem"
+  },
+  {
+    "id": "49e7d612-c46d-4cf1-a726-6d931fce19c2",
+    "name": "Karate Potato"
+  },
+  {
+    "id": "7d7aed90-5573-44eb-87fc-b0721777fc1a",
+    "name": "Legacy Shell"
+  },
+  {
+    "id": "f7020449-33e3-488a-807d-59e007180d60",
+    "name": "Sabermask Scarab"
+  },
+  {
+    "id": "2e10b4fb-3f85-4144-8762-51c04fe609d5",
+    "name": "Scowling Tomato"
+  },
+  {
+    "id": "b22f0d6b-7703-4bd4-b97f-4389f907577e",
+    "name": "Shaman Broccoli"
+  },
+  {
+    "id": "a82ec211-588c-4308-95be-798581045e31",
+    "name": "Soulswap"
+  },
+  {
+    "id": "19e27fb6-f221-44ae-9e22-ec48829ac117",
+    "name": "Sporeblast Erengi"
+  },
+  {
+    "id": "45b557c2-6beb-4c9d-aa2b-0f7804a3e214",
+    "name": "Terradragon Cusdalf"
+  },
+  {
+    "id": "244080a8-c85f-4e05-b403-dfae3fac0618",
+    "name": "Thirst for the Hunt"
+  },
+  {
+    "id": "47875b7c-6472-41d9-8994-7c21306a1a99",
+    "name": "Twitch Horn, the Aggressor"
+  },
+  {
+    "id": "ef6d1314-1005-4b5d-9afe-827ffe3ba58a",
+    "name": "Aqua Skydiver"
+  },
+  {
+    "id": "7b30a97f-ff81-40bc-b7c5-9532a2e1ae85",
+    "name": "Estol, Vizier of Aqua"
+  },
+  {
+    "id": "1136d769-2ddf-4e56-ab54-6ed02e270452",
+    "name": "Tajimal, Vizier of Aqua"
+  },
+  {
+    "id": "ddccdc18-92ef-431e-913e-71ba5bb6b1b1",
+    "name": "Melnia, the Aqua Shadow"
+  },
+  {
+    "id": "bc128af9-0fc2-4a1b-b10e-2f695f05c24e",
+    "name": "Pointa, the Aqua Shadow"
+  },
+  {
+    "id": "868dd8dd-7777-4bc2-94d4-7d7ccaf8f999",
+    "name": "Soderlight, the Cold Blade"
+  },
+  {
+    "id": "32b5aa84-3e0f-4b81-a37a-0ec6f21bba52",
+    "name": "Dolmarks, the Shadow Warrior"
+  },
+  {
+    "id": "bde9c44b-ab35-4063-b827-7816cfc35bad",
+    "name": "Galek, the Shadow Warrior"
+  },
+  {
+    "id": "48799b4f-c7cd-4e06-9430-8a3782fd5084",
+    "name": "Ulex, the Dauntless"
+  },
+  {
+    "id": "dfe767f5-8883-4d3c-80ee-df3b277ff425",
+    "name": "Gonta, the Warrior Savage"
+  },
+  {
+    "id": "6c1ef042-f5f6-45b9-849f-a3c1eafbec1e",
+    "name": "Tagtapp, the Retaliator"
+  },
+  {
+    "id": "469b3b73-d071-4318-8e7d-71c848e2b318",
+    "name": "Wind Axe, the Warrior Savage"
+  },
+  {
+    "id": "4f8f46ae-d907-4e27-ba47-2273b5d9abbb",
+    "name": "Lukia Lex, Pinnacle Guardian"
+  },
+  {
+    "id": "ad428b55-4b0b-4a63-b48b-dfc1541b8b81",
+    "name": "Sanfist, the Savage Vizier"
+  },
+  {
+    "id": "f30403b3-75b0-4916-9d5e-5d21e0461326",
+    "name": "Skysword, the Savage Vizier"
+  },
+  {
+    "id": "b9380b9c-894f-421b-b060-1450a4eb32cd",
+    "name": "Elixia, Pureblade Elemental"
+  },
+  {
+    "id": "b6ebbe0b-7441-4a89-9d7e-185b0c7bfe57",
+    "name": "Hawkeye Lunatron"
+  },
+  {
+    "id": "43afea7d-a335-4de4-9eed-a94210d463ce",
+    "name": "Hurricane Crawler"
+  },
+  {
+    "id": "8f0df729-fa1a-439e-a4a1-961650bcd192",
+    "name": "Necrodragon Bryzenaga"
+  },
+  {
+    "id": "e46de1fa-e307-4119-ac71-69c95dc5e443",
+    "name": "Core-Crash Lizard"
+  },
+  {
+    "id": "31683921-16fc-4d4c-bb77-3225d10f7366",
+    "name": "Ultimate Dragon"
+  },
+  {
+    "id": "7a39340a-4601-4c34-8754-05554d49cbf4",
+    "name": "Bodacious Giant"
+  },
+  {
+    "id": "8ae71daf-a39d-4bff-8ebc-b966bf6a059c",
+    "name": "Terradragon Dakma Balgarow"
+  },
+  {
+    "id": "3231bac1-1bad-4991-9e7d-95249e11d4b6",
+    "name": "Bluum Erkis, Flare Guardian"
+  },
+  {
+    "id": "a808b98c-2de7-412b-970c-a3b925bf43c2",
+    "name": "Deklowaz, the Terminator"
+  },
+  {
+    "id": "b888a7a8-d8c0-458a-8cf6-0b675ab9123e",
+    "name": "Evil Incarnate"
+  },
+  {
+    "id": "c2970e00-4951-421c-837a-119a3bf564d8",
+    "name": "Heavyweight Dragon"
+  },
+  {
+    "id": "6a668bef-98c8-4b55-9412-414f25e914e9",
+    "name": "Diamondia, the Blizzard Rider"
+  },
+  {
+    "id": "3d4863c7-9586-4e9a-af76-9ce1b5b332e2",
+    "name": "Miraculous Snare"
+  },
+  {
+    "id": "331e0cb8-5a6d-46a8-ad4f-0ab98c774dc6",
+    "name": "Miraculous Truce"
+  },
+  {
+    "id": "9856078c-0319-4867-a190-427e02c043bb",
+    "name": "Asra, Vizier of Safety"
+  },
+  {
+    "id": "7b3480ab-57fb-413e-bd93-7ffdfeb2d73f",
+    "name": "Baraid, the Explorer"
+  },
+  {
+    "id": "8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee",
+    "name": "Belix, the Explorer"
+  },
+  {
+    "id": "08d2dcbc-e643-4576-9745-1317bfa7968e",
+    "name": "Engbelt, the Spydroid"
+  },
+  {
+    "id": "e34eb3e3-f4b1-429a-90da-c5cf96a767da",
+    "name": "Lamiel, Destiny Enforcer"
+  },
+  {
+    "id": "9ec241a3-57e9-4054-8680-aff2c1a7b45b",
+    "name": "Merlee, the Oracle"
+  },
+  {
+    "id": "4247022f-f630-4e8b-9e9f-9afaf5c61107",
+    "name": "Nial, Vizier of Dexterity"
+  },
+  {
+    "id": "e67f1a65-476f-4bf9-8ea7-35afe19a877d",
+    "name": "Solar Trap"
+  },
+  {
+    "id": "e255f07a-4b76-40a6-8441-faf8c7b6cd41",
+    "name": "Yuliana, Channeler of Suns"
+  },
+  {
+    "id": "5d09f6bb-3b6a-48ee-be64-0c9017a02708",
+    "name": "Aqua Trickster"
+  },
+  {
+    "id": "ddf7ccd6-48e1-46f6-9800-367bf36ec29b",
+    "name": "Emergency Typhoon"
+  },
+  {
+    "id": "af369960-c65f-49f8-bb21-aa6190d0b3b4",
+    "name": "Fantasy Fish"
+  },
+  {
+    "id": "71b80172-8b18-4140-99bf-d8bc4201e07e",
+    "name": "Lucky Ball"
+  },
+  {
+    "id": "6d65304b-30ab-4943-a88d-dbcd8a204c2c",
+    "name": "Melodic Hunter"
+  },
+  {
+    "id": "ee2ae2d8-1ad3-4864-86ba-ce3c2fdb8ad5",
+    "name": "Revival Soldier"
+  },
+  {
+    "id": "c3380f40-8a9c-49f7-9c6b-e00ae2212481",
+    "name": "Squawking Lunatron"
+  },
+  {
+    "id": "23c905d3-a554-4d45-b8d7-1b46fe8d117f",
+    "name": "Time Scout"
+  },
+  {
+    "id": "fccd4a14-6b55-42bf-8dac-8ac311fc4571",
+    "name": "Warped Lunatron"
+  },
+  {
+    "id": "b12e23f7-70cc-4aad-b78f-e71dde4f783e",
+    "name": "Baira, the Hidden Lunatic"
+  },
+  {
+    "id": "fb598a3b-7153-4a66-93de-0c7b7157b5ea",
+    "name": "Beratcha, the Hidden Glutton"
+  },
+  {
+    "id": "479cfe64-5fed-4afb-9d64-b8de738de8d2",
+    "name": "Gazer Eyes, Shadow of Secrets"
+  },
+  {
+    "id": "73af7f15-12fc-4ae7-a7c3-08d7141ad818",
+    "name": "Hazaria, Duke of Thorns"
+  },
+  {
+    "id": "e69f512c-86a5-4afa-b76f-77e70ed103b6",
+    "name": "Jagila, the Hidden Pillager"
+  },
+  {
+    "id": "7b95be5c-d378-4af4-98ce-dc18d2e3d172",
+    "name": "Morbid Medicine"
+  },
+  {
+    "id": "c447753f-ca24-4482-8db0-837dd6f7d31b",
+    "name": "Roulette of Ruin"
+  },
+  {
+    "id": "2ea5870b-6f0f-4980-89de-c5c2d50c798f",
+    "name": "Saliva Worm"
+  },
+  {
+    "id": "5bcab12f-5a17-4ade-b938-1c08a6290047",
+    "name": "Spinning Terror, the Wretched"
+  },
+  {
+    "id": "aa0688bf-5a62-4a62-a613-0b4880c159de",
+    "name": "Bonfire Lizard"
+  },
+  {
+    "id": "49373744-6cbe-4247-8ae4-12fcc0f62201",
+    "name": "Brad's Cutter"
+  },
+  {
+    "id": "ad3e67c6-5f09-4602-8586-53cc80813555",
+    "name": "Eviscerating Warrior Lumez"
+  },
+  {
+    "id": "e663f082-c6a0-4c07-a19d-4f8287f1bbc7",
+    "name": "Gankloak, Rogue Commando"
+  },
+  {
+    "id": "e9edcaed-0434-4e97-b058-bc4fe955ac08",
+    "name": "Hysteria Lizard"
+  },
+  {
+    "id": "d2936cbe-a710-45ff-bc6a-6601fd40f91e",
+    "name": "Jabaha's Automaton"
+  },
+  {
+    "id": "5369887a-6aaa-489a-8aa2-543e74162832",
+    "name": "Lockdown Lizard"
+  },
+  {
+    "id": "61854910-584d-4d41-a125-61efe3c67a53",
+    "name": "Sapian Tark, Flame Dervish"
+  },
+  {
+    "id": "7dbd2f0a-f53f-4c1b-aeaf-6840984c19b6",
+    "name": "Ten-Ton Crunch"
+  },
+  {
+    "id": "999a432e-d38a-4f76-9bb7-d0dd54a3f9ad",
+    "name": "Hazard Hopper"
+  },
+  {
+    "id": "2967d4cc-b4da-4511-b9e7-95b4844216f9",
+    "name": "Hearty Cap'n Polligon"
+  },
+  {
+    "id": "fa987e39-2955-4074-bcf2-b7888ae27319",
+    "name": "Macho Melon"
+  },
+  {
+    "id": "0b99b1d5-240b-4a4a-b505-e446df330c40",
+    "name": "Ninja Pumpkin"
+  },
+  {
+    "id": "ffbfa50c-bda4-408d-a2b0-64f940f0c305",
+    "name": "Quillspike Rumbler"
+  },
+  {
+    "id": "3a071f56-5ad3-445d-b223-6f76685d843a",
+    "name": "Rainbow Gate"
+  },
+  {
+    "id": "e278e681-ee2d-4865-be34-9933dca3d470",
+    "name": "Rollicking Totem"
+  },
+  {
+    "id": "89304216-4cf9-4bb0-903f-55e7248655df",
+    "name": "Royal Durian"
+  },
+  {
+    "id": "9c8b4458-dc55-407d-a42a-a29a26bc5d99",
+    "name": "Skyscraper Shell"
+  },
+  {
+    "id": "47abe92b-a677-4c6a-b9da-033b28bcf374",
+    "name": "Rise and Shine"
+  },
+  {
+    "id": "b7d5c565-dbcc-4883-a175-91a6f5b72f25",
+    "name": "Live and Breathe"
+  },
+  {
+    "id": "2072f6de-c78c-492c-b026-4d94b148e8a2",
+    "name": "Hide and Seek"
+  },
+  {
+    "id": "a1227d09-3baf-4cf3-ae11-2eebe659f1ff",
+    "name": "Slash and Burn"
+  },
+  {
+    "id": "dac86d1e-f00c-43a5-a2bc-cc8b9ac377c1",
+    "name": "Reap and Sow"
+  },
+  {
+    "id": "e1bd40c0-3c76-4854-a967-302e6a6706b3",
+    "name": "Warlord Ailzonius"
+  },
+  {
+    "id": "89eddde4-a2fe-45c3-ad47-813c87ac6d37",
+    "name": "Klujadras"
+  },
+  {
+    "id": "c912b52a-6d6b-4997-ba2d-49468e18eb65",
+    "name": "Miraculous Plague"
+  },
+  {
+    "id": "3713abe0-27bb-475d-b94e-35d2c2fd3f79",
+    "name": "Miraculous Meltdown"
+  },
+  {
+    "id": "a45f2208-2b9a-462e-86a2-4e1d004ae3a1",
+    "name": "Miraculous Rebirth"
+  },
+  {
+    "id": "af2e10ca-da3c-48ee-8064-d12c400ff1f9",
+    "name": "Kilstine, Nebula Elemental"
+  },
+  {
+    "id": "f98787f3-2962-4f55-80d1-da295cbfede7",
+    "name": "Extreme Crawler"
+  },
+  {
+    "id": "8558c3cc-b2ef-4d54-aec8-a4b5bde0b904",
+    "name": "Necrodragon Jagraveen"
+  },
+  {
+    "id": "9f9c1e23-687d-4f8d-a466-5227b45dce40",
+    "name": "Punch Trooper Bronks"
+  },
+  {
+    "id": "cfa7c730-2818-4f78-aa4b-1395060cd687",
+    "name": "Soul Phoenix, Avatar of Unity"
+  },
+  {
+    "id": "05c5496d-e5fa-4691-8542-2d6c6919f402",
+    "name": "Ularus, Punishment Elemental"
+  },
+  {
+    "id": "0fe53ab5-bef9-4bbd-bb05-c94ccb9b1342",
+    "name": "Cosmic Darts"
+  },
+  {
+    "id": "aeaaf98d-938f-46d1-a271-49a86f668ae6",
+    "name": "Typhoon Crawler"
+  },
+  {
+    "id": "0451a36e-fe88-4817-ad94-3dbd9e460fb8",
+    "name": "Meloppe"
+  },
+  {
+    "id": "76310adb-f7c2-4545-8b71-2332b36fbb83",
+    "name": "Gigavrand"
+  },
+  {
+    "id": "6250a4d5-c34e-4585-9c3c-cda7b0b094d3",
+    "name": "Steamroller Mutant"
+  },
+  {
+    "id": "a328f1ed-12b9-467e-b621-19f676e75714",
+    "name": "Whirling Warrior Malian"
+  },
+  {
+    "id": "6dcc11be-ceab-4a72-8d00-937b1f43bbd6",
+    "name": "Mechadragon's Breath"
+  },
+  {
+    "id": "7df9100a-a893-45ea-ab1a-8312b4232b65",
+    "name": "Pincer Scarab"
+  },
+  {
+    "id": "aec7a0eb-a16a-4a8a-bd18-e9adb8970432",
+    "name": "Radioactive Horn, the Strange"
+  },
+  {
+    "id": "d2cda920-585e-449e-834f-af6e84b573da",
+    "name": "Agira, the Warlord Crawler"
+  },
+  {
+    "id": "5ccf0dd9-4dd3-4094-ab00-62c4f265cfd1",
+    "name": "Hydrooze, the Mutant Emperor"
+  },
+  {
+    "id": "6a5fc9ec-17c2-4e3f-92ce-5f67344895a0",
+    "name": "Phantomach, the Gigatrooper"
+  },
+  {
+    "id": "8b9ed1f7-70d7-4932-9381-25040dc69d6e",
+    "name": "Nemonex, Bajula's Robomantis"
+  },
+  {
+    "id": "6da6ae55-baf5-45a6-b5a2-6b36acd4afa4",
+    "name": "Comet Eye, the Spectral Spud"
+  },
+  {
+    "id": "51ce0197-7d12-498a-a874-17e60a0d3f21",
+    "name": "Valkyer, Starstorm Elemental"
+  },
+  {
+    "id": "192b1952-e079-4fe2-be03-25d6b655c044",
+    "name": "Cloned Deflector"
+  },
+  {
+    "id": "55367300-8226-4abf-bdce-061549630013",
+    "name": "Cloned Spiral"
+  },
+  {
+    "id": "2e9096a9-dd85-46f4-9159-aa73abe30165",
+    "name": "Enigmatic Cascade"
+  },
+  {
+    "id": "2f6d65f6-6ec7-4ee5-8c8f-732938b8eeb6",
+    "name": "Gigabalza"
+  },
+  {
+    "id": "060ee9a8-f238-41f3-9e46-3b467c487a5e",
+    "name": "Cloned Nightmare"
+  },
+  {
+    "id": "7f2e9361-2399-4ec1-a2b2-af1c88288833",
+    "name": "Muramasa's Knife"
+  },
+  {
+    "id": "b760d56c-b6cc-4af3-aa97-fb3c04c232ff",
+    "name": "Cloned Blade"
+  },
+  {
+    "id": "02f11a2f-ff50-4e0d-80bd-2995be9d3dd8",
+    "name": "Wingeye Moth"
+  },
+  {
+    "id": "3bd89f19-36f5-4f39-ab3c-4ecc3a4204a0",
+    "name": "Cloned Spike-Horn"
+  },
+  {
+    "id": "83f689d5-5653-4306-84c7-c43d3dd390a7",
+    "name": "Electro Explorer Syrion"
+  },
+  {
+    "id": "854a1e8c-cebb-4d19-b22c-d40fa3761bf1",
+    "name": "Sea Mutant Dormel"
+  },
+  {
+    "id": "bb3a1ebc-2b0f-4b7e-8c44-aa3bf1e66931",
+    "name": "Gigappi Ponto"
+  },
+  {
+    "id": "124aff9d-aaca-4c88-b40b-2529127a1214",
+    "name": "Buzz Betocchi"
+  },
+  {
+    "id": "709b4470-2bad-453d-b0db-1cc218952403",
+    "name": "Spectral Horn Glitalis"
+  },
+  {
+    "id": "ba6ad07e-eed3-49b9-8830-2df794b13066",
+    "name": "Bingole, the Explorer"
+  },
+  {
+    "id": "899e15d3-ed0d-4f13-adf9-54e2db77736d",
+    "name": "Mizoy, the Oracle"
+  },
+  {
+    "id": "d0b9d738-bd33-4dd1-b6dc-234897f52266",
+    "name": "Belmol, the Explorer"
+  },
+  {
+    "id": "9359a337-0c7e-46a4-acd2-a5f6fc44e2ff",
+    "name": "Pharzi, the Oracle"
+  },
+  {
+    "id": "adddbc05-e53f-485b-be16-f94a7c5ddd88",
+    "name": "Tropic Crawler"
+  },
+  {
+    "id": "3b11f35d-0e89-49f9-bcc8-0fa91a19097d",
+    "name": "Funky Wizard"
+  },
+  {
+    "id": "6fefa2b0-3d88-4420-88b3-9896b6ac4ce5",
+    "name": "Wily Carpenter"
+  },
+  {
+    "id": "8a362a6e-8fd8-41e7-ad6c-bf27be952698",
+    "name": "Frantic Chieftain"
+  },
+  {
+    "id": "c17bd6a6-c5ae-4235-b0b1-b5e8321d3a06",
+    "name": "Necrodragon Zalva"
+  },
+  {
+    "id": "5ead68c2-dce0-4e8e-b718-02f2cce5dfa0",
+    "name": "Gigarayze"
+  },
+  {
+    "id": "88435ced-6e13-4084-ba0e-21cac66808e9",
+    "name": "Windmill Mutant"
+  },
+  {
+    "id": "a1e3713b-21f2-4fff-adf0-1bdabf4292d1",
+    "name": "Gigaslug"
+  },
+  {
+    "id": "34ab516c-6a28-4743-a572-6c1140b1792d",
+    "name": "Flame Trooper Goliac"
+  },
+  {
+    "id": "2622d460-6424-4410-9662-f0f4cd9c08b0",
+    "name": "Hypersprint Warrior Uzesol"
+  },
+  {
+    "id": "ce3863f2-5810-40da-9c55-297affdd5787",
+    "name": "Peppi Pepper"
+  },
+  {
+    "id": "d0429aea-e222-482e-a23a-49db1df89c98",
+    "name": "Gandaval's Stapler"
+  },
+  {
+    "id": "2b5cb952-39ea-4264-8f73-92b912102021",
+    "name": "Copper Locust"
+  },
+  {
+    "id": "1c6e6c4a-9108-4e88-9730-a9a12ddb2dbd",
+    "name": "Turtle Horn, the Imposing"
+  },
+  {
+    "id": "5c9e07c1-681c-41f6-975e-0608ff90ab6b",
+    "name": "Fever Nuts"
+  },
+  {
+    "id": "a6bd38a4-734f-4242-bbd2-93942396d1cb",
+    "name": "Uncanny Turnip"
+  },
+  {
+    "id": "dd02d138-9915-4204-856f-d20427072339",
+    "name": "Terradragon Arque Delacerna"
+  },
+  {
+    "id": "ba894f7e-b7d7-409e-8393-cab4285a879c",
+    "name": "Wise Starnoid, Avatar of Hope"
+  },
+  {
+    "id": "23475e43-4cbd-4054-a90d-fde230a28db3",
+    "name": "Cruel Naga, Avatar of Fate"
+  },
+  {
+    "id": "dcc5ee70-bc60-420d-92e5-ed8bd7ff949f",
+    "name": "Death Phoenix, Avatar of Doom"
+  },
+  {
+    "id": "5ffd2e9f-98bc-4e36-8454-8f822740f8eb",
+    "name": "Aura Pegasus, Avatar of Life"
+  },
+  {
+    "id": "8813d7a1-158b-42c3-b5df-8dc4edcdcd22",
+    "name": "Balhols, Demonic Elemental"
+  },
+  {
+    "id": "f5b39a0f-8574-4f42-9278-7432f080cfe2",
+    "name": "Aegis, Sage of Fire and Lightning"
+  },
+  {
+    "id": "9e229a25-a673-45fc-bed4-531f5350468e",
+    "name": "Akashic First, Electro-Dragon"
+  },
+  {
+    "id": "bb5fb1d5-e252-4edc-891b-7e41e1a2c75f",
+    "name": "Gaulzaganta, Spirit of the Woodland Ridges"
+  },
+  {
+    "id": "7fa444fc-de17-457d-b274-90b771271de0",
+    "name": "Getchell, the Emitter"
+  },
+  {
+    "id": "3c65b4a6-4126-47db-9695-812e63be86fc",
+    "name": "Dorothea, the Explorer"
+  },
+  {
+    "id": "c8df4bed-3afc-47eb-8549-da5387dd51b0",
+    "name": "Asteria, Heaven's Blessing Elemental"
+  },
+  {
+    "id": "982763d2-feaf-460d-97b6-273bc87a26ff",
+    "name": "Inspect Seed"
+  },
+  {
+    "id": "afc1c0ca-abb7-4215-b2ad-92120db761bd",
+    "name": "Pacific Champion"
+  },
+  {
+    "id": "f49ca7ca-94d8-41ad-a2a6-4ec17e2cb19c",
+    "name": "Belzeber, Emperor of Death"
+  },
+  {
+    "id": "b2ae51b5-7212-4561-b1d2-d3c0a76310da",
+    "name": "Trombo, Fractured Doll"
+  },
+  {
+    "id": "3329896f-f122-4fa5-970b-d75ea9c0fa78",
+    "name": "Spiritual Star Dragon"
+  },
+  {
+    "id": "a91f496d-f6f2-4a67-adff-f236ac021a73",
+    "name": "Mettza's Iron"
+  },
+  {
+    "id": "1bf51056-ac1b-4b81-a636-d25632bcc05e",
+    "name": "Ground Giant"
+  },
+  {
+    "id": "21380ea3-1a7a-4b53-8243-9afd584dc8b5",
+    "name": "Courtney, Summer Breeze Faerie"
+  },
+  {
+    "id": "1be98f3b-1109-4e7e-8d60-f31f4d6144ef",
+    "name": "The Grave of Angels and Demons"
+  },
+  {
+    "id": "80e1454f-5eac-40ab-b58b-50233fc2577b",
+    "name": "Meermax, Mobile Vizier"
+  },
+  {
+    "id": "158575e4-3d66-437f-b405-ea4456fb3812",
+    "name": "Fortification Against Barrage and Ambush"
+  },
+  {
+    "id": "b0793be2-caf4-48f6-97a7-376bfc1f10cb",
+    "name": "Akashic Third, the Electro-Bandit"
+  },
+  {
+    "id": "2c490ac3-2d86-4d17-8451-7e14f65560e0",
+    "name": "Sirigel, the Absorber"
+  },
+  {
+    "id": "eec126b1-5466-4372-85ff-55abd12cbb24",
+    "name": "Polaris, the Oracle"
+  },
+  {
+    "id": "263f9235-4666-47a5-bcd4-27b284ec641c",
+    "name": "Zereem Crawler"
+  },
+  {
+    "id": "3c4ec8d1-56c0-46e8-adf4-c917613926e9",
+    "name": "Drill Mutant"
+  },
+  {
+    "id": "0cb63949-a349-4290-8339-e7b8654045b4",
+    "name": "Lockon Dude Jiruba"
+  },
+  {
+    "id": "9302d14a-dde0-41eb-a42c-ad184fac8a1a",
+    "name": "Funeral Song of the Beasts"
+  },
+  {
+    "id": "1ae06e1d-06b7-4425-ae8d-6ea37051fa38",
+    "name": "Melcap, the Mutant Explorer"
+  },
+  {
+    "id": "a651f3d4-ca36-4f01-8c77-b5d91d86cdc1",
+    "name": "Breiga, the Wicked Protector"
+  },
+  {
+    "id": "52559c9c-bfe6-4360-87e2-4f107178ffc2",
+    "name": "Funnoo, Bloody Winds Officer"
+  },
+  {
+    "id": "3bc03913-3daa-495f-a5db-025bcfa95374",
+    "name": "Stronghold of Lightning and Flame"
+  },
+  {
+    "id": "cf9a2fe6-472e-49e9-9600-5cbee68d87df",
+    "name": "Tick Tick, Swift Viral Swordfighter"
+  },
+  {
+    "id": "69ba671e-80f5-404d-bcc9-c828c53918d7",
+    "name": "Judgement of the Flame's Spear and the Water's Blade"
+  },
+  {
+    "id": "3752dcad-6515-4346-bb08-91452cdfa14b",
+    "name": "Queen Maiden, the Eternal"
+  },
+  {
+    "id": "d5e2bdf2-bb7e-44d3-a0b7-be3e777905a3",
+    "name": "Paradise of Sacred Birds and Crystal"
+  },
+  {
+    "id": "c624f6d2-8c4d-49fb-b6f7-2f18151e1d29",
+    "name": "Gashi Gashi, the Brave Puppet"
+  },
+  {
+    "id": "9851db3e-c6cd-4541-b826-0299df47ae20",
+    "name": "Flesh-to-Spirit Conversion"
+  },
+  {
+    "id": "ea474746-ad69-491a-a311-36f5113a7908",
+    "name": "Rubels, the Explorer"
+  },
+  {
+    "id": "75891b17-4302-4c57-9c17-665e04900f9c",
+    "name": "Creis Dober, Barrier Guardian"
+  },
+  {
+    "id": "cb5850d5-b826-4ab7-aba7-c4fdc988cdd3",
+    "name": "Rieille, the Oracle"
+  },
+  {
+    "id": "9af2cf5e-0937-4b5a-a098-4bb3d3eb3c20",
+    "name": "Pulpy Goobie"
+  },
+  {
+    "id": "88aa8cfa-c3b5-4ec5-9c39-43fda0a8e774",
+    "name": "Bye Bye Amoeba"
+  },
+  {
+    "id": "76743ed3-9ef5-4748-82d2-685277b2eb16",
+    "name": "Magical Pot"
+  },
+  {
+    "id": "8cfefeb3-bcbc-47cd-93d4-c56e8113918b",
+    "name": "Fallen Monk of the Bloodstained Soil, Zahaku"
+  },
+  {
+    "id": "4c21d977-5f93-4f9b-a0b9-0c4fc1153172",
+    "name": "Niyaari, Exploding Doll"
+  },
+  {
+    "id": "08b1ac8c-8b25-4d77-bc51-f3b0edba1225",
+    "name": "Nightmare Machine"
+  },
+  {
+    "id": "612f01d6-49e3-448e-8c12-36ee12e6672c",
+    "name": "Langren, the Lone Wolf"
+  },
+  {
+    "id": "ab930903-a942-4961-b015-c07b5c704c7a",
+    "name": "Zack Ranba, the Sword Attacker"
+  },
+  {
+    "id": "8de796fe-4d84-4f87-bb10-6a5f69f0d01e",
+    "name": "Joe's Toolkit"
+  },
+  {
+    "id": "958e19e6-a225-4fd6-8ad1-3235df33e2ca",
+    "name": "Toxic Wasp"
+  },
+  {
+    "id": "aab6f47c-c1f6-4734-bc52-bdd2778fa650",
+    "name": "Pocopen, Counterattacking Faerie"
+  },
+  {
+    "id": "ec422f20-8d5a-4bdd-a5c9-14724e213095",
+    "name": "Pixie Cocoon"
+  },
+  {
+    "id": "80577f1e-adce-4f9b-a52d-3eb37894367d",
+    "name": "Spectral Worm Giunair"
+  },
+  {
+    "id": "d2a8dfb9-56e7-45e1-9a63-e1d6c5cc86d9",
+    "name": "Keen, the Mobile Sage"
+  },
+  {
+    "id": "3386b9ac-56f7-46b0-b107-c5245b00cc79",
+    "name": "Jasper, the Stubborn"
+  },
+  {
+    "id": "2433e975-2099-4215-b4e2-c08805b33411",
+    "name": "Akashic Second, Electro-Spirit"
+  },
+  {
+    "id": "de58a516-4268-4650-8b4a-e6f3999940a4",
+    "name": "Animatrain, the Daring Beast"
+  },
+  {
+    "id": "7dd88262-93d1-483f-8495-101100ab8042",
+    "name": "Eternal Phoenix, Dragonflame Phoenix"
+  },
+  {
+    "id": "340a6c09-d778-4c3c-881f-13b75960ae0d",
+    "name": "Auzesu, Demonic Elemental"
+  },
+  {
+    "id": "d734a3c2-9075-4e79-947b-34e8804220a3",
+    "name": "Asylum, Elemental Dragon Knight"
+  },
+  {
+    "id": "cbdaad81-a4e5-473d-a960-56f705af62a9",
+    "name": "Dolgeza, Strong Striker"
+  },
+  {
+    "id": "35409895-cf04-4a84-9eaf-5e54532cb15a",
+    "name": "Galamuta, Matchless Fear Lord"
+  },
+  {
+    "id": "b6eb0d69-162e-400d-be54-89189ec789a0",
+    "name": "Elupheus, Lord of Spirits"
+  },
+  {
+    "id": "1c767a20-b83b-455e-8a67-1a0798bad0ea",
+    "name": "Melania, Channeler of Suns"
+  },
+  {
+    "id": "0a46b936-3b42-4c9a-89d5-72e0008d2fef",
+    "name": "Wave Crawler"
+  },
+  {
+    "id": "8d3d0a55-e4f2-4880-bd87-dfb66cd0aeb7",
+    "name": "Dione"
+  },
+  {
+    "id": "9af80d2b-1a3f-4759-9374-5905938c22f5",
+    "name": "Endless Puppet, Lord of Magic"
+  },
+  {
+    "id": "beff2fcb-da8f-4e13-8ce3-311529bc6160",
+    "name": "Necrodragon Zanjibar"
+  },
+  {
+    "id": "7fe3e018-5834-488f-b612-f5c9ad581248",
+    "name": "Howlsk, the Gigantic Avatar"
+  },
+  {
+    "id": "a2df716e-295e-4324-be62-6bb9a4acf6af",
+    "name": "Mega Assault Wyvern"
+  },
+  {
+    "id": "60ae781a-7868-4063-9eec-cdf749033db6",
+    "name": "Terradragon Magragran"
+  },
+  {
+    "id": "387d91bb-a2c7-4a70-9b45-55e890856845",
+    "name": "Shaman Totem"
+  },
+  {
+    "id": "35b8d1cd-870d-47f2-98b8-bab0f50a608f",
+    "name": "Dominica, Channeler of Suns"
+  },
+  {
+    "id": "c1d07815-96ce-4e72-a62a-1346e2198f1d",
+    "name": "Moritz, the Spydroid"
+  },
+  {
+    "id": "0cbf6dd0-454c-490e-b221-8015c4750ffa",
+    "name": "Cabalt, the Patroller"
+  },
+  {
+    "id": "3c121043-6a6a-4360-9380-261c2c287296",
+    "name": "Mestapo, the Patroller"
+  },
+  {
+    "id": "0ab143a9-da05-469f-9c2e-1e06642abe3f",
+    "name": "Apocalypse Day"
+  },
+  {
+    "id": "46625b90-9fb2-4104-8212-4f8bff968d31",
+    "name": "Get Ready"
+  },
+  {
+    "id": "5cf54b05-6801-4747-ac4b-c1859863ccde",
+    "name": "Aqua Officer"
+  },
+  {
+    "id": "f56bdabd-afec-486f-b323-a1a17ea9aa8e",
+    "name": "Salvage Cluster"
+  },
+  {
+    "id": "7f123f85-3b09-417d-9d85-efb2f8a98ca8",
+    "name": "Trident Tower Lunatron"
+  },
+  {
+    "id": "84a8d59b-d7fd-4fed-ada9-59ca5834febe",
+    "name": "Dejiron"
+  },
+  {
+    "id": "792a2f9c-a1f8-46f5-b17f-79ed6a20b3ff",
+    "name": "Triple Brain"
+  },
+  {
+    "id": "bc874cd8-5066-496f-943f-406aa1af508f",
+    "name": "Typhoon Bazooka"
+  },
+  {
+    "id": "b6a3f511-f271-49a4-afad-9da739c8dd72",
+    "name": "Bagren, Ancient Arhat"
+  },
+  {
+    "id": "93385c3d-b019-42f3-aa3d-613433a12bdb",
+    "name": "Leila, Butterfly Shogun of Death"
+  },
+  {
+    "id": "6c6d8c93-4f96-4a13-9d3c-2dc1f94b099a",
+    "name": "Wrangle, the Hidden Heretic"
+  },
+  {
+    "id": "579b65a1-baaa-46cc-8a21-461ffb6935c8",
+    "name": "Gummer, Assassination Doll"
+  },
+  {
+    "id": "f0bb0b2d-e393-4cb7-8c6d-34476811f530",
+    "name": "Time Tripper, Shadow of Stagnation"
+  },
+  {
+    "id": "e959bf35-239c-4dc7-9de3-31a65760e593",
+    "name": "Demonic Protector"
+  },
+  {
+    "id": "069b1966-0222-4713-85e2-89edae941611",
+    "name": "Crimson Back Dragon"
+  },
+  {
+    "id": "303fc361-8ff4-4239-9b56-206512e93c8e",
+    "name": "Screwhead Lizard"
+  },
+  {
+    "id": "2c8e8702-1f6d-49a4-940f-a534447d0dea",
+    "name": "Dynamite Peak"
+  },
+  {
+    "id": "6d4b058e-5069-494c-9bb3-13a8002c0f04",
+    "name": "Metal Cook, the Exploding Flame Chef"
+  },
+  {
+    "id": "3f9c3ae5-788c-4b88-8119-fb6a339ef6b2",
+    "name": "Nomad Warrior El Gigio"
+  },
+  {
+    "id": "83a5d2e5-9a05-4c86-9623-048a0bc8a566",
+    "name": "Hell's Scrapper"
+  },
+  {
+    "id": "2dbdf83e-6602-403b-85c4-aff35c835810",
+    "name": "Snipe Bug"
+  },
+  {
+    "id": "53548601-dc6b-4a6d-b168-42bea80b43ef",
+    "name": "Broken Horn, the Barricading"
+  },
+  {
+    "id": "187f7817-296b-4457-868c-db90160b9db2",
+    "name": "Innocent, the Invoked"
+  },
+  {
+    "id": "91e0c70e-d36c-48d9-a371-94b6184eab7f",
+    "name": "Quick Avocado"
+  },
+  {
+    "id": "7c9d7ff8-ebae-4830-b11e-401a28b00305",
+    "name": "Mirumeru, Love Faerie"
+  },
+  {
+    "id": "67c8b8cc-cffc-47d9-8f94-93533380265a",
+    "name": "Evolution Blueprint"
+  },
+  {
+    "id": "02ecd739-eed8-4b33-81df-02c3940f5ca3",
+    "name": "Irvine, the Spydroid"
+  },
+  {
+    "id": "02dfd350-01e4-4ad9-a07b-45f01f6c4b76",
+    "name": "Parshia, the Explorer"
+  },
+  {
+    "id": "422fef08-cb6e-40b5-8109-dd9ff343866f",
+    "name": "Regi Pael, Purple Shrine Guardian"
+  },
+  {
+    "id": "c177dfb8-1e09-496f-b134-e3b9790ab317",
+    "name": "Milkyway, Spectral Knight"
+  },
+  {
+    "id": "a95c519d-8616-451f-bd85-f4d9c8099503",
+    "name": "Glory Stone"
+  },
+  {
+    "id": "61dbf5a3-006c-4c8f-84ca-9e7b2fef1c43",
+    "name": "Shining Defense"
+  },
+  {
+    "id": "f61d2a1e-482d-4781-810f-4ae9f5344f94",
+    "name": "Starbase Lunatron"
+  },
+  {
+    "id": "0d4c5aa4-b645-425f-ae4d-6694aea09c68",
+    "name": "Nostalgia Fish"
+  },
+  {
+    "id": "fc0f353b-fb70-4c6e-85cd-7b4b3992e58a",
+    "name": "Brutal Revenger"
+  },
+  {
+    "id": "3db579ec-e8ba-4cd1-a6a7-94e7ee59b7fe",
+    "name": "Pattern Egg"
+  },
+  {
+    "id": "8bba8e5c-e0d3-4ffa-881f-c616ea1c9830",
+    "name": "Deep Juggler"
+  },
+  {
+    "id": "46595a08-01ff-4234-8d26-da9898f03844",
+    "name": "Spiral Aura"
+  },
+  {
+    "id": "2824cb62-03eb-4495-9a22-7e6b69e5d250",
+    "name": "Gigaroaster"
+  },
+  {
+    "id": "1d45c24f-81b5-4a33-9881-1751735c6eb7",
+    "name": "Zamaru, Treasure of Darkness"
+  },
+  {
+    "id": "def1b983-5237-49c0-ba2c-fc700e3a019a",
+    "name": "Gyasuka, the Malicious Madman"
+  },
+  {
+    "id": "60fc4942-1d5c-4988-af7c-46bada316d06",
+    "name": "Tragic Swamp"
+  },
+  {
+    "id": "1d282716-2863-4773-a595-19c0e42ca7b4",
+    "name": "Ghost Punish"
+  },
+  {
+    "id": "2f92e2fc-3c47-454a-bfd0-b4675883395e",
+    "name": "Hell Double Claw"
+  },
+  {
+    "id": "5862daa0-ffbc-4a66-950a-c4f46cbccadf",
+    "name": "Zyler's Lighter"
+  },
+  {
+    "id": "7fa92efe-5dec-4aae-8c14-c01be8f7d19f",
+    "name": "Chitta Peloru"
+  },
+  {
+    "id": "7d240bee-c90d-4b7a-be49-ce2caec802ce",
+    "name": "Brock, the Screw Soldier"
+  },
+  {
+    "id": "780fdfac-9075-491a-a8ad-dbba13dc27c7",
+    "name": "Drill Bowgun"
+  },
+  {
+    "id": "fc7c71ba-bb53-4c7e-a2f8-1e791134a9ba",
+    "name": "Cannonball Sling"
+  },
+  {
+    "id": "c592ca18-7f77-4d59-8dab-07c20d7e96b9",
+    "name": "Crimson Rifle"
+  },
+  {
+    "id": "83d3190c-6177-4e7e-87a9-c9a89a76d681",
+    "name": "Cyclone Totem"
+  },
+  {
+    "id": "1afc3f0f-eeb9-44e9-9fbf-40a2b0b4227c",
+    "name": "Fury Totem"
+  },
+  {
+    "id": "48b27eaa-0e08-4e88-b2a6-a527bc24cdf0",
+    "name": "Cloud Mayfly"
+  },
+  {
+    "id": "9c67fd44-339b-45b0-89a2-b2a00237f2b3",
+    "name": "Mind Capture"
+  },
+  {
+    "id": "62e66c51-0025-4b72-87e0-6534fe082422",
+    "name": "Faerie Gift"
+  },
+  {
+    "id": "d783e285-e3b3-42c5-8f39-c654db6eb7ec",
+    "name": "Neo Sledgehammer"
+  },
+  {
+    "id": "8d93920b-709b-4d0a-a7d2-0f9ce320cf4e",
+    "name": "Glasya, Channeler of Suns"
+  },
+  {
+    "id": "da05af71-af72-4adb-840a-3c4c1f1b95a3",
+    "name": "Rentia, the Explorer"
+  },
+  {
+    "id": "4e449bf2-32a0-4936-879f-ee9af680d7b5",
+    "name": "Rias, Vizier of Recovery"
+  },
+  {
+    "id": "ecb9e205-19fb-4810-8a67-e6df2e74655b",
+    "name": "Malta, the Oracle"
+  },
+  {
+    "id": "ff954b44-0c33-4434-95bc-c99d66d8bbb4",
+    "name": "Bix, Guardian of the Sacred Mountain"
+  },
+  {
+    "id": "563273d5-a14e-4b0f-b98c-ebd72ab4eb14",
+    "name": "Cubela, the Oracle"
+  },
+  {
+    "id": "866f537a-9bb6-4e3c-839f-883a9fae0ba1",
+    "name": "Martial Law"
+  },
+  {
+    "id": "ea3a617e-a1d7-4fde-9c68-10a918c585b9",
+    "name": "Reverse Armor"
+  },
+  {
+    "id": "5e1a836d-05e7-448d-9150-0249bbac4107",
+    "name": "Photon Lunatron"
+  },
+  {
+    "id": "cc1ca3c0-5618-4ac4-b828-a4b4da74a32c",
+    "name": "Dolunka"
+  },
+  {
+    "id": "f4500458-f610-4e53-926b-807e9f75fab0",
+    "name": "Rosa Rossa"
+  },
+  {
+    "id": "949b46e3-4672-47e6-9a85-7e75d9546210",
+    "name": "Aqua Spy"
+  },
+  {
+    "id": "a8a4ac58-2c2a-40e7-adad-1f63a378ca0d",
+    "name": "Crescent Anemone"
+  },
+  {
+    "id": "64ff3510-fcf2-43b9-9c9d-ab8709273b99",
+    "name": "Warp Rifle"
+  },
+  {
+    "id": "60be2721-992b-41ba-b794-5fb23eab6d66",
+    "name": "Spiritual Water"
+  },
+  {
+    "id": "42ea4cea-09d1-47eb-9859-4693e40ebdce",
+    "name": "Invisible Suit"
+  },
+  {
+    "id": "f05b9cea-cb23-4543-97da-e1379b02536e",
+    "name": "Delorin, the Hidden Surprise"
+  },
+  {
+    "id": "8db638fe-f7d8-437d-bd38-5df29b9381a9",
+    "name": "Telescope Horn"
+  },
+  {
+    "id": "3714f3d7-133d-4ab4-885b-eb540306284e",
+    "name": "Automobile Man"
+  },
+  {
+    "id": "1b403f4e-ba6c-4796-9173-bf2146c14a28",
+    "name": "Western Barrel, Shadow of Riots"
+  },
+  {
+    "id": "c69a6570-30c1-429d-8c54-56bd0cb7fe2f",
+    "name": "Bloody Cymbal"
+  },
+  {
+    "id": "55f0635d-6e82-4f86-8024-22ea8d50d1ad",
+    "name": "Balor, Lifesaving Doll"
+  },
+  {
+    "id": "80ba3268-da0b-4e69-ba88-041abcf84785",
+    "name": "Toxic Pipe"
+  },
+  {
+    "id": "7e40316c-53de-4238-95c0-958830aa3936",
+    "name": "Quake Staff"
+  },
+  {
+    "id": "a080fd40-e43f-4ef1-90b3-46f40caf07e3",
+    "name": "Crash Lizard"
+  },
+  {
+    "id": "bba21ffa-54d2-40a0-83df-ce6f3e9be3db",
+    "name": "Gankloak's Magnifying Glass"
+  },
+  {
+    "id": "e78196f3-e185-4b22-9461-91d38912fccb",
+    "name": "Explosion Lizard"
+  },
+  {
+    "id": "e3874448-02d2-4284-acf6-a3634ff885ad",
+    "name": "Rugeeza, Assault Soldier"
+  },
+  {
+    "id": "928fb3a2-ca9f-448a-9163-0db2bac6f671",
+    "name": "Pyuzero, Prince of the South Wind"
+  },
+  {
+    "id": "b881664f-5f31-47bd-9b85-2d61f0c2e91c",
+    "name": "Branca, Protection Soldier"
+  },
+  {
+    "id": "b6b0c7fd-4937-4760-8f00-fdb19b5bf7c0",
+    "name": "Twin Turbo"
+  },
+  {
+    "id": "668ff0e3-f685-4f42-bf58-da8a9934a731",
+    "name": "Fire Blade"
+  },
+  {
+    "id": "3d1dfd84-d0d3-43c1-b93a-85e06a7723bb",
+    "name": "Surprise Totem"
+  },
+  {
+    "id": "8e19d3ce-e2e9-450d-9d4b-4013ad6f4d58",
+    "name": "Brave Bell"
+  },
+  {
+    "id": "00f3e0d9-0148-40fd-a33f-26edd88ac4a5",
+    "name": "Yuuki, the Invoked"
+  },
+  {
+    "id": "5696964c-c959-4d79-af03-e1c5ccc1678f",
+    "name": "Dreaming Moon Knife"
+  },
+  {
+    "id": "c4af4e41-ddf9-43c1-a6bf-2e01895fbb4f",
+    "name": "Malulu, Snowy Valley Faerie"
+  },
+  {
+    "id": "b1696a1a-81cc-4077-85a7-c57d81054b83",
+    "name": "Raging Bamboo"
+  },
+  {
+    "id": "f1def5f9-df2b-4c1b-aaf2-b172797d6f31",
+    "name": "Seventh Tower"
+  },
+  {
+    "id": "746fb562-4383-4d34-ab82-8c6314ca1ade",
+    "name": "Emerald Claw"
+  },
+  {
+    "id": "92f4049f-4002-48f4-9b91-163547e49466",
+    "name": "Marshias, Sun Elemental"
+  },
+  {
+    "id": "e7b7cf35-c9a5-4e84-9b29-86fe76c8d659",
+    "name": "Glorious Heaven's Arm"
+  },
+  {
+    "id": "ea4b7a28-d6de-45f1-ad12-df4ce3af2c54",
+    "name": "Crystal Zweilancer"
+  },
+  {
+    "id": "7848b3ad-0178-4eb7-b28a-57e19882292d",
+    "name": "Emerald Mist"
+  },
+  {
+    "id": "cba7ac02-9982-4865-8d37-64e95e7b610e",
+    "name": "Dorballom, Lord of Demons"
+  },
+  {
+    "id": "779b4c6f-95ff-4e51-ad6a-8cf29e475ff2",
+    "name": "Diablost, the Shady General"
+  },
+  {
+    "id": "c387acbb-27f1-4666-ac43-bf3373fcfce4",
+    "name": "Bolberg Cross Dragon"
+  },
+  {
+    "id": "0bc9922f-47c1-4c52-b6d3-dd7949232fce",
+    "name": "Final Dragarmor"
+  },
+  {
+    "id": "02bc113f-565f-4585-88c3-a4f691764313",
+    "name": "Messiah, the Battlemaster"
+  },
+  {
+    "id": "44596c91-f1ae-42a4-8f9a-ae80dfaf39a5",
+    "name": "Powered Stallion"
+  },
+  {
+    "id": "da5c87ff-5a92-4332-9284-9a885913ab5f",
+    "name": "Marianna, Channeler of Suns"
+  },
+  {
+    "id": "810cea80-7047-4e36-96a9-f832d2ba8a5c",
+    "name": "Aqua Patrol"
+  },
+  {
+    "id": "28517606-488d-430f-a4a6-0a8f3fab7916",
+    "name": "Dorberos, the Imprisoning Fiend"
+  },
+  {
+    "id": "1980ace9-a31e-4564-a887-786902e578bb",
+    "name": "Metalchaos Dragon"
+  },
+  {
+    "id": "e051928e-79ee-4273-8887-44003be426d6",
+    "name": "Ryokudou, the Principle Defender"
+  },
+  {
+    "id": "3a75dceb-4751-4e7d-bc76-fcb62114c29c",
+    "name": "Sirius, the Patroller"
+  },
+  {
+    "id": "120d326c-2ed9-4c4e-ac39-00a771e6e868",
+    "name": "Valiant Spark"
+  },
+  {
+    "id": "215a098f-1fb7-4f8a-8df6-0ee255b1cf26",
+    "name": "Petrial Flame"
+  },
+  {
+    "id": "924e1a3c-5afd-48c7-bc0b-abe819a01458",
+    "name": "Mint Mirage"
+  },
+  {
+    "id": "19198cc6-3841-4c61-888a-5a6509973216",
+    "name": "Full Throttle Sergeant"
+  },
+  {
+    "id": "f052601c-4421-4a53-8bd1-03ae01104373",
+    "name": "Submarine Labor"
+  },
+  {
+    "id": "939a372f-a10b-49db-b3b3-554d13a3fcc2",
+    "name": "Moonlight, the Fallen Noble"
+  },
+  {
+    "id": "bdd33588-cdca-41d8-86be-2e7d8d4f65b8",
+    "name": "Death Chaser"
+  },
+  {
+    "id": "b68add59-6dca-479b-a9e8-43e42042bfa7",
+    "name": "Hungry Gauntlet"
+  },
+  {
+    "id": "e100509a-36a8-4e8f-b207-1fc4abe36510",
+    "name": "Moby, the Powerful Artilleryman"
+  },
+  {
+    "id": "6f8c1b69-8fd4-454f-8583-ca363699154c",
+    "name": "Sharion, Hunter of the West Wind"
+  },
+  {
+    "id": "5dc8403f-728e-49f3-82dd-b6b007e432fd",
+    "name": "Treasure Chance"
+  },
+  {
+    "id": "5cffbbdc-566a-44ce-9c40-47ac001e3060",
+    "name": "Terradragon Dagradolgran"
+  },
+  {
+    "id": "3f97e38d-031f-4341-a4c1-a55a578ee918",
+    "name": "Stunning Totem"
+  },
+  {
+    "id": "1f57ad89-682d-4307-82cc-614be9dc9855",
+    "name": "Pirates, the Invoked"
+  },
+  {
+    "id": "49af40a1-cc32-453f-8de8-0741ccc736c2",
+    "name": "Rinne Seuss, Sacred Weapon Guardian"
+  },
+  {
+    "id": "97290635-5e96-437a-969b-86354379a866",
+    "name": "Uranus, the Paladin"
+  },
+  {
+    "id": "a8dd05f1-1ee6-4e70-931a-5e95fa341bcd",
+    "name": "Quick Defense"
+  },
+  {
+    "id": "c81146a8-dbbf-436e-a3aa-c93d66a2254c",
+    "name": "Pakurio"
+  },
+  {
+    "id": "b5b7a42f-c3e8-4bd7-a948-aa8ac55dc549",
+    "name": "Ice Medusa"
+  },
+  {
+    "id": "0af2216f-e88e-4ee1-85e0-b696d50ce6cf",
+    "name": "Maximum Defense"
+  },
+  {
+    "id": "b69b6c33-f0e6-4738-809b-0da8c8874c33",
+    "name": "Frenzy Drum"
+  },
+  {
+    "id": "043e8fb7-5e32-436c-a5e1-45aac4991653",
+    "name": "Deklowaz's Brooch"
+  },
+  {
+    "id": "2da7d725-bf0e-4ed2-a054-d22c5ff0d910",
+    "name": "Powered Mask"
+  },
+  {
+    "id": "0c1c3d46-de20-4370-965d-36dfc44d81ff",
+    "name": "Space Titanica"
+  },
+  {
+    "id": "c64f16ad-4ee0-4fdc-bb78-cf60e9296b90",
+    "name": "Gyulcas, Sage of the East Wind"
+  },
+  {
+    "id": "bc3ec3dc-5eeb-4f94-b425-33e6f89073e4",
+    "name": "Inferno Scissors"
+  },
+  {
+    "id": "8d143b1c-2481-4ae0-8a14-8da264297fb8",
+    "name": "Cauldron Shell"
+  },
+  {
+    "id": "00659dad-07cb-486e-b70e-ad5290264343",
+    "name": "Hunter, the Invoked"
+  },
+  {
+    "id": "4e6e4cc8-23c8-4582-b35e-d35370c4b0fa",
+    "name": "Glory Muscle"
+  },
+  {
+    "id": "9df10c96-7e6f-4eec-87c1-3f5b58f7b148",
+    "name": "Nereiz, the Patroller"
+  },
+  {
+    "id": "34abf773-0e9c-49d6-8762-4364e4e2142e",
+    "name": "Arissa, Vizier of Holy Strikes"
+  },
+  {
+    "id": "31329693-2446-4526-a712-dcbfa10732f5",
+    "name": "Batias, the Patroller"
+  },
+  {
+    "id": "0f7f77f7-42ad-4683-9673-9959b2fbb4a7",
+    "name": "Beinz Sayla, Guardian of Cleansing Light"
+  },
+  {
+    "id": "9a36c124-dd39-4a10-ae3d-d3c554d160ae",
+    "name": "Hammerhead Cluster"
+  },
+  {
+    "id": "6889672a-81bf-4731-8b4c-37941eeae811",
+    "name": "Aqua Moon Edge"
+  },
+  {
+    "id": "77d5e762-c655-40e8-adee-423f552591b8",
+    "name": "Bubble Lamp"
+  },
+  {
+    "id": "cb0f3637-3181-4970-8ff3-6f1c72095f59",
+    "name": "Spiral Lance"
+  },
+  {
+    "id": "e245bbb8-b032-4533-8c35-935e0f03d401",
+    "name": "Death Harp"
+  },
+  {
+    "id": "079a9a5b-f0c4-4fe4-8b01-f3d86925ef95",
+    "name": "Deathblood, Mysterious Demon"
+  },
+  {
+    "id": "51cbc79d-58f5-4435-b8c9-d50c46b8dffc",
+    "name": "Dark Mare, the Debilitating Shadow"
+  },
+  {
+    "id": "12d21c92-9491-4d8c-8931-d84c921f53c3",
+    "name": "Reality Void"
+  },
+  {
+    "id": "b5a793be-1e40-442f-b316-00e1c41e6ff4",
+    "name": "Magma Colossus"
+  },
+  {
+    "id": "6da486df-76cf-4b0f-b234-3adb2c3d9bf3",
+    "name": "Mysterious, Armed Soldier"
+  },
+  {
+    "id": "15c55185-b547-4693-8c8d-5477ad57db4c",
+    "name": "Red Ridaz', Explosive Daredevils"
+  },
+  {
+    "id": "f56a85d1-35d1-4823-bd54-de11b79e3d5c",
+    "name": "Screw Rocket"
+  },
+  {
+    "id": "e111044b-ea7d-4c21-b1c8-ae0432f64a24",
+    "name": "Fifi, Awakened Dragon Faerie"
+  },
+  {
+    "id": "61202ee2-5cd0-4717-9138-dd69376e730b",
+    "name": "Soaring Wing Horn"
+  },
+  {
+    "id": "bd041612-e965-47fe-98ae-10feaac76d52",
+    "name": "Hustle Ball Tribe"
+  },
+  {
+    "id": "4ce5928b-cf27-4d12-a4ad-89a2676726e8",
+    "name": "Faerie Scoop"
+  },
+  {
+    "id": "4d576949-1cc9-4fd3-8c6f-3ee7e223a15a",
+    "name": "Alphadios, Lord of Spirits"
+  },
+  {
+    "id": "5453db88-d3ea-43fe-9186-523dd6f86c11",
+    "name": "Admiral Queen"
+  },
+  {
+    "id": "dce554ca-3c6e-44d6-a1e5-c1b6b1ea88a4",
+    "name": "Necrodragon Belzarogue"
+  },
+  {
+    "id": "1a84994b-b809-4047-b329-b9ffb8d75eb9",
+    "name": "Bajula's Soul"
+  },
+  {
+    "id": "4908f4bd-130a-47d7-a857-f506f839b3e4",
+    "name": "Octillion Force"
+  },
+  {
+    "id": "370d904f-864f-4aba-b0d8-d5d36e16a76a",
+    "name": "Altgear, Holy Weaponry Elemental"
+  },
+  {
+    "id": "bac1806e-845e-492e-a1b7-d9a685676ed4",
+    "name": "Gaiacrush Crawler"
+  },
+  {
+    "id": "2811fe78-f4ab-4226-891a-f294f6fdca0e",
+    "name": "Dulanzames, Jet-Black War Demon"
+  },
+  {
+    "id": "f3f7f83e-daf8-4327-b963-6a4f13fd4d6c",
+    "name": "Valkerios Dragon"
+  },
+  {
+    "id": "90783eef-7a01-4f4a-8dae-3bac87e0dc9a",
+    "name": "Commanding Leopard Horn"
+  },
+  {
+    "id": "d17d203f-812c-4916-8eee-d1697496825f",
+    "name": "Rustle, Vizier of Waltz"
+  },
+  {
+    "id": "653955bf-bb79-4093-83ca-714d2aba9614",
+    "name": "Heaven's Gate"
+  },
+  {
+    "id": "15acdef1-7aeb-48da-8884-09871675825f",
+    "name": "Impact Absorber"
+  },
+  {
+    "id": "a62e36d1-5913-4643-9412-0488f401f4c9",
+    "name": "Marshall Queen"
+  },
+  {
+    "id": "72053afc-e9b0-4909-bd46-ce3ef0f6c94f",
+    "name": "Cool Reaction"
+  },
+  {
+    "id": "3f37a7d1-1a12-4fe9-9a7c-a90b7eb5b749",
+    "name": "Noble Enforcer"
+  },
+  {
+    "id": "b1766adc-8854-437a-b5a5-c3a094be9f67",
+    "name": "Death Waltz, Demon of Death"
+  },
+  {
+    "id": "c98795c5-4268-43d5-91e4-3b1660786ec0",
+    "name": "Accident Eye"
+  },
+  {
+    "id": "ab0c3a2f-fec9-4f4e-9ee1-2b11a8c36b62",
+    "name": "Immortal Blade"
+  },
+  {
+    "id": "7ebb15c3-0bf7-4c1a-b080-7213d407915c",
+    "name": "X Revolver Dragon"
+  },
+  {
+    "id": "8d37d5a8-e8e8-44fc-9b5b-c4c255dcc492",
+    "name": "Sky Soldier Wingraios"
+  },
+  {
+    "id": "3a57b581-90bb-4547-9818-a16bd8b41379",
+    "name": "Sky Jet"
+  },
+  {
+    "id": "344725c0-75af-45bf-83fc-4f52fb38c3c9",
+    "name": "Throwing Totem"
+  },
+  {
+    "id": "d9caef3f-4f11-4769-b8c5-5503a5cb1101",
+    "name": "Mobile Forest"
+  },
+  {
+    "id": "5f1d3843-d8bc-402e-8f40-8955385f3d13",
+    "name": "Drum Spirit"
+  },
+  {
+    "id": "7bf5e969-ba5b-4f45-8bce-d2ae91114713",
+    "name": "Sveta, Channeler of Suns"
+  },
+  {
+    "id": "eebce034-44a3-437d-bb87-8d61e1a0971d",
+    "name": "Gran Siris, Milky Way Guardian"
+  },
+  {
+    "id": "1e0cd66b-c3e2-4ddd-902d-57d8bafb252a",
+    "name": "Solario, the Patroller"
+  },
+  {
+    "id": "0067cd64-8a25-4479-83b4-5d0938f317a8",
+    "name": "Aqua Wizard"
+  },
+  {
+    "id": "c06f975c-3b25-4296-8890-edca5339a0ec",
+    "name": "Malibu Dancer"
+  },
+  {
+    "id": "478d2068-bd7f-4a89-a85e-f833208bc221",
+    "name": "Command Device"
+  },
+  {
+    "id": "468a49b3-dc9d-475d-bc24-84a7101fccf9",
+    "name": "Morse, Grave Robber Doll"
+  },
+  {
+    "id": "5cdd5ae6-9e00-4c5a-ae60-b7c7bd7c5741",
+    "name": "Bad Tambourine"
+  },
+  {
+    "id": "93a04906-7947-46f9-beff-e1bcfabf601a",
+    "name": "Gigazanda"
+  },
+  {
+    "id": "b5fd4611-53fc-4841-80a9-07c10184f892",
+    "name": "Blaze, the Super Soul"
+  },
+  {
+    "id": "d2c01028-07e1-4bc0-a6d1-9310f09009fe",
+    "name": "Brother Lizard"
+  },
+  {
+    "id": "676cfd03-4f91-452d-a380-15047559d813",
+    "name": "Metal Cook's Timer"
+  },
+  {
+    "id": "55eb6e0b-2fdd-45a8-934c-92ec2304ff4f",
+    "name": "Shaman, the Invoked"
+  },
+  {
+    "id": "6ba62b7b-54b0-4ca1-bcaa-26716c04be97",
+    "name": "Stomach Garden"
+  },
+  {
+    "id": "f0e743ed-a9ea-4e6e-8172-fb896e1baafe",
+    "name": "Chain Helix"
+  },
+  {
+    "id": "ceed7c7a-9b7e-4c62-9164-3cd5f4b26f4d",
+    "name": "Zemechis, the Explorer"
+  },
+  {
+    "id": "7d5b7c44-6d1f-46b5-b523-c6baec022f67",
+    "name": "Reincarnal, the Paladin"
+  },
+  {
+    "id": "a7a11524-360e-4613-bb88-5b6c49345b8f",
+    "name": "Cubic, the Oracle"
+  },
+  {
+    "id": "373b4c8c-3c2b-4439-8e70-37dd0f1b1a39",
+    "name": "Webius, the Patroller"
+  },
+  {
+    "id": "3e38f922-b693-4634-9803-d5c193d9d465",
+    "name": "Kibinok"
+  },
+  {
+    "id": "dfb0e979-dc67-4842-bc90-08352a2e219a",
+    "name": "Eclipse Lunatron"
+  },
+  {
+    "id": "1c73a5ae-9156-409d-97ac-3e32fc9b1093",
+    "name": "Paradise Aroma"
+  },
+  {
+    "id": "71de92d6-ca1a-4819-abe3-8266ea2123e6",
+    "name": "Pacific Dominator"
+  },
+  {
+    "id": "b4fcc648-df01-4ae5-8bd9-46c27a81b83a",
+    "name": "Jenny, the Dismantling Puppet"
+  },
+  {
+    "id": "52c8a98b-799c-4c62-83b4-a0b7bba623ad",
+    "name": "Bone Ripper, Devourer of Bones"
+  },
+  {
+    "id": "887bc2f8-8b2d-416e-aa93-538147c54481",
+    "name": "Mad Guitar"
+  },
+  {
+    "id": "df4a5fe8-27ac-49e2-a422-6ac835c93986",
+    "name": "Bind Shadow, Shadow of Bondage"
+  },
+  {
+    "id": "987d170a-76f3-443c-8abb-ae903e0b7698",
+    "name": "Atomic Giganto"
+  },
+  {
+    "id": "231a158f-ef51-45bd-a24e-e5599dd8eefb",
+    "name": "Fokker, Rider of the North Wind"
+  },
+  {
+    "id": "d3d63fec-46b7-4229-9810-2a4d9e8a4bf1",
+    "name": "Vinja, Fighter of the Whirlwind"
+  },
+  {
+    "id": "b864813b-c642-43b4-88fc-45c0e31d58f9",
+    "name": "Drill Squall"
+  },
+  {
+    "id": "b5c81fcd-d05e-4464-acf4-5993ffcae887",
+    "name": "Rei Lin, Smile Faerie"
+  },
+  {
+    "id": "4bad8f8b-9c45-48d6-b155-d07d932220e1",
+    "name": "Sniff Mushroom"
+  },
+  {
+    "id": "deb3fe77-fbf2-46fe-a834-b5e7c4dab6ea",
+    "name": "Power Blazer"
+  },
+  {
+    "id": "1359b302-2a8f-4557-9ac8-bfc9b5832d9f",
+    "name": "Buu, the Invoked"
+  },
+  {
+    "id": "94a13ffe-6bba-412e-9ecb-7a0166d2039c",
+    "name": "Ophanis, Unified Five Elemental"
+  },
+  {
+    "id": "eedf1953-bf6e-48f2-bf9d-0275bd2208fe",
+    "name": "Cosmoview Lunatron"
+  },
+  {
+    "id": "d1782df9-8dd6-484f-b420-a7cc72abd5c9",
+    "name": "Super Necrodragon Abas Nonaris"
+  },
+  {
+    "id": "ca73d533-e6b1-42e4-a1d4-23f9f3428d74",
+    "name": "Überdragon Valkyrias"
+  },
+  {
+    "id": "965ebe40-5483-4102-9857-83246f08d113",
+    "name": "Super Terradragon Bramgreil"
+  }
+]
