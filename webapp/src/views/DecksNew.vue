@@ -124,7 +124,7 @@
         >
           <div
             class="deck-card-oval"
-            :class="'card-' + card.civilization.toLowerCase()"
+            :class="'card-' + (Array.isArray(card.civilization) ? card.civilization[0] : (card.civilization || 'unknown')).toLowerCase()"
             @click="tryRemoveCard(card)"
           >
             <v-lazy-image
@@ -523,8 +523,11 @@ export default {
 
         if (!card1 || !card2) return 0;
 
-        const v1 = CIV_ORDER[card1.civilization.toLowerCase()] || 99;
-        const v2 = CIV_ORDER[card2.civilization.toLowerCase()] || 99;
+        const civ1 = Array.isArray(card1.civilization) ? card1.civilization[0] : card1.civilization;
+        const civ2 = Array.isArray(card2.civilization) ? card2.civilization[0] : card2.civilization;
+
+        const v1 = CIV_ORDER[civ1?.toLowerCase()] || 99;
+        const v2 = CIV_ORDER[civ2?.toLowerCase()] || 99;
 
         if (v1 !== v2) {
           return (v1 - v2) * direction;
@@ -577,7 +580,7 @@ export default {
 
       const direction = this.deckSortQtyDirection;
 
-      // Count occurrences of each card UID in the deck
+      // Count occurrences of each card uid in the deck
       const counts = this.selectedDeck.cards.reduce((acc, uid) => {
         acc[uid] = (acc[uid] || 0) + 1;
         return acc;
@@ -661,10 +664,10 @@ export default {
     },
 
     /*
-    getCardsForDeck(cardUids) {
+    getCardsForDeck(carduids) {
       let cards = [];
 
-      for (let uid of cardUids) {
+      for (let uid of carduids) {
         let card = this.cards.find((x) => x.uid === uid);
         if (card === undefined) return [];
 
@@ -691,12 +694,12 @@ export default {
     },
     */
 
-    getCardsForDeck(cardUids) {
+    getCardsForDeck(carduids) {
       if (!this.selectedDeck) return [];
 
       let cards = [];
 
-      for (let uid of cardUids) {
+      for (let uid of carduids) {
         let card = this.cards.find(x => x.uid === uid);
         if (!card) continue;
 
@@ -993,10 +996,19 @@ export default {
       };
 
       for (let card of cards.data) {
-        cardsCiv[card.civilization.toLowerCase()].push(card);
+        const civ = (Array.isArray(card.civilization) ? card.civilization[0] : (card.civilization || "unknown")).toLowerCase();
+        if (cardsCiv[civ]) {
+          cardsCiv[civ].push(card);
+        }
 
-        if (!sets[card.set]) {
-          sets[card.set] = true;
+        if (Array.isArray(card.set)) {
+          card.set.forEach(s => {
+            if (!sets[s]) sets[s] = true;
+          });
+        } else if (card.set) {
+          if (!sets[card.set]) {
+            sets[card.set] = true;
+          }
         }
       }
 
@@ -1084,7 +1096,7 @@ export default {
 
       if (this.filterSet !== ALL_SETS) {
         cards = cards.filter(
-          (card) => card.set === this.filterSet
+          (card) => Array.isArray(card.set) ? card.set.includes(this.filterSet) : card.set === this.filterSet
         );
       }
 
@@ -1097,8 +1109,12 @@ export default {
         )
       ) {
         cards = cards.filter(
-          (card) =>
-            this.filterCivilization[card.civilization]
+          (card) => {
+            if (Array.isArray(card.civilization)) {
+              return card.civilization.some(c => this.filterCivilization[c.toLowerCase()]);
+            }
+            return this.filterCivilization[card.civilization];
+          }
         );
       }
 

@@ -20,8 +20,6 @@ with open(target_file_path, "w", encoding="utf-8") as f:
 
 print("Updated file in place")
 
-
-
 with open(target_file_path, "r", encoding="utf-8") as f:
     target_data = json.load(f)
 
@@ -37,8 +35,4 @@ for target_card in target_data["cards"]:
         count += 1
         print(f"Card with name '{target_card['name']}' has an empty uuid list.")
 
-with open("temp.json", "w", encoding="utf-8") as f:
-    json.dump(d, f, indent=2, ensure_ascii=False)
-
 print(f"Total cards with empty uuid list: {count}")
-print("Saved the empty uuid data to temp.json")

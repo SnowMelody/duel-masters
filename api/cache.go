@@ -1,7 +1,6 @@
 package api
 
 import (
-	"duel-masters/game/cards"
 	"duel-masters/game/match"
 	"encoding/json"
 	"fmt"
@@ -14,12 +13,12 @@ import (
 
 // CardInfo struct is used for the card database api
 type CardInfo struct {
-	UID          string   `json:"uid"`
+	UUID         string   `json:"uid"`
 	Name         string   `json:"name"`
-	Civilization string   `json:"civilization"`
+	Civilization []string `json:"civilization"`
 	Family       []string `json:"family"`
 	ManaCost     int      `json:"manaCost"`
-	Set          string   `json:"set"`
+	Set          []string `json:"set"`
 	Type         string   `json:"type"`
 	Text         string   `json:"text"`
 	Power        string   `json:"power"`
@@ -33,55 +32,35 @@ var mutex = &sync.Mutex{}
 
 // CreateCardCache loads all cards and creates a cache of the static data
 func CreateCardCache() {
+	cardsList := readFromJson()
 
-	cardsFromJsonMap := readFromJson()
+	for _, card := range cardsList {
+		sets := make([]string, 0)
+		for _, printing := range card.Printings {
+			sets = append(sets, printing.Set)
+		}
 
-	for setID, set := range cards.Sets {
-
-		for uid, c := range *set {
-
-			if c == nil {
-				continue
-			}
-
-			card := &match.Card{}
-
-			c(card)
-
+		for _, uuid := range card.UUID {
 			entry := CardInfo{
-				UID:          uid,
+				UUID:         uuid,
 				Name:         card.Name,
-				Civilization: card.Civ,
-				Set:          setID,
+				Civilization: card.Civilizations,
 				ManaCost:     card.ManaCost,
-				Type:         "Creature",
-			}
-
-			if len(card.Family) > 0 {
-				entry.Family = card.Family
-			} else {
-				entry.Type = "Spell"
-			}
-
-			if _, ok := cardsFromJsonMap[card.Name]; ok {
-				entry.Text = cardsFromJsonMap[card.Name].Text
-				entry.Power = cardsFromJsonMap[card.Name].Power
-				entry.Subtypes = cardsFromJsonMap[card.Name].Subtypes
-				entry.Supertypes = cardsFromJsonMap[card.Name].Supertypes
-			} else {
-				logrus.Warnf("Card '%s' not found in json file", card.Name)
+				Set:          sets,
+				Type:         card.Type,
+				Text:         card.Text,
+				Power:        card.Power,
+				Subtypes:     card.Subtypes,
+				Supertypes:   card.Supertypes,
+				Family:       card.Subtypes,
 			}
 
 			register = append(register, entry)
-
-			match.CreateIfNotExists(entry.UID)
-
+			match.CreateIfNotExists(entry.UUID)
 		}
-
 	}
 
-	logrus.Infof("Loaded %v cards into the cache from %v sets", len(register), len(cards.Sets))
-
+	logrus.Infof("Loaded %v cards into the cache", len(register))
 }
 
 // GetCache returns a copy of the cache
@@ -90,14 +69,14 @@ func GetCache() []CardInfo {
 }
 
 // CacheHas returns true if the specified uid exist in the cache
-func CacheHas(uid string) bool {
+func CacheHas(uuid string) bool {
 
 	mutex.Lock()
 
 	defer mutex.Unlock()
 
 	for _, c := range register {
-		if c.UID == uid {
+		if c.UUID == uuid {
 			return true
 		}
 	}
@@ -120,6 +99,7 @@ type CardFromJson struct {
 	Supertypes    []string            `json:"supertypes"`
 	Text          string              `json:"text"`
 	Type          string              `json:"type"`
+	UUID          []string            `json:"uuid"`
 }
 
 type PrintingsFromJson struct {
@@ -130,7 +110,7 @@ type PrintingsFromJson struct {
 	Illustrator string `json:"illustrator"`
 }
 
-func readFromJson() map[string]CardFromJson {
+func readFromJson() []CardFromJson {
 	jsonFileName := "DuelMastersCards.json"
 	jsonFile, err := os.Open(jsonFileName)
 	if err != nil {
@@ -145,11 +125,5 @@ func readFromJson() map[string]CardFromJson {
 
 	logrus.Infof("Loaded %v card details from %s", len(cards.Cards), jsonFileName)
 
-	cardsMap := make(map[string]CardFromJson)
-
-	for _, card := range cards.Cards {
-		cardsMap[card.Name] = card
-	}
-
-	return cardsMap
+	return cards.Cards
 }
