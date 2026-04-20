@@ -45,11 +45,23 @@ def extract_card_ids(root_folder, output_file):
                         card_id = card.get("id")
                         card_name = card.get("name")
 
-                        if card_id and card_name:
-                            result.append({
-                                "id": card_id,
-                                "name": card_name
-                            })
+                        if not (card_id and card_name):
+                            continue
+
+                        card_data = {
+                            "id": card_id,
+                            "name": card_name
+                        }
+
+                        # Extract all properties
+                        for prop in card.findall("property"):
+                            prop_name = prop.get("name")
+                            prop_value = prop.get("value")
+
+                            if prop_name and prop_value:
+                                card_data[prop_name] = prop_value
+
+                        result.append(card_data)
 
                 except Exception as e:
                     print(f"Error parsing {file_path}: {e}")
@@ -61,6 +73,6 @@ def extract_card_ids(root_folder, output_file):
 
 
 root_folder = r"C:\Users\Daniel\AppData\Local\Programs\OCTGN\Data\GameDatabase\bb784fc6-fe21-4603-90d7-82c049908a74\Sets"
-output_file = r"C:\Users\Daniel\Desktop\card_ids.json"
+output_file = r"card_info.json"
 
 extract_card_ids(root_folder, output_file)

@@ -424,6 +424,11 @@
           "rarity": "Super Rare",
           "illustrator": "Seki",
           "flavor": "The entire universe has been enveloped in the melody of the shining spirits! Now, the door to heaven has been opened!"
+        },
+        {
+          "set": "Promotional",
+          "id": "S1",
+          "rarity": "Super Rare"
         }
       ],
       "subtypes": [
@@ -7862,6 +7867,11 @@
           "rarity": "Very Rare",
           "illustrator": "Ryoya Yuki ",
           "flavor": "A shield of holy light is proof of the power of a Lord of Spirits."
+        },
+        {
+          "set": "Promotional",
+          "id": "1",
+          "rarity": "Very Rare"
         }
       ],
       "subtypes": [
@@ -12028,6 +12038,11 @@
           "id": "34/110",
           "rarity": "Rare",
           "illustrator": "Hisashi Momose"
+        },
+        {
+          "set": "Promotional",
+          "id": "34",
+          "rarity": "Rare"
         }
       ],
       "text": "Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy any number of your opponent's creatures that have total power 5000 or less.",
@@ -13045,6 +13060,11 @@
           "id": "86/110",
           "rarity": "Common",
           "illustrator": "Daisuke Izuka "
+        },
+        {
+          "set": "Promotional",
+          "id": "86",
+          "rarity": "Common"
         }
       ],
       "text": "Cross Gear (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\nThe crossed creature gets +1000 power and can't be blocked.",
@@ -28799,6 +28819,2173 @@
       "type": "Creature",
       "uuid": [
         "965ebe40-5483-4102-9857-83246f08d113"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 4,
+      "name": "Deep Operation",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "22",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "{SHIELD TRIGGER}\r\nDraw a card for each of your opponent's creatures in the battle zone.",
+      "type": "Spell",
+      "uuid": [
+        "af211fa9-9cd4-4736-966e-c3c2e484e4a4"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Storm Javelin Wyvern",
+      "power": "7000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "44",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Armored Wyvern"
+      ],
+      "text": "This creature can attack untapped light or water creatures. \r\nThis creature can't attack players.",
+      "type": "Creature",
+      "uuid": [
+        "153d92ba-27c4-43bb-8a3c-8bfe9519e1f0"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 3,
+      "name": "Wicked Soul Reincarnation",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "61",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "{SHIELD TRIGGER} (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.) \r\nChoose any number of your creatures in the battle zone and put them in your graveyard. Then, draw 2 cards for each creature put into your graveyard in this way.",
+      "type": "Spell",
+      "uuid": [
+        "1dd54a8d-d78f-4df9-a695-3024b0e79467"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 6,
+      "name": "Cursed Totem",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "47",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Mystery Totem"
+      ],
+      "text": "Double breaker (This creature breaks 2 shields.) \r\nYour opponent cannot use the \"shield trigger\" ability of their shields.",
+      "type": "Creature",
+      "uuid": [
+        "9f3f83fa-ed3e-48f7-9396-bbe1d79ed544"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Skeleton Vice",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "27",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "Your opponent discards 2 cards at random from his hand.",
+      "type": "Spell",
+      "uuid": [
+        "0cb41063-72f9-461c-8fca-9cb4f9b866f8"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 6,
+      "name": "Elena, Channeler of Suns",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "S1/S2",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Mecha Del Sol"
+      ],
+      "text": "This creature gets +1000 power for each light card in your graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "b45f7416-d8b8-4121-b2ef-29ab65a231de"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 7,
+      "name": "Bolsred Fire Dragon",
+      "power": "7000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "S2",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon"
+      ],
+      "text": "Double breaker\r\nWhenever this creature attacks, you may discard a Dragon from your hand. If you do, choose one of your opponent's creatures in the battle zone that has less power than the discarded card and destroy it.",
+      "type": "Creature",
+      "uuid": [
+        "e025cee0-d509-470c-87fe-f9ac9a3e8c9c"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 9,
+      "name": "Terradragon Zalberg",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "17",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Earth Dragon"
+      ],
+      "text": "When you put this creature into the battle zone, choose up to 2 cards in your opponent's mana zone and put them into his graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "fd6db651-ecb6-444e-a822-e65f1e479f43"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 3,
+      "name": "Kicky Yacoopy",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "38",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Fire Bird"
+      ],
+      "text": "This creature can attack untapped creatures.",
+      "type": "Creature",
+      "uuid": [
+        "4f42ed91-688b-4a12-9c64-9e52212f5d41"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 5,
+      "name": "Alshia, Spirit of Novas",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "3",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Angel Command"
+      ],
+      "text": "When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "e420560f-2a5e-496b-ba4e-ff09e78bf886"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 2,
+      "name": "Gett's Saw",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "89",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Xenoparts"
+      ],
+      "text": "This creature attacks each turn if able.\r\nPower attacker +1000 (While attacking, this creature gets +1000 power.)",
+      "type": "Creature",
+      "uuid": [
+        "1698581f-e5fa-4bfa-9544-fbd5cf84c843"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 5,
+      "name": "Luna Blue Dinosaur",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "2",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Cyber Moon"
+      ],
+      "text": "Blocker\r\nWhen you put this creature into the battle zone, you may draw a card.\r\nThis creature can't attack.",
+      "type": "Creature",
+      "uuid": [
+        "c721b4d5-1777-429e-8078-b64391c56d97"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 5,
+      "name": "Necrodragon Bagrazard",
+      "power": "9000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "7",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Zombie Dragon"
+      ],
+      "text": "This creature can't attack players.\r\nThis creature can attack untapped light creatures.",
+      "type": "Creature",
+      "uuid": [
+        "57a749e8-c8db-44ea-a012-eab88309a9b4"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 6,
+      "name": "Fire Barett, Armed Soldier",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "3",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Armorloid"
+      ],
+      "text": "Speed attacker\r\nWhen you put this creature into the battle zone, destroy one of your opponent's creatures that has 'Blocker'",
+      "type": "Creature",
+      "uuid": [
+        "df2ef100-2d8d-4a8a-85b0-ee4112b5c127"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Construction Mutant",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "65",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Hedrian"
+      ],
+      "text": "When this creature would be destroyed, you may return it to your hand instead. If you do, discard a card from your hand.",
+      "type": "Creature",
+      "uuid": [
+        "57925086-6eb7-4e1e-abe6-797fe89f4c47"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 5,
+      "name": "Forest Sword, Great Hero",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "1",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Beast Folk"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "Evolution-Put on one of your Beast Folk.\r\nWhen you put this creature into the battle zone, put the top card of your deck into your mana zone.\r\nPower attacker +2000",
+      "type": "Creature",
+      "uuid": [
+        "edd69ce2-3499-4ccb-8d68-cd3904cb390f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 7,
+      "name": "Necrodragon Bazradyuda",
+      "power": "7000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "S1",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Zombie Dragon"
+      ],
+      "text": "Double breaker\r\nWhen this creature would be destroyed, you may discard a Dragon from your hand. If you do, this creature stays in the battle zone instead.",
+      "type": "Creature",
+      "uuid": [
+        "56bf9a01-ea95-48a6-ac85-5f8affedce7b"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Gigajiras",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "10",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Chimera"
+      ],
+      "text": "Whenever this creature attacks, you may return a creature from your graveyard to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "f64abfbf-dfea-4ae6-b45f-a27138203460"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 1,
+      "name": "Fist Blader",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "63",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "Blocker\r\nThis creature can't attack.",
+      "type": "Creature",
+      "uuid": [
+        "8b619595-3387-4859-b938-37969ac32562"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 6,
+      "name": "Dark Hydra, Evil Planet Lord",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "S1",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Dark Lord"
+      ],
+      "text": "Double breaker\r\nWhen you put a creature into the battle zone, you may return a creature that has the same race as that creature from your graveyard to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "047f666f-35e0-41af-a8af-7d2b3618b793"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 7,
+      "name": "Mirror Force Dragon",
+      "power": "8000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "S2",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Volcano Dragon"
+      ],
+      "text": "Each of your non-Dragon creatures gets 'power attacker +4000'.",
+      "type": "Creature",
+      "uuid": [
+        "1c93a584-ead8-422a-b96a-de0e4054d0a6"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 6,
+      "name": "Magmadragon Balga Geyser",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "1",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Volcano Dragon"
+      ],
+      "text": "Whenever this creature attacks, you may reveal the top card of your deck. If that card is a Dragon put that card into the battle zone. If its not a Dragon, put that card into your graveyard.\r\nPower attacker +1000 (While attacking, this creature gets +1000 power.)",
+      "type": "Creature",
+      "uuid": [
+        "852acd17-4095-455f-b45d-f3933379888f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 3,
+      "name": "Armored Valborg",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P5",
+          "rarity": "Super Rare"
+        }
+      ],
+      "subtypes": [
+        "Human"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "Evolution - Put on one of your Humans. \r\nDouble Breaker (This creature breaks 2 shields). \r\nWhile attacking, this creature gets +1000 power for each other fire creature in the battle zone.",
+      "type": "Creature",
+      "uuid": [
+        "e9a62043-5346-4584-bb61-84828af444f9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 4,
+      "name": "Cyber Brain",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "27",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "{SHIELD TRIGGER} (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\t\r\nDraw up to 3 cards.",
+      "type": "Spell",
+      "uuid": [
+        "5d280781-11d2-4ef2-8629-7ad155ae3eda"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 8,
+      "name": "Hell Slash",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "55",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "Search your opponent's deck. Take up to 3 cards from his deck and put them into his graveyard. Then your opponent shuffles his deck.",
+      "type": "Spell",
+      "uuid": [
+        "df61933b-d11d-4ca7-ae70-8d5828b8a470"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 7,
+      "name": "Terradragon Soulgardas",
+      "power": "8000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P20/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Earth Dragon"
+      ],
+      "text": "Power Attacker +2000\r\nWhen this creature would be destroyed, you may put a Earth Dragon and a Fire Bird from your mana zone into your graveyard. If you do, this creature stays in the battle zone instead.",
+      "type": "Creature",
+      "uuid": [
+        "eac79388-1cc6-456b-8e41-e931112f3cc9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Streaming Shaper",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "20",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "Reveal the top 4 cards of your deck. Put all water cards from among them into your hand and the rest into your graveyard.",
+      "type": "Spell",
+      "uuid": [
+        "c4f3db71-e9e7-4ab6-95fc-1174b4f42aca"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light/Water"
+      ],
+      "cost": 4,
+      "name": "Glaris, Electro-Spirit",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P2/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Angel Command/Gel Fish"
+      ],
+      "text": "Your creatures can't be attacked by creatures that have the same civilization.",
+      "type": "Creature",
+      "uuid": [
+        "05c47a4a-aca7-4bc2-858d-15599c34ee19"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 2,
+      "name": "Astral Reef",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "2",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Cyber Virus"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "Evolution-Put on one of your Cyber Viruses. \r\nWhen you put this creature into the battle zone, you may draw 3 cards.",
+      "type": "Creature",
+      "uuid": [
+        "62c85ad7-20c5-4eb0-8b9e-58c4266139f1"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water/Darkness"
+      ],
+      "cost": 6,
+      "name": "Angila, Electro-Mask",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P12/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Liquid People/Devil Mask"
+      ],
+      "text": "Wave Striker: When you put this creature into the battle zone, you may return a creature that has 'Wave Striker' from your graveyard to your hand.\r\n{WAVE STRIKER}: This creature can't be blocked and has Double breaker.",
+      "type": "Creature",
+      "uuid": [
+        "774ee0bb-0dcc-4213-8217-534cfab303fe"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness/Fire"
+      ],
+      "cost": 6,
+      "name": "Galzark, Divine Destruction Dragon Knight",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P8/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon/Zombie Dragon"
+      ],
+      "text": "While you have at least one other Dragon in the battle zone, this creature gets 'Power attacker +6000' and 'Triple breaker'.\r\nDouble breaker.\r\nThis creature can't be attacked.",
+      "type": "Creature",
+      "uuid": [
+        "8a447cbb-a303-4327-80f9-117e0795a997"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 5,
+      "name": "Saberfili, the Paladin",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P9/Y2",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Rainbow Phantom"
+      ],
+      "text": "Instead of attacking, you may tap this creature to use another creature's {Tap} ability.",
+      "type": "Creature",
+      "uuid": [
+        "2aab221b-b1ed-40ba-878d-a1c92cfc06cf"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 3,
+      "name": "Necrodragon Zekira",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P33/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Zombie Dragon"
+      ],
+      "text": "When you put this creature into the battle zone, destroy one of your creatures.",
+      "type": "Creature",
+      "uuid": [
+        "5694f7de-6f43-4c73-bd13-5a529b10f470"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light/Fire"
+      ],
+      "cost": 9,
+      "name": "Zardia, Spirit of Bloody Winds",
+      "power": "5500",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P30/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Angel Command/Melt Warrior"
+      ],
+      "text": "Sympathy-Angel Command and Melt Warrior\r\nWhen you put this creature into the battle zone, choose any number of your opponent's creatures that have total power 5500 or less and destroy them. Then, add the top card of your deck to your shields face down.",
+      "type": "Creature",
+      "uuid": [
+        "600eddff-520f-4195-a2f2-605ef6c3ea71"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 6,
+      "name": "Gravity Dragon",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P2/Y4",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon"
+      ],
+      "text": "Cross gears cost 1 less to cross with this creature. It can't cost less than 1.\r\nDouble breaker (This creature breaks 2 shields",
+      "type": "Creature",
+      "uuid": [
+        "293b1635-fe60-4a0a-b4bb-752866a8cd5e"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Kamikaze Zephyr",
+      "power": "7000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P11/Y4",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Feathernoid"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "Evolution-Put on one of your Feathernoid.\r\nDouble breaker\r\nAccelerator: Whenever this creature attacks and isn't blocked, your other creatures get 'Speed attacker'.",
+      "type": "Creature",
+      "uuid": [
+        "f1d269b6-516e-4b28-ba9d-302b71b893bd"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 4,
+      "name": "Aquan",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "25",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Cyber Lord"
+      ],
+      "text": "When you put this creature into the battle zone, reveal the top 5 cards of your deck. Put all light darkness cards from the revealed cards into your hand, and put the rest into your graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "3da55908-e105-4270-b150-d5155f222f0b"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness/Fire"
+      ],
+      "cost": 10,
+      "name": "Forte, Brave Fear Lord",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P28/Y3",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Dark Lord/Human"
+      ],
+      "text": "(This creature is put into your mana zone tapped.)\r\nWhenever this creature is blocked, destroy all of your opponent's creatures that have 'blocker'.\r\nDouble breaker",
+      "type": "Creature",
+      "uuid": [
+        "1ed1889a-fbbb-4fd8-ab52-c7589b0dd018"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 7,
+      "name": "Dark Jios, Lord of Dark Dragons",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P16/Y4",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Demon Command"
+      ],
+      "text": "Gravity Zero-If your opponent has 6 or more creatures in his graveyard, you may summon this creature for no cost.\r\nWhenever your Dragons attack, your opponent chooses one of his creatures and destroys it.",
+      "type": "Creature",
+      "uuid": [
+        "a4568ee5-1894-4f2b-8e77-55c376797dbb"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 3,
+      "name": "Magmadragon Gardos",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P26/Y4",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Volcano Dragon"
+      ],
+      "text": " Speed attacker (This creature doesn't get summoning sickness.)\r\nThis creature can't attack players.\r\nAt the end of your turn, return this creature to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "d13ed1db-47e1-407f-9806-ad0c69bbf43a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Überdragon Baham",
+      "power": "11000",
+      "printings": [
+        {
+          "set": "Promotional",
+          "id": "P14/Y2",
+          "rarity": "Promotional"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "Evolution - Armored Dragon.\r\nWhenever this creature attacks your opponent's shields, this creature breaks an additional shield for each of your Dragonoids in the battle zone.",
+      "type": "Creature",
+      "uuid": [
+        "5f2a7c71-adc0-4ea3-afb9-3c1999c2cb5e"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 7,
+      "name": "Valkerios Dragon",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "4",
+          "rarity": "Very Rare"
+        },
+        {
+          "set": "Promotional",
+          "id": "4",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon"
+      ],
+      "text": "G Zero: If there are 2 or more Armored Dragons in the battle zone, you may summon this monster without paying its mana cost.\r\nDouble Breaker",
+      "type": "Creature",
+      "uuid": [
+        "f3f7f83e-daf8-4327-b963-6a4f13fd4d6c",
+        "f4f7f83e-daf8-4327-b963-6a4f13fd4d6c"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Malibu Dancer",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "25",
+          "rarity": "Uncommon"
+        },
+        {
+          "set": "Promotional",
+          "id": "25",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Splash Queen"
+      ],
+      "text": "[Blocker] Blocker\r\nWhen this creature blocks, you may draw a card.\r\nThis creature can't attack.",
+      "type": "Creature",
+      "uuid": [
+        "c06f975c-3b25-4296-8890-edca5339a0ec",
+        "c16f975c-3b25-4296-8890-edca5339a0ec"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 9,
+      "name": "Altgear, Holy Weaponry Elemental",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "1",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Angel Command"
+      ],
+      "text": "■ When you put this creature into the battle zone, you may choose a cross gear from your mana zone or graveyard and put it into the battle zone. Cross that cross gear with this creature for no cost.\n{DOUBLE BREAKER}",
+      "type": "Creature",
+      "uuid": [
+        "370d904f-864f-4aba-b0d8-d5d36e16a76a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 7,
+      "name": "Gaiacrush Crawler",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "2",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Earth Eater"
+      ],
+      "text": "■ Neither player can untap spells in their mana zone.\n{DOUBLE BREAKER}",
+      "type": "Creature",
+      "uuid": [
+        "bac1806e-845e-492e-a1b7-d9a685676ed4"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 12,
+      "name": "Dulanzames, Jet-Black War Demon",
+      "power": "12000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "3",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Demon Command"
+      ],
+      "text": "{GRAVITY ZERO} If there are 3 or more Demon Commands in the battle zone, you may summon this creature for no cost.\n■ When you put this creature into the battle zone, return all creatures in your graveyard to your hand.\n{TRIPLE BREAKER}",
+      "type": "Creature",
+      "uuid": [
+        "2811fe78-f4ab-4226-891a-f294f6fdca0e"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 7,
+      "name": "Commanding Leopard Horn",
+      "power": "1000+",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "5",
+          "rarity": "Very Rare"
+        }
+      ],
+      "subtypes": [
+        "Horned Beast"
+      ],
+      "text": "{GRAVITY ZERO} If there are 8 or more creatures in the battle zone, you may summon this creature for no cost.\n■ This creature gets +1000 power for each other creature in the battle zone.\n■ This creature can't be blocked by creatures that have less power than it.",
+      "type": "Creature",
+      "uuid": [
+        "90783eef-7a01-4f4a-8dae-3bac87e0dc9a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 2,
+      "name": "Rustle, Vizier of Waltz",
+      "power": "1500",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "6",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Initiate"
+      ],
+      "text": "■ When you would discard a card during your opponent's turn, you may destroy this creature instead.",
+      "type": "Creature",
+      "uuid": [
+        "d17d203f-812c-4916-8eee-d1697496825f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 6,
+      "name": "Heaven's Gate",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "7",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "{SHIELD TRIGGER} (When this card is put into your hand from your shield zone, you may cast/summon it immediately for no cost.)\n■ Put up to 2 non-evolution light creatures that have \"blocker\" from your hand.",
+      "type": "Spell",
+      "uuid": [
+        "653955bf-bb79-4093-83ca-714d2aba9614"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 5,
+      "name": "Impact Absorber",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "8",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ When the crossed creature would be destroyed, add it to your shields face down instead.\n■ While this card isn't crossed with a creature, creatures can only break 1 shield per attack.",
+      "type": "Cross Gear",
+      "uuid": [
+        "15acdef1-7aeb-48da-8884-09871675825f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Marshall Queen",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "9",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Splash Queen"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "■ Evolution: Put on one of your Splash Queen creatures.\n■ When you put this creature, shieldify up to 3 cards from your hand. Then break the same number of your shields.",
+      "type": "Creature",
+      "uuid": [
+        "a62e36d1-5913-4643-9412-0488f401f4c9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 5,
+      "name": "Cool Reaction",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "10",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "{SHIELD TRIGGER} (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\n■ Choose a civilization. Draw a card for each of your opponent's creatures in the battle zone that have the chosen civilization.",
+      "type": "Spell",
+      "uuid": [
+        "72053afc-e9b0-4909-bd46-ce3ef0f6c94f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 4,
+      "name": "Noble Enforcer",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "11",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ The crossed creature can't be attacked or blocked by creatures that have power 2000 or less.\n■ While this card isn't crossed with a creature, creatures that have power 2000 or less can't attack or block.",
+      "type": "Cross Gear",
+      "uuid": [
+        "3f37a7d1-1a12-4fe9-9a7c-a90b7eb5b749"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Death Waltz, Demon of Death",
+      "power": "5000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "12",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Gargoyle"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "■ Evolution—Put on one of your Gargoyles.\n■ When you put this creature into the battle zone, each player chooses one of their shields and puts it into their graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "b1766adc-8854-437a-b5a5-c3a094be9f67"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 5,
+      "name": "Accident Eye",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "13",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ Destroy all creatures that are crossed with cross gear.",
+      "type": "Spell",
+      "uuid": [
+        "c98795c5-4268-43d5-91e4-3b1660786ec0"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Immortal Blade",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "14",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ Whenever the crossed creature attacks, you may return a creature from your graveyard to your hand.\n■ While this card isn't crossed with a creature, each creature in the battle zone gets \"slayer\".",
+      "type": "Cross Gear",
+      "uuid": [
+        "ab0c3a2f-fec9-4f4e-9ee1-2b11a8c36b62"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 9,
+      "name": "X Revolver Dragon",
+      "power": "9000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "15",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Armored Dragon"
+      ],
+      "text": "■ When you put this creature into the battle zone, choose 3 cards from your mana zone and put the rest into your graveyard. Then your opponent chooses 3 cards from their mana zone and puts the rest into their graveyard.\n{DOUBLE BREAKER}",
+      "type": "Creature",
+      "uuid": [
+        "7ebb15c3-0bf7-4c1a-b080-7213d407915c"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 6,
+      "name": "Sky Soldier Wingraios",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "16",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Armorloid"
+      ],
+      "text": "{SHIELD TRIGGER} (When this creature is put into your hand from your shield zone, you may summon it immediately for no cost.)\n■ When you put this creature into the battle zone, destroy one of your creatures. Then your opponent chooses one of their creatures and destroys it.",
+      "type": "Creature",
+      "uuid": [
+        "8d37d5a8-e8e8-44fc-9b5b-c4c255dcc492"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 5,
+      "name": "Sky Jet",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "17",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ The crossed creature gets \"power attacker +4000\".\n■ While this card isn't crossed with a creature, each creature in the battle zone gets \"speed attacker\".",
+      "type": "Cross Gear",
+      "uuid": [
+        "3a57b581-90bb-4547-9818-a16bd8b41379"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 4,
+      "name": "Throwing Totem",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "18",
+          "rarity": "Rare"
+        }
+      ],
+      "subtypes": [
+        "Mystery Totem"
+      ],
+      "text": "{ACCELERATOR} (While this creature is crossed with a cross gear, this creature gets the following Accelerator ability.)\nWhenever this creature attacks, search your deck. You may take a creature or cross gear from your deck, show that card to your opponent, and put it into your hand. Then shuffle your deck.",
+      "type": "Creature",
+      "uuid": [
+        "344725c0-75af-45bf-83fc-4f52fb38c3c9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 4,
+      "name": "Mobile Forest",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "19",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ The crossed creature gets +3000 power.\n■ While this card isn't crossed with a creature, your creatures each cost 1 less to summon. They can't cost less than 1.",
+      "type": "Cross Gear",
+      "uuid": [
+        "d9caef3f-4f11-4769-b8c5-5503a5cb1101"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 4,
+      "name": "Drum Spirit",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "20",
+          "rarity": "Rare"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ Instead of having the crossed creature attack, you may tap it to use this {TAP} ability:\n{TAP} Search your deck. You may take a non-evolution creature that has the same name as the crossed creature, and put it into the battle zone. Then shuffle your deck.",
+      "type": "Cross Gear",
+      "uuid": [
+        "5f1d3843-d8bc-402e-8f40-8955385f3d13"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 4,
+      "name": "Sveta, Channeler of Suns",
+      "power": "4000+",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "21",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Mecha Del Sol"
+      ],
+      "text": "{BLOCKER} (You may tap this creature to change the attack target of your opponent's creature to this creature.)\n■ This creature can't attack players.\n■ While battling a Demon Command or Dragon creature, this creature gets +4000 power.",
+      "type": "Creature",
+      "uuid": [
+        "7bf5e969-ba5b-4f45-8bce-d2ae91114713"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 4,
+      "name": "Gran Siris, Milky Way Guardian",
+      "power": "2000+",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "22",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Guardian"
+      ],
+      "text": "{GRAVITY ZERO} If you have a crossed creature in the battle zone, you may summon this creature for no cost.\n■ Each creature crossed with a cross gear gets +1000 power.",
+      "type": "Creature",
+      "uuid": [
+        "eebce034-44a3-437d-bb87-8d61e1a0971d"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 2,
+      "name": "Solario, the Patroller",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "23",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Cosmo Walker"
+      ],
+      "text": "{BLOCKER} (You may tap this creature to change the attack target of your opponent's creature to this creature.)\n■ This creature can't attack players.\n■ When this creature is destroyed during your opponent's turn, untap all your creatures.",
+      "type": "Creature",
+      "uuid": [
+        "1e0cd66b-c3e2-4ddd-902d-57d8bafb252a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 5,
+      "name": "Aqua Wizard",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "24",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Liquid People"
+      ],
+      "text": "■ When you put this creature into the battle zone, choose a cross gear in the battle zone and put it on top of its owner's deck.",
+      "type": "Creature",
+      "uuid": [
+        "0067cd64-8a25-4479-83b4-5d0938f317a8"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Command Device",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "26",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ Each of your creatures in the battle zone that have the same race as the crossed creature gets +1000 power.\n■ Whenever creatures that have the same race as the crossed creature attack, you may draw a card.",
+      "type": "Cross Gear",
+      "uuid": [
+        "478d2068-bd7f-4a89-a85e-f833208bc221"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 5,
+      "name": "Morse, Grave Robber Doll",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "27",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Death Puppet"
+      ],
+      "text": "{GRAVITY ZERO} If you have 6 or more creatures in your graveyard, you may summon this creature for no cost.\n■ When you put this creature, return a creature from your graveyard to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "468a49b3-dc9d-475d-bc24-84a7101fccf9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 3,
+      "name": "Bad Tambourine",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "28",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Gargoyle"
+      ],
+      "text": "{BLOCKER} (You may tap this creature to change the attack target of your opponent's creature to this creature.)\n■ This creature can't attack.\n■ When this creature is destroyed, your opponent chooses a card from their hand and discards it.",
+      "type": "Creature",
+      "uuid": [
+        "5cdd5ae6-9e00-4c5a-ae60-b7c7bd7c5741"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 2,
+      "name": "Gigazanda",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "29",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Chimera"
+      ],
+      "text": "{ACCELERATOR} (While this creature is crossed with a cross gear, this creature gets the following Accelerator ability.)\nWhenever this creature attacks your opponent and isn't blocked, search your opponent's deck. Choose a card from among it and put it into their graveyard. Then your opponent shuffles their deck.",
+      "type": "Creature",
+      "uuid": [
+        "93a04906-7947-46f9-beff-e1bcfabf601a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 3,
+      "name": "Blaze, the Super Soul",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "30",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Big Muscle"
+      ],
+      "supertypes": [
+        "Evolution"
+      ],
+      "text": "■ Evolution—Put on one of your Big Muscles.\n■ This creature can attack untapped crossed creatures.\n{DOUBLE BREAKER}",
+      "type": "Creature",
+      "uuid": [
+        "b5fd4611-53fc-4841-80a9-07c10184f892"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Brother Lizard",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "31",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Melt Warrior"
+      ],
+      "text": "{GRAVITY ZERO} If there is a 'Brother Lizard' in the battle zone, you may summon this creature for no cost.",
+      "type": "Creature",
+      "uuid": [
+        "d2c01028-07e1-4bc0-a6d1-9310f09009fe"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 3,
+      "name": "Metal Cook's Timer",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "32",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Xenoparts"
+      ],
+      "text": "Instead of having this creature attack, you may tap it to use its {TAP} ability.\n{TAP} Untap one of your other creatures in the battle zone.",
+      "type": "Creature",
+      "uuid": [
+        "676cfd03-4f91-452d-a380-15047559d813"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 4,
+      "name": "Shaman, the Invoked",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "33",
+          "rarity": "Uncommon"
+        }
+      ],
+      "subtypes": [
+        "Wonder Trick"
+      ],
+      "text": "■ Whenever you cross this creature with a cross gear, put the top card of your deck into your mana zone tapped.",
+      "type": "Creature",
+      "uuid": [
+        "55eb6e0b-2fdd-45a8-934c-92ec2304ff4f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 6,
+      "name": "Stomach Garden",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "34",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "■ Choose one of your opponent's creatures in the battle zone and put it and all cross gear crossed with that creature into its owner's mana zone.",
+      "type": "Spell",
+      "uuid": [
+        "6ba62b7b-54b0-4ca1-bcaa-26716c04be97"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 3,
+      "name": "Chain Helix",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "35",
+          "rarity": "Uncommon"
+        }
+      ],
+      "text": "■ {CROSS GEAR} (Put this card into the battle zone. To cross this card with a creature, pay this card's cost again. When that creature leaves the battle zone, this card remains in the battle zone.)\n■ Each of your creatures in the battle zone that have the same race as the crossed creature gets +2000 power.",
+      "type": "Cross Gear",
+      "uuid": [
+        "f0e743ed-a9ea-4e6e-8172-fb896e1baafe"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 5,
+      "name": "Zemechis, the Explorer",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "36",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Gladiator"
+      ],
+      "text": "■ When you put this creature into the battle zone, you may choose one of your opponent's cross gear in the battle zone and put it into its owner's graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "ceed7c7a-9b7e-4c62-9164-3cd5f4b26f4d"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 5,
+      "name": "Reincarnal, the Paladin",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "37",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Rainbow Phantom"
+      ],
+      "text": "■ When you put this creature into the battle zone, you may choose a cross gear in your graveyard and return it to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "7d5b7c44-6d1f-46b5-b523-c6baec022f67"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 3,
+      "name": "Cubic, the Oracle",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "38",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Light Bringer"
+      ],
+      "text": "■ When you put this creature into the battle zone, reveal the top card of your deck. If that card is a spell, put it into your hand. If it's not, put it into your graveyard.",
+      "type": "Creature",
+      "uuid": [
+        "a7a11524-360e-4613-bb88-5b6c49345b8f"
+      ]
+    },
+    {
+      "civilizations": [
+        "Light"
+      ],
+      "cost": 2,
+      "name": "Webius, the Patroller",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "39",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Cosmo Walker"
+      ],
+      "text": "{BLOCKER} (You may tap this creature to change the attack target of your opponent's creature to this creature.)\n{GRAVITY ZERO} If there is an Angel Command in the battle zone, you may summon this creature for no cost.\n■ This creature can't attack players.",
+      "type": "Creature",
+      "uuid": [
+        "373b4c8c-3c2b-4439-8e70-37dd0f1b1a39"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 4,
+      "name": "Kibinok",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "40",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Sea Hacker"
+      ],
+      "text": "■ This creature can't attack creatures.",
+      "type": "Creature",
+      "uuid": [
+        "3e38f922-b693-4634-9803-d5c193d9d465"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Eclipse Lunatron",
+      "power": "6000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "41",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Cyber Moon"
+      ],
+      "text": "{BLOCKER} (You may tap this creature to change the attack target of your opponent's creature to this creature.)\n■ This creature can't attack.\n■ When you put another creature into the battle zone, return this creature to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "dfb0e979-dc67-4842-bc90-08352a2e219a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 3,
+      "name": "Paradise Aroma",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "42",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Cyber Virus"
+      ],
+      "text": "{GRAVITY ZERO} If there is a Cyber Lord in the battle zone, you may summon this creature for no cost.",
+      "type": "Creature",
+      "uuid": [
+        "1c73a5ae-9156-409d-97ac-3e32fc9b1093"
+      ]
+    },
+    {
+      "civilizations": [
+        "Water"
+      ],
+      "cost": 2,
+      "name": "Pacific Dominator",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "43",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Merfolk"
+      ],
+      "text": "{METAMORPH} (If you have 7 or more cards in your mana zone, this creature gets the following Metamorph ability.)\n{METAMORPH}: This creature can't be blocked.",
+      "type": "Creature",
+      "uuid": [
+        "71de92d6-ca1a-4819-abe3-8266ea2123e6"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 4,
+      "name": "Jenny, the Dismantling Puppet",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "44",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Death Puppet"
+      ],
+      "text": "■ When you put this creature, look at your opponent's hand and discard a card from it.",
+      "type": "Creature",
+      "uuid": [
+        "b4fcc648-df01-4ae5-8bd9-46c27a81b83a"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 3,
+      "name": "Bone Ripper, Devourer of Bones",
+      "power": "4000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "45",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Devil Mask"
+      ],
+      "text": "■ When you put this creature into the battle zone, discard a card from your hand.",
+      "type": "Creature",
+      "uuid": [
+        "52c8a98b-799c-4c62-83b4-a0b7bba623ad"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 2,
+      "name": "Mad Guitar",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "46",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Gargoyle"
+      ],
+      "text": "{GRAVITY ZERO} If there is a Demon Command in the battle zone, you may summon this creature for no cost.",
+      "type": "Creature",
+      "uuid": [
+        "887bc2f8-8b2d-416e-aa93-538147c54481"
+      ]
+    },
+    {
+      "civilizations": [
+        "Darkness"
+      ],
+      "cost": 1,
+      "name": "Bind Shadow, Shadow of Bondage",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "47",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Ghost"
+      ],
+      "text": "■ This creature is put tapped.\n■ Darkness creatures are put tapped.",
+      "type": "Creature",
+      "uuid": [
+        "df4a5fe8-27ac-49e2-a422-6ac835c93986"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Atomic Giganto",
+      "power": "3000+",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "48",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Big Muscle"
+      ],
+      "text": "■ Whenever this creature attacks, you may discard a card from your hand. If you do, this creature gets +3000 power and \"double breaker\" until the end of the turn.",
+      "type": "Creature",
+      "uuid": [
+        "987d170a-76f3-443c-8abb-ae903e0b7698"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 4,
+      "name": "Fokker, Rider of the North Wind",
+      "power": "1000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "49",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Feathernoid"
+      ],
+      "text": "{GRAVITY ZERO} If there is an Armored Wyvern in the battle zone, you may summon this creature for no cost.\n{SPEED ATTACKER} (This creature doesn't get summoning sickness.)",
+      "type": "Creature",
+      "uuid": [
+        "231a158f-ef51-45bd-a24e-e5599dd8eefb"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 2,
+      "name": "Vinja, Fighter of the Whirlwind",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "50",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Feathernoid"
+      ],
+      "type": "Creature",
+      "uuid": [
+        "d3d63fec-46b7-4229-9810-2a4d9e8a4bf1"
+      ]
+    },
+    {
+      "civilizations": [
+        "Fire"
+      ],
+      "cost": 1,
+      "name": "Drill Squall",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "51",
+          "rarity": "Common"
+        }
+      ],
+      "text": "■ Put a card from your mana zone into your graveyard. Then your opponent chooses a card in their mana zone and puts it into their graveyard.",
+      "type": "Spell",
+      "uuid": [
+        "b864813b-c642-43b4-88fc-45c0e31d58f9"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 4,
+      "name": "Rei Lin, Smile Faerie",
+      "power": "3000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "52",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Snow Faerie"
+      ],
+      "text": "■ Whenever a cross gear is put into the battle zone, you may return a card from your mana zone to your hand.",
+      "type": "Creature",
+      "uuid": [
+        "b5c81fcd-d05e-4464-acf4-5993ffcae887"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 3,
+      "name": "Sniff Mushroom",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "53",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Wild Veggies"
+      ],
+      "text": "■ When this creature is destroyed, you may put any number of cards from your hand into your mana zone.",
+      "type": "Creature",
+      "uuid": [
+        "4bad8f8b-9c45-48d6-b155-d07d932220e1"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 3,
+      "name": "Power Blazer",
+      "power": "2000+",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "54",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Beast Folk"
+      ],
+      "text": "■ While you have an evolution creature in the battle zone, this creature gets +3000 power.",
+      "type": "Creature",
+      "uuid": [
+        "deb3fe77-fbf2-46fe-a834-b5e7c4dab6ea"
+      ]
+    },
+    {
+      "civilizations": [
+        "Nature"
+      ],
+      "cost": 3,
+      "name": "Buu, the Invoked",
+      "power": "2000",
+      "printings": [
+        {
+          "set": "DM-16 Origin of Perfect Gear",
+          "id": "55",
+          "rarity": "Common"
+        }
+      ],
+      "subtypes": [
+        "Wonder Trick"
+      ],
+      "text": "{GRAVITY ZERO} If there is a Horned Beast in the battle zone, you may summon this creature for no cost.",
+      "type": "Creature",
+      "uuid": [
+        "1359b302-2a8f-4557-9ac8-bfc9b5832d9f"
       ]
     }
   ]
